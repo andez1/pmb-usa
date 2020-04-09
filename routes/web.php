@@ -15,6 +15,16 @@
  * Landing Page for Portal
  */
 Route::get('/', 'LandingController@index')->name('landing.index');
+
+/**
+ * Academic
+ */
+Route::get('/penyiaran', 'AcademicController@penyiaran');
+Route::get('/manajemen', 'AcademicController@manajemen');
+Route::get('/akuntansi', 'AcademicController@akuntansi');
+Route::get('/sistem-informasi', 'AcademicController@sistemInformasi');
+Route::get('/teknologi-informasi', 'AcademicController@teknologiInformasi');
+
 /**
  * Student Registrant
  */
