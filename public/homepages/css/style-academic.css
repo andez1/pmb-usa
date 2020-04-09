@@ -1,0 +1,15 @@
+.content-akademik {
+    padding: 24px;
+}
+
+.col-3 {
+    border-right: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.col-9 {
+    padding-left: 24px;
+}
+
+label {
+    color: rgba(0, 0, 0, 0.8);
+}
