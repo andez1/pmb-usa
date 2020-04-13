@@ -544,13 +544,10 @@
 								<div class="widget footer_widget">
 									<h5 class="footer-title">USA</h5>
 									<ul>
-										<li><a href="#">Beranda</a></li>
-										<li><a href="#">Tentang Kami</a></li>
+										<li><a href="/">Beranda</a></li>
+										<li><a href="{{ route('landing.about') }}">Tentang Kami</a></li>
 										<li><a href="#">Tanya Jawab</a></li>
 										<li><a href="#">Kontak</a></li>
-										<li><a href="{{ url('/marketing-promosi') }}">Marketing dan Promosi</a></li>
-										<li><a href="{{ url('/pelatihan-bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
-										<li><a href="{{ url('/teaser-video-pembelajaran') }}">Teaser Video Pembelajaran</a></li>
 									</ul>
 								</div>
 							</div>

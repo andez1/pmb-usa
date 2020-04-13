@@ -68,7 +68,7 @@
 				<div class="row d-flex justify-content-between">
 					<div class="topbar-left">
 						<ul>
-							<li><a href="#"><i class="fa fa-question-circle"></i>Ask a Question</a></li>
+							<li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a></li>
 							<li><a href="javascript:;"><i class="fa fa-envelope-o"></i>bak@usa.edu</a></li>
 						</ul>
 					</div>
@@ -130,8 +130,14 @@
 							<li>
 								<a href="/">Beranda</a>
 							</li>
-							<li>
-								<a href="{{ route('landing.about') }}">Tentang USA</i></a>
+							<li><a href="javascript:;">Tentang USA <i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="{{ route('landing.about') }}">Tentang USA</i></a></li>
+									<li><a href="{{ route('landing.marketing_promosi') }}">Marketing dan Promosi</a></li>
+									<li><a href="{{ route('landing.pelatihan_bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
+									<li><a href="{{ route('landing.teaser_video_pembelajaran') }}">Teaser Video Pembelajaran</a></li>
+									<li><a href="{{ route('landing.faq') }}">FAQ</a></li>
+								</ul>
 							</li>
 							<li class="active"><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
@@ -408,8 +414,8 @@
 								<div class="widget footer_widget">
 									<h5 class="footer-title">USA</h5>
 									<ul>
-										<li><a href="#">Beranda</a></li>
-										<li><a href="#">Tentang Kami</a></li>
+										<li><a href="/">Beranda</a></li>
+										<li><a href="{{ route('landing.about') }}">Tentang Kami</a></li>
 										<li><a href="#">Tanya Jawab</a></li>
 										<li><a href="#">Kontak</a></li>
 									</ul>
@@ -419,11 +425,11 @@
 								<div class="widget footer_widget">
 									<h5 class="footer-title">Program Studi</h5>
 									<ul>
-										<li><a href="http://educhamp.themetrades.com/admin/index.html">Penyiaran dan Komunikasi Digital</a></li>
-										<li><a href="blog-classic-grid.html">Manajemen Kontemporer</a></li>
-										<li><a href="portfolio.html">Akuntansi dan Perpajakan</a></li>
-										<li><a href="event.html">Sistem Informasi</a></li>
-										<li><a href="event.html">Teknologi Informasi</a></li>
+										<li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
+										<li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
+										<li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan Perpajakan</a></li>
+										<li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
+										<li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
 									</ul>
 								</div>
 							</div>
