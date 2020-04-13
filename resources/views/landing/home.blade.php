@@ -130,7 +130,7 @@
 							<li class="active">
 								<a href="/">Beranda</a>
 							</li>
-							<li><a href="javascript:;">Tentang USA <i class="fa fa-chevron-down"></i></a>
+							<li><a href="{{ route('landing.about') }}">Tentang USA <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li><a href="{{ route('landing.marketing_promosi') }}">Marketing dan Promosi</a></li>
 									<li><a href="{{ route('landing.pelatihan_bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
