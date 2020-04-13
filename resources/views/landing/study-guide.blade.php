@@ -127,13 +127,13 @@
 							<a href="index.html"><img src="{{ asset('homepages/images/logo.png') }}" alt=""></a>
 						</div>
                         <ul class="nav navbar-nav navigation">	
-							<li class="active">
+							<li>
 								<a href="/">Beranda</a>
 							</li>
 							<li>
 								<a href="{{ route('landing.about') }}">Tentang USA</i></a>
 							</li>
-							<li><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
+							<li class="active"><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
 									<li><a href="{{ route('landing.academic_info') }}">Info Akademik</a></li>
@@ -167,7 +167,7 @@
         <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
             <div class="container">
                 <div class="page-banner-entry">
-                    <h1 class="text-white">Pendaftaran Mahasiswa (Student Admission)</h1>
+                    <h1 class="text-white">Panduan Pembelajaran</h1>
 				 </div>
             </div>
         </div>
@@ -176,7 +176,7 @@
 				<ul class="list-inline">
 					<li><a href="#">Beranda</a></li>
 					<li>Akademik</li>
-					<li>Info Pendaftaran</li>
+					<li>Panduan Pembelajaran</li>
 				</ul>
 			</div>
 		</div>
@@ -191,165 +191,47 @@
 							<div class="feature-container">
 								<div class="icon-content mb-2">
 									<p style="text-align: justify">
-                                        Mari bergabung menjadi Mahasiswa Universitas Siber Asia, menyongsong masa depan cerah di Era Smart Digital Society.</br>
+										Aktifitas pembelajaran di LMS (Learning Management System) dapat digambarkan sebagai berikut:
                                     </p>
-                                    <p style="text-align: justify">
-                                        Syarat Pendaftaran untuk beberapa jalur:
+									<div class="text-center mb-5">
+										<img src="{{ asset('homepages/images/study/study-image1.png') }}" alt="">
+									</div>
+									<p style="text-align: justify">
+										Aktifitas dalam 1 minggu perkuliahan online di LMS dapat digambarkan sebagai berikut:
                                     </p>
+									<div class="text-center mb-5">
+										<img src="{{ asset('homepages/images/study/study-image2.png') }}" alt="">
+									</div>
+									<p style="text-align: justify">
+										Untuk itu setiap mahasiswa wajib untuk senantiasa mematuhi jadwal akademik setiap mata kuliah dan pada saat Video Conferencing adalah waktu interaksi yang berkarakteritik sinkron, yakni waktu dosen dan mahasiswa harus bersamaan.
+                                    </p>
+									<div class="text-center mb-5">
+										<img src="{{ asset('homepages/images/study/study-image3.png') }}" alt="">
+									</div>
+									<p style="text-align: justify">
+										Aktifitas 1 minggu perkuliahan online untuk setiap mata kuliah di LMS dapat digambarkan sebagai berikut:
+                                    </p>
+									<div class="text-center mb-5">
+										<img src="{{ asset('homepages/images/study/study-image4.png') }}" alt="">
+									</div>
+									<p style="text-align: justify">
+										Aktifitas 1 semester dalam 16 minggu dapat digambarkan sebagai berikut:
+                                    </p>
+									<div class="text-center mb-5">
+										<img src="{{ asset('homepages/images/study/study-image5.png') }}" alt="">
+									</div>
+									<p style="text-align: justify">
+										Kewajiban mahasiswa dalam menjalankan kuliah online via LMS:
+                                    </p>
+									<div class="ml-4">
+										1.	Wajib senantiasa per hari untuk mengakses LMS </br>
+										2.	Wajjib mematuhi arahan dan penjelasan dosen di LMS </br>
+										3.	Wajib mengerjakan soal Quiz mingguan yang diberikan dosen </br>
+										4.	Wajib mengerjakan tugas-tugas yang diberikan oleh dosen </br>
+										5.	Tidak boleh menunda pengerjaan quiz mingguan atau tugas semester </br>
+										6.	Wajib dalam waktu yang sama pada saat Video Conferencing dengan dosen.
+									</div>
 								</div>
-                                <div class="ml-4">
-                                    <h6>1. Jalur Regular</h6>
-                                    <p style="padding-left: 18px; text-align: justify">
-                                        Merupakan jalur perkuliahan online regular dengan jadwal video conference dengan dosen pada hari aktif Senin – Jumat dan jam kerja 08.00 WIB – 17.00 WIB.</br>
-                                        <strong>Persyaratan Administratif:</strong></br>
-                                        &nbsp;&nbsp;&nbsp;1. Ijazah SMA/SMK/MAN</br>
-                                        &nbsp;&nbsp;&nbsp;2. KTP atau Kartu Keluarga atau identitas lain.</br>
-                                        &nbsp;&nbsp;&nbsp;3. Foto 4x6</br>
-                                        Nb. Semua dokumen dalam bentuk digital, dapat dipindai (scanning) atau difoto dengan handphone dengan resolusi image yang jelas.
-                                    </p>
-                                    <h6>2. Jalur Kelas Karyawan</h6>
-                                    <p style="padding-left: 18px; text-align: justify">
-                                        Merupakan jalur perkuliahan online untuk pekerja di perkantoran atau sektor industry atau sektor informal (pegawai Ojek Online/pekerja yang waktunya terbatas) dengan metode perkuliahan online yang didukung oleh video conference dengan dosen pada hari aktif Senin – Sabtu dan jam kerja 17.00 WIB – 21.30 WIB.
-                                    </p>
-                                    <p style="padding-left: 18px; text-align: justify">
-                                        Merupakan jalur perkuliahan online untuk pekerja di perkantoran atau sektor industry atau sektor informal (pegawai Ojek Online/pekerja yang waktunya terbatas) dengan metode perkuliahan online yang didukung oleh video conference dengan dosen pada hari aktif Senin – Sabtu dan jam kerja 17.00 WIB – 21.30 WIB.</br>
-                                        <strong>Persyaratan Administratif:</strong></br>
-                                        &nbsp;&nbsp;&nbsp;1. Ijazah SMA/SMK/MAN/Kejar Paket C</br>
-                                        &nbsp;&nbsp;&nbsp;2. KTP atau Kartu Keluarga atau identitas lain.</br>
-                                        &nbsp;&nbsp;&nbsp;3. Foto 4x6</br>
-                                        Nb. Semua dokumen dalam bentuk digital, dapat dipindai (scanning) atau difoto dengan handphone dengan resolusi image yang jelas.
-                                    </p>
-                                    <h6>3. Jalur Kelas Tenaga Kerja Asing (TKI) Luar Negeri</h6>
-                                    <p style="padding-left: 18px; text-align: justify">
-                                        Merupakan jalur perkuliahan online untuk Warga Negara Indonesia yang sedang bekerja di Luar Negeri (TKI) seperti (Korea, Arab Saudi, Taiwan, Hongkong, Malaysia, dll) dengan metode perkuliahan online yang didukung oleh video conference dengan dosen pada hari aktif Senin – Sabtu dan jam kerja 17.00 WIB – 21.30 WIB.</br>
-                                        <strong>Persyaratan Administratif:</strong></br>
-                                        &nbsp;&nbsp;&nbsp;1. Ijazah SMA/SMK/MAN/Kejar Paket C</br>
-                                        &nbsp;&nbsp;&nbsp;2. KTP atau Kartu Keluarga atau identitas lain.</br>
-                                        &nbsp;&nbsp;&nbsp;3. Foto Paspor yang masih berlaku</br>
-                                        &nbsp;&nbsp;&nbsp;4. Foto Visa Kerja di negara tempat bekerja</br>
-                                        &nbsp;&nbsp;&nbsp;5. Foto 4x6</br>
-                                        Nb. Semua dokumen dalam bentuk digital, dapat dipindai (scanning) atau difoto dengan handphone dengan resolusi image yang jelas.
-                                    </p>
-                                    <h6>4. Jalur Transfer/Pindahan/Studi Lanjut D1-D3 (Diploma) ke S1 (Strata 1)</h6>
-                                    <p style="padding-left: 18px; text-align: justify">
-                                        Merupakan jalur perkuliahan online untuk mahasiswa yang telah lulus dari Program Diploma Perguruan Tinggi dalam dan luar negeri untuk memasuki Program Studi S1 di Universitas Siber Asia dengan konversi jumlah SKS (Satuan Kredit Semester) yang telah ditempuh. Sisa SKS yang akan ditempuh minimal adalah (144 SKS – N SKS) dimana  N SKS adalah jumlah SKS yang telah ditempuh dari program diploma (D1, D2, dan D3).</br>
-                                        <strong>Persyaratan Administratif:</strong></br>
-                                        &nbsp;&nbsp;&nbsp;1. Ijazah D1 atau D2 atau D3</br>
-                                        &nbsp;&nbsp;&nbsp;2. Transkrip Nilai D1 atau D2 atau D3</br>
-                                        &nbsp;&nbsp;&nbsp;3. KTP atau Kartu Keluarga atau identitas lain.</br>
-                                        &nbsp;&nbsp;&nbsp;4. Foto 4x6</br>
-                                        Nb. Semua dokumen dalam bentuk digital, dapat dipindai (scanning) atau difoto dengan handphone dengan resolusi image yang jelas.
-                                    </p>
-                                </div>
-                                <div class="mt-3">
-                                    <h6>Standar Biaya Pendaftaran</h6>
-                                    <p>
-                                        Biaya pendaftaran untuk setiap jalur dikenakan sebesar Rp. 300.000,00
-                                    </p>
-                                </div>
-                                <div class="mt-3">
-                                    <h6>Standar Biaya Perkuliahan</h6>
-                                    <p style="text-align: justify">
-                                        Setiap mahasiswa yang telah diterima di Universitas Siber Asia memiliki kewajiban Administratif pembayaran yakni UPP (Uang Pengembangan Pendidikan) dan Uang Paket Semester. Selain itu terdapat kewajiban di akhir semester yakni pembayaran uang Sidang Skripsi online.
-                                    </p>
-                                </div>
-                                <div class="text-center mt-3">
-                                    <h6>Biaya Pendidikan Per Semester</h6>
-                                    <table class="table">
-                                        <thead style="background-color: #A5C1E1">
-                                            <tr>
-                                            <th scope="col">Program Studi</th>
-                                            <th scope="col">UPP</th>
-                                            <th scope="col">UPS</th>
-                                            <th scope="col">Jumlah</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr class="text-left">
-                                                <td>Manajemen (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                                <td>Rp. 2.000.000,00</td>
-                                                <td>Rp. 3.000.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Sistem Informasi (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                                <td>Rp. 2.500.000,00</td>
-                                                <td>Rp. 3.500.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Teknik Informatika (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                                <td>Rp. 3.000.000,00</td>
-                                                <td>Rp. 4.000.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Akuntansi (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                                <td>Rp. 2.000.000,00</td>
-                                                <td>Rp. 2.000.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Komunikasi Digital (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                                <td>Rp. 2.500.000,00</td>
-                                                <td>Rp. 3.500.000,00</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                                <div class="text-center mt-3">
-                                    <h6>Biaya Sidang Skripsi Online</h6>
-                                    <table class="table">
-                                        <thead style="background-color: #A5C1E1">
-                                            <tr>
-                                            <th scope="col">Program Studi</th>
-                                            <th scope="col">Sidang Skripsi</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr class="text-left">
-                                                <td>Manajemen (S1)</td>
-                                                <td>Rp. 1.500.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Sistem Informasi (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Teknik Informatika (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Akuntansi (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Komunikasi Digital (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                                <div class="mt-3">
-                                    <h6>Gelombang Penerimaan Mahasiswa Baru</h6>
-                                    <p style="text-align: justify">
-                                        Universitas Siber Asia setiap semester membuka penerimaan mahasiswa baru secara online untuk 4 jalur:</br>
-                                        1. Jalur Regular </br>
-                                        2. Jalur Kelas Karyawan </br>
-                                        3. Jalur Kelas Tenaga Kerja Asing (TKI) Luar Negeri </br>
-                                        4. Jalur Transfer/Pindahan/Studi Lanjut D1-D3 (Diploma) ke S1 (Strata 1) </br>
-                                    </p>
-                                    <p style="text-align: justify">
-                                        Gelombang Penerimaan Mahasiswa Baru Universitas Siber Asia setiap tahun akademik adalah sebagai berikut:</br>
-                                        1. Gelombang 1, periode Semester Ganjil </br>
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Pendaftaran dibuka setiap bulan Maret – September </br>
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Perkuliahan semester Ganjil pada September – Februari </br>
-                                        2. Gelombang 2, periode Semester Genap </br>
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Pendaftaran dibuka setiap bulan November – Februari </br>
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Perkuliahan semester Genap pada Maret - Agustus
-                                    </p>
-                                </div>
 							</div>
 						</div>
 					</div>

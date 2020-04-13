@@ -200,10 +200,6 @@
 											5.	Komunikasi dan Penyiaran Digital (Status: Status: Dalam Persiapan Pendirian)</br>
 										</div>
                                     </p>
-                                    <p style="text-align: justify">
-                                        Syarat Pendaftaran untuk beberapa jalur:
-                                    </p>
-
 								</div>
 							</div>
 						</div>
