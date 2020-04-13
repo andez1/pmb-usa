@@ -68,7 +68,7 @@
 				<div class="row d-flex justify-content-between">
 					<div class="topbar-left">
 						<ul>
-							<li><a href="#"><i class="fa fa-question-circle"></i>Ask a Question</a></li>
+							<li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a></li>
 							<li><a href="javascript:;"><i class="fa fa-envelope-o"></i>bak@usa.edu</a></li>
 						</ul>
 					</div>
@@ -130,8 +130,14 @@
 							<li>
 								<a href="/">Beranda</a>
 							</li>
-							<li class="active">
-								<a href="{{ route('landing.about') }}">Tentang USA</i></a>
+							<li class="active"><a href="javascript:;">Tentang USA <i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="{{ route('landing.about') }}">Tentang USA</i></a></li>
+									<li><a href="{{ route('landing.marketing_promosi') }}">Marketing dan Promosi</a></li>
+									<li><a href="{{ route('landing.pelatihan_bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
+									<li><a href="{{ route('landing.teaser_video_pembelajaran') }}">Teaser Video Pembelajaran</a></li>
+									<li><a href="{{ route('landing.faq') }}">FAQ</a></li>
+								</ul>
 							</li>
 							<li><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
@@ -191,26 +197,26 @@
 							<div class="feature-container">
 								<div class="icon-content mb-2">
                                     <p>Universitas Siber Asia secara regular atau setiap akhir semester menyelenggarakan Pelatihan Profesional Bersertifikasi dengan tujuan untuk mempersiapkan lulusan yang siap berkiprah di dunia kerja dalam Era Smart Digital Economy. Pelatihan secara rutin diumumkan dalam kalender akademik mahasiswa wajib mengikuti pelatihan tersebut secara online.</p>
-                <p>Contoh Pelatihan Berikut ini:</p>
-                <p class="text-center">Sharing Pengalaman Kerja</p>
-                <div class="video-teaser">
-                    <video controls src="{{ asset('homepages/images/video/teaservideo1.mp4') }}"></video>
-                </div>
-                <p>Jenis-jenis pelatihan yang disiapkan Universitas Siber Asia:</p>
-                <ol class="ml-5">
-                    <li>Leadership Training</li>
-                    <li>IT Training</li>
-                    <li>Online Learning Libraries</li>
-                    <li>Content Development</li>
-                    <li>Sales and Marketing Training</li>
-                    <li>NTI conducts the following IT courses</li>
-                    <li>MS Office Applications</li>
-                    <li>Microsoft Technical Courses</li>
-                    <li>CompTIA</li>
-                    <li>Unix / Linux</li>
-                    <li>CISCO</li>
-                    <li>Oracle</li>
-                </ol>
+									<p>Contoh Pelatihan Berikut ini:</p>
+									<p class="text-center">Sharing Pengalaman Kerja</p>
+									<div class="video-teaser"> 
+										<video controls src="{{ asset('homepages/images/video/teaservideo1.mp4') }}"></video>
+									</div>
+									<p>Jenis-jenis pelatihan yang disiapkan Universitas Siber Asia:</p>
+									<ol class="ml-5">
+										<li>Leadership Training</li>
+										<li>IT Training</li>
+										<li>Online Learning Libraries</li>
+										<li>Content Development</li>
+										<li>Sales and Marketing Training</li>
+										<li>NTI conducts the following IT courses</li>
+										<li>MS Office Applications</li>
+										<li>Microsoft Technical Courses</li>
+										<li>CompTIA</li>
+										<li>Unix / Linux</li>
+										<li>CISCO</li>
+										<li>Oracle</li>
+									</ol>
                                 </div>
 							</div>
 						</div>
@@ -270,8 +276,8 @@
 								<div class="widget footer_widget">
 									<h5 class="footer-title">USA</h5>
 									<ul>
-										<li><a href="#">Beranda</a></li>
-										<li><a href="#">Tentang Kami</a></li>
+										<li><a href="/">Beranda</a></li>
+										<li><a href="{{ route('landing.about') }}">Tentang Kami</a></li>
 										<li><a href="#">Tanya Jawab</a></li>
 										<li><a href="#">Kontak</a></li>
 									</ul>
@@ -281,11 +287,11 @@
 								<div class="widget footer_widget">
 									<h5 class="footer-title">Program Studi</h5>
 									<ul>
-										<li><a href="http://educhamp.themetrades.com/admin/index.html">Penyiaran dan Komunikasi Digital</a></li>
-										<li><a href="blog-classic-grid.html">Manajemen Kontemporer</a></li>
-										<li><a href="portfolio.html">Akuntansi dan Perpajakan</a></li>
-										<li><a href="event.html">Sistem Informasi</a></li>
-										<li><a href="event.html">Teknologi Informasi</a></li>
+										<li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
+										<li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
+										<li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan Perpajakan</a></li>
+										<li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
+										<li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
 									</ul>
 								</div>
 							</div>
