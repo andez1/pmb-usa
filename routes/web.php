@@ -15,6 +15,10 @@
  * Landing Page for Portal
  */
 Route::get('/', 'LandingController@index')->name('landing.index');
+Route::get('/teaser-video-pembelajaran', 'LandingController@teaser_video_pembelajaran')->name('landing.teaser_video_pembelajaran');
+Route::get('/marketing-promosi', 'LandingController@marketing_promosi')->name('landing.marketing_promosi');
+Route::get('/pelatihan-bersertifikasi', 'LandingController@pelatihan_bersertifikasi')->name('landing.pelatihan_bersertifikasi');
+Route::get('/faq', 'LandingController@faq')->name('landing.faq');
 Route::get('/about-usa', 'LandingController@about')->name('landing.about');
 Route::get('/admission-info', 'LandingController@admission_info')->name('landing.admission_info');
 Route::get('/academic-info', 'LandingController@academic_info')->name('landing.academic_info');
@@ -25,9 +29,9 @@ Route::get('/study-guide', 'LandingController@study_guide')->name('landing.study
 /**
  * Academic
  */
-Route::get('/penyiaran', 'AcademicController@penyiaran');
-Route::get('/manajemen', 'AcademicController@manajemen');
-Route::get('/akuntansi', 'AcademicController@akuntansi');
+Route::get('/penyiaran-dan-komunikasi-digital', 'AcademicController@penyiaran');
+Route::get('/manajemen-kontemporer', 'AcademicController@manajemen');
+Route::get('/akuntansi-dan-perpajakan', 'AcademicController@akuntansi');
 Route::get('/sistem-informasi', 'AcademicController@sistemInformasi');
 Route::get('/teknologi-informasi', 'AcademicController@teknologiInformasi');
 

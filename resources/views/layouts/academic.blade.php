@@ -69,7 +69,7 @@
 				<div class="row d-flex justify-content-between">
 					<div class="topbar-left">
 						<ul>
-							<li><a href="#"><i class="fa fa-question-circle"></i>Ask a Question</a></li>
+							<li><a href="{{ url('/faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a></li>
 							<li><a href="javascript:;"><i class="fa fa-envelope-o"></i>bak@usa.edu</a></li>
 						</ul>
 					</div>
@@ -548,6 +548,9 @@
 										<li><a href="#">Tentang Kami</a></li>
 										<li><a href="#">Tanya Jawab</a></li>
 										<li><a href="#">Kontak</a></li>
+										<li><a href="{{ url('/marketing-promosi') }}">Marketing dan Promosi</a></li>
+										<li><a href="{{ url('/pelatihan-bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
+										<li><a href="{{ url('/teaser-video-pembelajaran') }}">Teaser Video Pembelajaran</a></li>
 									</ul>
 								</div>
 							</div>
@@ -555,9 +558,9 @@
 								<div class="widget footer_widget">
 									<h5 class="footer-title">Program Studi</h5>
 									<ul>
-										<li><a href="{{ url('/penyiaran') }}">Penyiaran dan Komunikasi Digital</a></li>
-										<li><a href="{{ url('/manajemen') }}">Manajemen Kontemporer</a></li>
-										<li><a href="{{ url('/akuntansi') }}">Akuntansi dan Perpajakan</a></li>
+										<li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
+										<li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
+										<li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan Perpajakan</a></li>
 										<li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
 										<li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
 									</ul>
