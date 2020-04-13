@@ -130,14 +130,22 @@
 							<li class="active">
 								<a href="/">Beranda</a>
 							</li>
-							<li>
-								<a href="#tentang">Tentang Kami</i></a>
+							<li><a href="javascript:;">Tentang USA <i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="{{ route('landing.marketing_promosi') }}">Marketing dan Promosi</a></li>
+									<li><a href="{{ route('landing.pelatihan_bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
+									<li><a href="{{ route('landing.teaser_video_pembelajaran') }}">Teaser Video Pembelajaran</a></li>
+									<li><a href="{{ route('landing.faq') }}">FAQ</a></li>
+								</ul>
 							</li>
-							<li>
-								<a href="#akademik">Akademik</a>
-							</li>
-							<li>
-								<a href="#berita">Berita</a>
+							<li><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
+									<li><a href="{{ route('landing.academic_info') }}">Info Akademik</a></li>
+									<li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
+									<li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
+									<li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li>
+								</ul>
 							</li>
 							<li>
 								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
@@ -1331,11 +1339,19 @@
 								<div class="widget footer_widget">
 									<h5 class="footer-title">Program Studi</h5>
 									<ul>
+<<<<<<< HEAD
 										<li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
 										<li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
 										<li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan Perpajakan</a></li>
 										<li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
 										<li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
+=======
+										<li><a href="http://educhamp.themetrades.com/admin/index.html">Penyiaran dan Komunikasi Digital</a></li>
+										<li><a href="blog-classic-grid.html">Manajemen Kontemporer</a></li>
+										<li><a href="portfolio.html">Akuntansi dan Perpajakan</a></li>
+										<li><a href="event.html">Sistem Informasi</a></li>
+										<li><a href="event.html">Teknologi Informasi</a></li>
+>>>>>>> 0fde104eac8092c66f0853660b3d61d99e8aa0ab
 									</ul>
 								</div>
 							</div>
