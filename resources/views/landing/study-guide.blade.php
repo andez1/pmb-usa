@@ -59,6 +59,12 @@
 										<img src="{{ asset('homepages/images/study/study-image5.png') }}" alt="">
 									</div>
 									<p style="text-align: justify">
+										Aktifitas dalam 1 minggu online lebih didominasi aktifitas dalam mode ASINKRON, namun pada saat video conference antara dosen dengan mahasiswa, aktifitas harus berada pada mode SINKRON, sebagaimana deskripsi berikut ini:≈
+                                    </p>
+									<div class="text-center mb-5">
+										<img src="{{ asset('homepages/images/study/study-image6.png') }}" alt="">
+									</div>
+									<p style="text-align: justify">
 										Kewajiban mahasiswa dalam menjalankan kuliah online via LMS:
                                     </p>
 									<div class="ml-4">
