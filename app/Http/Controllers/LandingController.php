@@ -60,4 +60,9 @@ class LandingController extends Controller
     {
         return view('landing.study-guide');
     }
+
+    public function keunggulan_lulusan()
+    {
+        return view('landing.keunggulan-lulusan');
+    }
 }

@@ -136,6 +136,7 @@
 									<li><a href="{{ route('landing.marketing_promosi') }}">Marketing dan Promosi</a></li>
 									<li><a href="{{ route('landing.pelatihan_bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
 									<li><a href="{{ route('landing.teaser_video_pembelajaran') }}">Teaser Video Pembelajaran</a></li>
+									<li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a></li>
 									<li><a href="{{ route('landing.faq') }}">FAQ</a></li>
 								</ul>
 							</li>
