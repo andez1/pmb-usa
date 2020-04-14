@@ -336,6 +336,7 @@
 										</p>
 									</div>
 									<div class="mb-5">
+										<h4 class="text-center">Kurikulum dan Mata Kuliah</h4>
 										<h6 class="text-center">Kurikulum</h6>
 										<p class="mb-0" style="text-align: justify">
 											<div style="padding-left: 1.5em; text-indent:-1.5em;">
@@ -751,6 +752,1119 @@
 											</div>
 											<div style="padding-left: 1.5em; text-indent:-1.5em;">
 												(7)	Mahasiswa yang tidak melaksanakan administrasi akademik sebagaimana dimaksud dalam ayat (1) pasal ini tidak diijinkan mengikuti seluruh kegiatan akademik dan kegiatan kemahasiswaan.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Administrasi Perkuliahan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Pelayanan administrasi perkuliahan dilakukan secara terpusat di Sentra Pelayanan Akademik (SPA);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Mahasiswa yang tidak mengisi Kartu Rencana Studi (KRS) seperti yang tercantum pada ayat (3) pasal 48, maka namanya tidak akan tercantum dalam Daftar Peserta Mata Kuliah (DPMK);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Mahasiswa tidak diperkenankan mengganti jadwal mata kuliah yang sudah di input dalam Kartu Rencana Studi tanpa sepengetahuan Pembimbing Akademik.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Daftar Peserta Mata Kuliah (DPMK)</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	DPMK memuat peserta matakuliah sesuai dengan pendaftaran rencana studi;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Jumlah peserta matakuliah untuk tiap kelas minimum 10 (sepuluh) mahasiswa dan maksimum 40 (delapan puluh) mahasiswa, kecuali untuk Prodi yang tidak sanggup memenuhi ketentuan tersebut;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Mahasiswa yang namanya tidak tercantum dalam DPMK tidak diperkenankan mengikuti perkuliahan, kecuali menjadi mahasiswa pendengar (sit in) yang telah mendapat ijin dari Dosen pengampu.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Aktivitas Perkuliahan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Aktivitas perkuliahan terdiri atas perkuliahan reguler, perkuliahan modus ganda/blended learning, pendidikan jarak jauh (PJJ), dan perkuliahan non reguler (karyawan) /perkuliahan antar lembaga;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Perkuliahan reguler dan non reguler :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. wajib bagi mahasiswa pada seluruh Prodi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. dilaksanakan dengan cara tatap muka terjadwal dikelas dan/atau e-learning, dengan komposisi untuk perkuliahan regular 14 pertemuan tatap muka dalam bentuk ceramah, seminar  atau diskusi, praktikum, kerja lapangan atau magang, yang pengaturannya disesuaikan dengan kebutuhan, bobot dan sifat matakuliah. Untuk perkuliahan non reguler dengan komposisi 12 pertemuan online via LMS (Learning Management System) dan 2 perkuliahan on class.
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Jika diperlukan dari 14 pertemuan tatap muka, dapat menghadirkan seseorang yang dinilai mempunyai pengetahuan, keahlian, pengalaman tertentu untuk berbagi dalam bidangnya sebagai dosen tamu.
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. dilaksanakan dalam satu semester dengan jumlah pertemuan 16 (enambelas) minggu/semester terdiri dari :
+											</div>
+											<div class="m-0" style="padding-left: 4em; text-indent:-1.0em;">
+												1. Enam belas (14) minggu perkuliahan;
+											</div>
+											<div class="m-0" style="padding-left: 4em; text-indent:-1.0em;">
+												2. Dua (2) minggu pengujian;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. matakuliah yang ditawarkan disesuaikan dengan kurikulum Prodi.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Pendidikan Jarak Jauh (PJJ) merupakan proses belajar mengajar yang dilakukan melalui penggunaan berbagai media komunikasi dengan tujuan:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. memberikan layanan Pendidikan Tinggi kepada kelompok masyarakat yang tidak dapat mengikuti pendidikan secara tatap muka atau reguler;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. memperluas akses serta mempermudah pelayanan Pendidikan Tinggi dalam pendidikan dan pembelajaran;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. perkuliahan PJJ diatur dalam ketentuan tersendiri.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Penyelenggaraan Perkuliahan antar Perguruan Tinggi, dan Perkuliahan ekstensi, akan diatur kemudian dengan ketentuan tersendiri.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Koordinator Mata Kuliah</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Matakuliah paralel dan Team Teaching dikoordinir oleh seorang dosen dengan syarat:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. sekurang-kurangnya berpendidikan magister dengan kepangkatan sekurang-kurangnya Lektor;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. koordinator matakuliah diangkat dengan keputusan Dekan, atas usul ketua Prodi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. koordinator kelompok matakuliah universitas diangkat dengan surat tugas dari Wakil Rektor Bidang Akademik;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Mata kuliah lintas Prodi dan lintas Fakultas dikoordinir oleh Prodi dan Fakultas induk;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Koordinator matakuliah mempunyai tugas:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a.	mengkoordinasi perumusan profil dan kompotensi matakuliah, menyusun RPS bersama- bersama kelompok dosen;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b.	menggantikan atau mencarikan pengganti bagi dosen yang tidak hadir dalam kelompok yang sama;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c.	memberikan laporan tertulis kepada Ketua Prodi mengenai pelaksanaan perkuliahan bagi matakuliah yang ada di bawah koordinasinya.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Rencana Pembelajaran Semester (RPS)</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Perencanaan proses pembelajaran disusun untuk setiap mata kuliah dan disajikan dalam rencana pembelajaran semester (RPS);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Rencana pembelajaran semester (RPS) yang dimaksud pada ayat (1) ditetapkan dan dikembangkan oleh dosen secara mandiri atau bersama dalam kelompok keahlian suatu bidang ilmu pengetahuan dan/atau teknologi dalam program studi;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Rencana pembelajaran semester (RPS) paling sedikit memuat :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. nama program studi, nama dan kode mata kuliah, semester, sks, nama dosen pengampu;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. capaian pembelajaran lulusan yang dibebankan pada mata kuliah;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. kemampuan akhir yang direncanakan pada tiap tahap pembelajaran untuk memenuhi capaian pembelajaran lulusan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. bahan kajian yang terkait dengan kemampuan yang akan dicapai;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. metode pembelajaran;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												f. waktu yang disediakan untuk mencapai kemampuan pada tiap tahap pembelajaran;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												g. pengalaman belajar mahasiswa yang diwujudkan dalam deskripsi tugas yang harus dikerjakan oleh mahasiswa selama satu semester;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												h. kriteria, indikator, dan bobot penilaian; dan
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												i. daftar referensi yang digunakan.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Rencana Pembelajaran Semester	(RPS)	wajib ditinjau dan disesuaikan secara berkala dengan perkembangan ilmu pengetahuan dan teknologi;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(5)	RPS harus bersifat dinamis dan selalu disesuaikan dengan perkembangan substansi bahan ajar yang diberikan pada tiap semester;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(6)	Paling Lambat dua minggu sebelum perkuliahan berlangsung Rencana Pembelajaran Semester (RPS) harus sudah di-upload oleh Dosen/Koordinator ke dalam Sistem Informasi Akademik.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Tata Tertib Perkuliahan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												Tata tertib kehadiran selama memberikan/mengikuti perkuliahan:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Dosen dan mahasiswa diharuskan hadir sesuai jadwal kuliah;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Dosen tidak diperkenankan mengganti jadwal perkuliahan tanpa seijin pimpinan Fakultas;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Toleransi keterlambatan adalah 15 (lima belas) menit dari waktu terjadwal;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. Kehadiran dosen adalah 100% (seratus persen) dari jumlah tatap muka terjadwal;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. Jika dosen berhalangan hadir pada waktu yang telah ditentukan, maka dosen wajib menggantikan pada waktu lain dengan terlebih dahulu melaporkan ke SPA-BAA;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												f. Perkuliahan on-line maksimum 2 (dua kali) untuk perkuliahan regular dan 8 (delapan kali) untuk perkuliahan non reguler.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Waktu dan Tempat Perkuliahan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Waktu perkuliahan adalah :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. waktu perkuliahan regular dilaksanakan dari hari Senin s/d Jumat, pukul 08.00 s/d 17.00 WIB;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. perkuliahan non reguler ( kelas karyawan) dilaksanakan dari hari Senin s/d Jumat, pukul 18.30 s/d 21.30 WIB dan hari Sabtu dari jam 08.00 s/d 19.00 WIB;
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Evaluasi Penyelenggaraan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1) Evaluasi terhadap penyelenggaraan perkuliahan meliputi studi mahasiswa, kinerja dosen dan institusi;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Evaluasi sebagaimana dimaksud pada ayat (1) pasal ini dilakukan tiap semester;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Cara dan prosedur evaluasi kinerja dosen dan institusi diatur kemudian.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Evaluasi Perkuliahan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Evaluasi perkuliahan dilakukan dua kali dalam satu semester untuk menilai capaian pembelajaran pada setiap mata kuliah;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Teknik penilaian dapat berupa observasi, partisipasi, tes lisan, tes tertulis, dan unjuk kerja meliputi 2 tugas individu dan 4 tugas kelompok yang dipresentasikan;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Teknik penilaian tes tertulis dilakukan dua kali untuk tiap mata kuliah selama satu semester;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Teknik penilaian tes tertulis Ujian Tengah dan Akhir semester (UTS dan UAS) dilakukan secara terstruktur yang dikoordinir oleh Sentra Pelayanan Akademik - BAA;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(5)	Ujian Akhir Semester hanya boleh diikuti oleh mahasiswa dengan kehadiran minimal 80% dari seluruh kegiatan perkuliahan;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(6)	Proses penilaian dilakukan sesuai Rencana Pembelajaran Semester (RPS);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(7)	Penilaian yang diberikan dosen kepada mahasiswa dalam bentuk angka antara 0 dan 100.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(8)	Komponen penilaian untuk setiap mata kuliah terdiri : (karakter : sikap, perilaku, disiplin. Integritas : jujur, tanggung jawab, peduli); Tugas-tugas; UTS, dan UAS;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(9)	Nilai Akhir (NA) dapat dibatalkan/digugurkan apabila peserta ujian melanggar tata tertib ujian dan peraturan;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(10) Apabila komponen penilaian seperti yang tertera pada ayat 8 pasal ini tidak terpenuhi, sehingga nilai mahasiswa kurang dan /atau tidak lulus maka mahasiswa diberi kesempatan untuk memperbaiki nilai matakuliah, yang ketentuannya diatur tersendiri.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Nilai Akhir MataKuliah</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Nilai akhir suatu matakuliah menunjukkan hasil evaluasi setiap matakuliah yang ditempuh selama satu semester;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Nilai Akhir (NA) suatu matakuliah merupakan gabungan dari penilaian pada pasal 59 ayat 8;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	NA suatu matakuliah Program Sarjana dan Program Diploma dinyatakan dalam bentuk huruf,  yang merupakan konversi dari nilai angka ke nilai huruf dan padanya diberikan bobot tertentu sebagai berikut :
+											</div>
+											<div class="text-center">
+												<img src="{{ asset('homepages/images/academic-guide1.png') }}" style="width: 40%;" alt="">
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	NA suatu matakuliah, Program Pascasarjana dinyatakan dalam bentuk huruf, yang merupakan konversi dari nilai angka ke nilai huruf dan padanya diberikan bobot tertentu sebagai berikut:
+											</div>
+											<div class="text-center">
+												<img src="{{ asset('homepages/images/academic-guide2.png') }}" style="width: 40%;" alt="">
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Batas kelulusan matakuliah</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Kelulusan suatu matakuliah adalah minimal nilai C untuk Program Sarjana dan Program Diploma, serta minimal nilai B untuk Program Magister dan Program Doktor;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Nilai Karya Tulis Akhir pada Program Diploma, Skripsi pada Program Sarjana, Tesis pada Program Magister dan Disertasi pada Program Doktor minimal nilai B.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Pelaporan nilai akhir matakuliah</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Pelaporan penyelenggaraan kegiatan akademik dilakukan oleh BAA tiap semester;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Pelaporan sebagaimana dimaksud pada ayat (1) pasal ini disesuaikan dengan format dari Dirjen Kemenristekdikti
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Indek prestasi semester</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Hasil penilaian capaian pembelajaran lulusan disetiap semester dinyatakan dengan indeks prestasi semester (IPS);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	IPS dihitung dengan rumus :
+											</div>
+											<div class="text-left">
+												<img src="{{ asset('homepages/images/academic-guide3.png') }}" style="width: 30%;" alt="">
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	IPK digunakan untuk menentukan pemberian penghargaan atau ancaman/sanksi terhadap mahasiswa.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Sistem Informasi Akademik</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Sistem Informasi Akademik dapat diakses oleh mahasiswa, dosen, Dekan, Wakil Dekan, Ketua Program Studi, Sekretaris Program Studi, Kepala Unit Penjaminan Mutu, Kepala Tata Usaha, Staf Tata Usaha, dan orangtua/wali untuk mengevaluasi capaian pembelajaran mahasiswa;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Sistem Informasi Akademik dikelola oleh Badan Pengelola Sistem Informasi disingkat BPSI
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h4 class="text-center">TUGAS AKHIR</h4>
+										<h6 class="text-center">Jenis dan Bobot sks</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Sistem Informasi Akademik dapat diakses oleh mahasiswa, dosen, Dekan, Wakil Dekan, Ketua Program Studi, Sekretaris Program Studi, Kepala Unit Penjaminan Mutu, Kepala Tata Usaha, Staf Tata Usaha, dan orangtua/wali untuk mengevaluasi capaian pembelajaran mahasiswa;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Sistem Informasi Akademik dikelola oleh Badan Pengelola Sistem Informasi disingkat BPSI
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Jenis dan Bobot sks</h6>
+										<p class="mb-0" style="text-align: justify">
+											Tugas Akhir wajib disusun oleh mahasiswa, yaitu berupa :
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Karya Tulis Akhir adalah karya tulis ilmiah untuk mahasiswa Program Diploma;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Skripsi adalah karya tulis ilmiah akhir untuk mahasiswa Program Sarjana;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Tesis adalah adalahkarya tulis ilmiah akhir untuk mahasiswa Program Magister (S2);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Disertasi adalah karya tulis ilmiah akhir untuk mahasiswa Program Doktor (S3);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(5)	Bobot kredit tugas akhir :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Karya Tulis Ilmiah Diploma setara dengan 6 (enam) sks;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Skripsi setara dengan  6 (enam) sks;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Tesis setara  dengan 8 (delapan) sks;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. Disertasi setara dengan 8 (delapan) sks.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(6)	Syarat untuk mengajukan penyusunan Tugas Akhir :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. mengajukan proposal;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. telah lulus minimal 90 sks pada Program Diploma III;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. telah lulus minimal 120 sks pada Program Sarjana dan Program D.IV;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. telah lulus minimal 32 sks pada Program Magister;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. telah lulus minimal 27 sks pada Program Doktor.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(7)	Prosedur penetapan judul dan pembimbing Tugas Akhir ditetapkan dengan peraturan tersendiri.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(8)	Mahasiswa dapat memilih Tugas Akhir jalur publikasi sesuai dengan jenjang studi, yang diatur dengan Keputusan Rektor tersendiri tentang Tugas Akhir Jaur Publikasi.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Format Penulisan Tugas Akhir dan Jangka Waktu Penulisan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Format penulisan proposal dan Tugas Akhir diatur dalam ketentuan tersendiri;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Program Sarjana, 2 (dua) semester;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Program Magister, 2 (dua) semester;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Program Doktor, 4 (empat) semester.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Jangka waktu maksimum penulisan Tugas Akhir adalah sebagai berikut :
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Bila jangka waktu maksimum tidak terpenuhi, perpanjangan waktu diberikan selama 1 (satu) semester;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Jika Tugas Akhir tidak dapat diselesaikan dalam jangka waktu maksimum sebagaimana dimaksud pada ayat (3) pasal ini, mahasiswa harus mengajukan judul baru.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(5)	Tugas Akhir bagi mahasiswa program magister dan doktoral wajib dipublikasikan dalam jurnal bereputasi.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Pembimbing Tugas Akhir</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Dosen sebagai pembimbing tugas akhir bertugas dan bertanggung jawab untuk :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. membimbing penyusunan rencana (proposal) penelitian;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. memeriksa konsep, kerangka, dan arah serta sasaran rencana penelitian;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. memonitor pelaksanaan penelitian;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. membimbing penyusunan tugas akhir;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Pembimbing tugas akhir untuk setiap mahasiswa terdiri atas 1 (satu) s/d 2(dua) orang dosen.
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. pembimbing pertama dengan syarat sesuai dengan bidang ilmunya, jabatan akademik minimal Lektor dengan pendidikan magister atau Asisten Ahli dengan pendidikan doktor bagi Program Sarjana dan/atauprogramDiploma, jabatan akademik minimal Lektor dengan pendidikan doktor untuk program magister, jabatan akademik minimal Lektor Kepala dengan pendidikan doktor untuk program doktor;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. pembimbing pendamping dengan syarat sesuai dengan bidang ilmunya, jabatan akademik minimal Asisten Ahli bagi program Sarjana dan programDiploma, jabatan akademik minimal Assisten Ahli dengan pendidikan doktor untuk program magister, jabatan akademik minimal Lektor Kepala dengan pendidikan doktor untuk program doktor;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Apabila diperlukan tenaga ahli non akademikdan/atau dari institusi selain Unas dapat ditunjuk sebagai pembimbing tugas akhir atau penguji;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Pembimbing ditunjuk dan diberhentikan dengan surat keputusan Dekan/Direktur atas usul Ketua Prodi.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Dosen pembimbing tugas akhir dapat diganti apabila dosen yang bersangkutan:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. tugas belajar;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. mengundurkan diri dan disetujui oleh ketua Prodi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. berhalangan tetap;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. mahasiswa mengganti topik/materi tugas akhir;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. pensiun; atau
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												f. alasan lain berdasarkan pertimbangan ketua Prodi;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(5)	Penggantian pembimbing tugas akhir ditetapkan dengan surat keputusan Dekan/Direktur atas usul Ketua Prodi.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Ujian Tugas Akhir</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Ujian Tugas Akhir merupakan ujian penutup dari keseluruhan kewajiban akademik setiap mahasiswa;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Ujian Tugas Akhir dapat diikuti oleh mahasiswa dengan ketentuan :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. mengisi kartu rencana studi dan mencantumkan Tugas Akhir pada semester berjalan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. telah memperoleh persetujuan dari dosen pembimbing Tugas Akhir;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. telah lulus semua matakuliah sesuai ketentuan Prodi yang bersangkutan;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3) Memiliki Satuan Kegiatan Prestasi Mahasiswa (SKPM) yang terdiri dari Kompetensi Penunjang Langsung (KPL); Kompetensi Penunjang Tambahan (KPT) dan Kompetensi Penunjang Pelengkap (KPP) dengan jumlah minimal 1000 point ;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Mahasiswa yang tidak lulus ujian Tugas Akhir dapat menempuh ujian ulangan maksimum 2 (dua) kali dalam semester yang sama atau pada semester berikutnya;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(5)	Jika mahasiswa tidak lulus pada ujian ulangan sebagaimana dimaksud pada ayat (3) pasal ini, maka mahasiswa yang bersangkutan harus membuat Tugas Akhir yang baru. 
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Penilaian Ujian Tugas Akhir</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Penilaian ujian Tugas Akhir dilakukan oleh penguji pada waktu dan tempat yang sama;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Penilaian ujian Tugas Akhir didasarkan pada :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Materi atau isi meliputi:orisinalitas materi, format, sistematika penulisan ilmiah dan kemutakhiran materi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Penguasaan materi saat ujian yang menyangkut tingkat pemahaman materi, kemampuan menjawab serta menjelaskan pertanyaan, kemampuan mempertahankan tulisan  dan pengetahuan umum yang terkait dengan topik tugas akhir;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Penguasaan presentasi menyangkut kesiapan presentasi, tampilan lembar presentasi, penggunaan bahasa verbal, alur presentasi, kemuthakhiran presentasi
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. Tata krama dan etika, sikap positif, karakter, dan akhlak.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Komposisi penilaian tugas akhir terdiri atas materi (40%), penguasaan materi (30%),penguasaan presentasi (20%), tata krama dan etika (10 %).
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Perbaikan tugas akhir bagi mahasiswa yang sudah dinyatakan lulus dalam ujian Skripsi dan Karya Tulis Akhir adalah 1(satu) bulan, dan untuk Tesis dan Disertasi adalah 3 (tiga bulan).
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Syarat Kelulusan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Syarat kelulusan Program Diploma, Sarjana dan Pascasarjana minimal mempunyai 3 (tiga) sertifikat kompetensi penunjang langsung profesi sesuai pada masing-masing peminatan program studi;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Sertifikat kompetensi penunjang tambahan berupa kompetensi tambahan seperti keahlian bahasa internasional;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Sertifikat kompetensi penunjang pelengkap berupa kompetensi penunjang pelengkap seperti aktif dalam organisasi , menang dalam lomba yang diselenggarakan oleh instansi yang kredibel;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Persyaratan yang dimaksud pada ayat (1), (2) dan (3) wajib di upload oleh mahasiswa dalam aplikasi akademik secara bertahap selama menjadi mahasiswa Universitas Siber Asia untuk diverifikasi oleh Pembimbing Akademik dan/atau Ketua Prodi .
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Kelulusan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Standar kelulusan suatu Prodi:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												IPK minimum 2,5 tanpa nilai D untuk Program Sarjana dan Diploma dan akan dinaikkan secara bertahap; IPK minimum 3 tanpa nilai C untuk Program S-2; IPK minimum 3,25 tanpa nilai C untuk Program Doktor;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Predikat kelulusan:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. program Sarjana dan Diploma
+											</div>
+											<div class="text-center">
+												<img src="{{ asset('homepages/images/academic-guide4.png') }}" style="width: 35%;" alt="">
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. program Magister dan Doktor
+											</div>
+											<div class="text-center">
+												<img src="{{ asset('homepages/images/academic-guide5.png') }}" style="width: 35%;" alt="">
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Hak Lulusan</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Setiap lulusan Universitas berhak memperoleh ijazah, transkrip akademik, dan surat keterangan pendamping ijazah (SKPI);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Setiap lulusan program studi di lingkungan Universitas diberi gelar sesuai dengan peraturan perundang-undangan yang berlaku.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Wisuda</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Mahasiswa yang sudah lulus suatu Prodi diwajibkan mengikuti wisuda;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Wisuda sebagaimana dimaksud pada ayat (1) pasal ini dilaksanakan 1 (satu) sampai 2 (dua) kali dalam 1 (satu) Tahun Akademik;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Mahasiswa yang sudah lulus dan/atau mengikuti wisuda harus dilaporkan ke Kemenristekdikti melalui Kopertis Wilayah III/ Lembaga Layanan Perguruan Tinggi selambat-lambatnya empat belas (14) hari kerja sebelum pelaksanaan wisuda.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Ijazah, Transkrip Akademik, dan Surat Keterangan Pendamping Ijazah (SKPI)</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Ijazah diberikan kepada lulusan perguruan tinggi disertai dengan transkrip dan Surat Keterangan Pendamping Ijazah (SKPI);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Ijazah, transkrip akademik dan SKPI dibuat dalam dua bahasa (bahasa Indonesia dan bahasa Inggris);
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Ijazah, transkrip akademik dan surat keterangan pendamping ijazah harus dibuat berdasarkan nama-nama kelulusan sebagaimana yang tercantum dalam Keputusan Dekan dan diproses sesuai prosedur yang ditetapkan oleh Universitas;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Semua mahasiswa yang sudah dinyatakan lulus berhak mendapatkan ijazah dan transkrip akademik, surat keterangan pendamping ijazah setelah memenuhi seluruh kewajiban;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(5)	Dekan menugaskan Ketua Prodi dan/atau lainnya dalam suatu tim untuk mengecek keabsahan dan kesempurnaan ijazah dan transkrip akademik, surat keterangan pendamping ijazah;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(6)	Perbaikan kesalahan pada ijazah atau transkrip akademik yang sedang diproses, harus sepengetahuan Wakil Rektor Bidang Akademik;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(7)	Tidak diperkenankan memberikan tanda apapun di lembar ijazah yang sudah dikoreksi;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(8)	Ijazah, transkrip akademik, dan surat keterangan pendamping ijazah diberikan pada saat wisuda, kecuali dalam hal khusus.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(9)	Ijazah dan transkrip akademik Program Diploma, Sarjana dan Pascasarjana, ditandatangani oleh Dekan/Direktur dan Rektor;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(10) Surat keterangan pendamping ijazah ditandatangani Dekan/Direktur dan Rektor;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(11) Legalisasi salinan ijazah dan transkrip akademik Program Sarjana, Diploma IV ditandatangani oleh Dekan, Program Diploma dan Program Pascasarjana ditandatangani oleh Direktur.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Format Ijazah ,Transkrip Akademik, dan Surat Keterangan Pendamping Ijazah</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1). Isi dari ijazah yang tercetak memuat :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Penomoran Ijazah Nasional (PIN) dari Kemeristekdikti;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Logo Universitas Siber Asia;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Nama Universitas;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. Nomor Keputusan Pendirian Universitas Siber Asia;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. Program Pendidikan (Diploma III, Diploma IV, Sarjana, Magister, Doktor);
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												f. Nama Program studi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												g. Fakultas;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												h. Nama pemilik ijazah;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												i. Nomor Pokok Mahasiswa (NPM);
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												j. Tempat dan tanggal lahir pemilik ijazah;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												k. Gelar yang diberikan beserta singkatannya;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												l. Tanggal , bulan dan tahun kelulusan (tanggal, bulan, dan tahun yudisium)
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												m. Tempat, tanggal, bulan dan tahun penerbitan ijazah (tanggal, bulan dan tahun Keputusan Rektor tentang Wisuda);
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												n. Nama dan tanda tangan Rektor yang aktif;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												o. Nama dan tanda tangan Dekan/Direktur yang aktif;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												p. Foto pemilik ijazah.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2). Isi dari transkrip akademik yang tercetak memuat :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Logo Universitas Siber Asia;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Nama Universitas;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Nomor Keputusan pendirian Universitas Siber Asia;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. Nomor transkrip akademik;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. Program Pendidikan (Diploma III, Diploma IV, Sarjana, Magister, Doktor);
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												f. Nama Program Studi;dan nama konsentrasi studi (kalau ada);
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												g. Nama Lengkap Pemilik Transkrip Akademik;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												h. Tempat dan tanggal lahir pemilik transkrip akademik;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												i. Nomor pokok mahasiswa (NPM);
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												j. Tanggal, bulan, dan tahun kelulusan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												k. Tempat, tanggal, bulan, dan tahun penerbitan transkrip akademik;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												l. Nama dan tanda tangan Rektor dan Dekan/Direktur aktif;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												m. Stempel Universitas;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												n. Foto mahasiswa;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												o. Seluruh mata kuliah yang telah ditempuh, bobot sks, dan nilai;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												p. Judul Skripsi, Tesis, Disertasi/ Tugas Akhir ditulis dengan huruf kapital pada setiap awal kata;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												q. Indeks prestasi kumulatif;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												r. Predikat kelulusan.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Isi Surat Keterangan Pendamping Ijazah (SKPI) memuat :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Logo Universitas;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Nama Universitas;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Nomor Keputusan pendirian Universitas Siber Asia;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. Nama Program Studi;dan nama konsentrasi studi (kalau ada);
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. Nama Lengkap Pemilik SKPI;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												f. Tempat dan tanggal lahir pemilik SKPI;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												g. Nomor pokok mahasiswa (NPM);
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												h. Tanggal, bulan, dan tahun kelulusan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												i. Penomoran Ijazah Nasional
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												j. Nomor SKPI;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												k. Gelar yang diberikan beserta singkatannya;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												l. Jenis pendidikan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												m. Program pendidikan (Diploma III, Diploma IV, Sarjana, Magister, Doktoral );
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												n. Capaian pembelajaran lulusan sesuai Kerangka Kualifikasi Nasional Indonesia secara naratif;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												o. Capaian Prestasi di bidang ekstrakurikuler (kompetensi pendukung yang terdiri atas kompetensi penunjang langsung, kompetensi penunjang tambahan, kompetensi penunjang pelengkap);
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												p. Sertifikasi profesional baik nasional maupun internasional;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												q. Prasyarat penerimaan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												r. Bahasa pengantar kuliah;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												s. Sistem penilaian/ metode assesmen;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												t. Lama studi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												u. Jenis dan program pendidikan tinggi lanjutan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												v. Tingkat /Level Kerangka Kualifikasi Nasional Indonesia;
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Surat Keterangan Pengganti Ijazah, Transkrip Akademik dan SKPI</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Surat Keterangan Pengganti Ijazah, Transkrip Akademik dan SKPI diberikan apabila :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Kehilangan ijazah asli, transkrip akademik dan SKPI asli yang disertai dengan Surat Keterangan Kehilangan dari Pemilik;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Ijazah, transkrip akademik, SKPI yang rusak, harus menunjukkan ijazah, transkrip akademik, dan SKPI tersebut;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Permohonan surat keterangan pengganti ijazah harus disampaikan kepada Rektor oleh yang berkepentingan secara tertulis;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Surat Keterangan Pengganti sebagaimana dimaksud pada ayat (1) paling sedikit memuat:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Keterangan bahwa ijazah, transkrip akademik, SKPI rusak, hilang, atau musnah sebagaimana dibuktikandengan pencantuman Nomor dan Tanggal keterangan tertulis tentang kehilangan tersebut dari pihak kepolisian;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Keterangan tentang muatan ijazah, transkrip akademik, dan SKPI sebagai dimaksud dalam pasal 76 ayat (1), (2), (3).
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Surat Keterangan Pengganti sebagaimana dimaksud pada ayat (1) berupa pengganti:
+											</div>
+											<div class="m-0" style="padding-left: 4em; text-indent:-1.0em;">
+												1) Ijazah, transkrip akademik ditulis dalam Bahasa Indonesia dan Bahasa Inggris;
+											</div>
+											<div class="m-0" style="padding-left: 4em; text-indent:-1.0em;">
+												2) SKPI ditulis dalam bahasa Indonesia dan Bahasa Inggris.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Pemberian Gelar</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Lulusan suatu Prodi diberikan gelar akademik yang dicantumkan dalam ijazah, dan yang bersangkutan berhak memakai gelar tersebut sesuai dengan peraturan perundang-undangan yang berlaku;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Gelar Akademik :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Sarjana Ilmu Sosial (S.Sos) bagi lulusan Prodi Ilmu Politik, Prodi Hubungan Internasional dan Prodi Sosiologi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Sarjana Administrasi Publik (S.AP) Prodi Administrasi Publik ;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Sarjana Ilmu Komunikasi (S.I.Kom) Prodi Ilmu Komunikasi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. Sarjana Sains (S.Si) bagi lulusan Prodi Biologi dan Prodi Fisika;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. Sarjana Ekonomi (S.M) bagi lulusan Prodi Manajemen dan S.Ak bagi Prodi Akuntansi, Sarjana Pariwisata (S.Par) bagi lulusan Prodi Pariwisata
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												f. Sarjana Sastra (S.S.) bagi lulusan Prodi Sastra Indonesia, Prodi Sastra Inggris, Prodi Sastra Jepang, dan Prodi Sastra Korea; Sarjana Bahasa (S.Li) bagi Prodi Bahasa Korea;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												g. Sarjana Teknik (S.T.) bagi lulusan Prodi Teknik Fisika, Prodi Teknik Elektro, Prodi Teknik Mesin;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												h. Sarjana Komputer (S.Kom.) bagi lulusan Prodi Sistem Informasi dan Prodi Informatika;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												i. Sarjana Hukum (S.H.) bagi lulusan Prodi Hukum;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												j. Sarjana Pertanian (S.P.) bagi lulusan Prodi Agroteknologi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												k. Sarjana Keperawatan (S.Kep.) bagi lulusan Prodi Ilmu Keperawatan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												l. Sarjana Sains Terapan (S.Tr. Keb) bagi lulusan Prodi Kebidanan;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Gelar Akademik Pendidikan Profesi Ners (Ns) bagi lulusan Prodi Pendidikan Ners;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Gelar Akademik Program Diploma III adalah Ahli Madya (A.Md. Par) bagi lulusan Prodi Perhotelan.
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(5)	Gelar Akademik Program Diploma III adalah Madya (A.Md.) bagi lulusan Prodi Bahasa Korea;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(6)	Gelar Akademik Program Magister dan program Doktor
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Magister Ilmu Politik ( M.Sos.) bagi lulusan Prodi Magister Ilmu Politik
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Magister Manajemen (M.M.) bagi lulusan Prodi Magister Manajemen
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Magister Hukum (M.H.) bagi lulusan Magister Hukum
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. Magister Administrasi Publik (M.A.P.) bagi lulusan Prodi Magister Administrasi Publik
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												e. Magister Sains (M.Si.) bagi lulusan Magister Biologi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												f. Magister Komputer (M.Kom) bagi lulusan Prodi Magister Informatika;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												g. Doktor Ilmu Politik (Dr.Sos) bagi lulusan Prodi Doktor Ilmu Politik;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												h. Doktor Administrasi Publik (Dr.A.P.) bagi lulusan Prodi Doktor Administrasi Publik;
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h4 class="text-center">PENGHARGAAN DAN SANKSI</h4>
+										<h6 class="text-center">Penghargaan pada Mahasiswa</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Mahasiswa berprestasi dalam bidang akademik dan non akademik dapat diberi penghargaan oleh Universitas;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Mahasiswa berprestasi dalam bidang akademik sebagaimana dimaksud pada ayat (1) pasal ini adalah :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. mahasiswa yang mempunyai IPS = 4,00 dengan beban studi minimal 18 sks;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. mahasiswa yang memenangkan kompetisi dalam suatu bidang keilmuan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. mahasiswa yang mengharumkan nama Universitas dalam suatu bidang keilmuan berdasarkan penilaian Senat Universitas;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Mahasiswa berprestasi dalam bidang non akademik sebagaimana dimaksud pada ayat (1) pasal ini adalah :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. mahasiswa yang memenangkan kompetisi tingkat nasional;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. mahasiswa	yang	mengharumkan	nama	Universitas	dalam	bidang	non	akademik berdasarkanpenilaian Senat Universitas;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Mahasiswa berprestasi dapat diberi penghargaan berupa :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. sertifikat dan/atau piagam atas prestasinya;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. beasiswa.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Penghargaan pada Dosen</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Dosen diberi penghargaan oleh Universitas jika :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. telah mengabdi di Universitas selama 25 (dua puluh lima) tahun dan/atau 50 (lima puluh) tahun tanpa putus;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. memenangkan kompetisi dalam suatu bidang keilmuan dan/atau kompetisi dosen berprestasi;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. melakukan publikasi internasional media yang berkualitas baik;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. mengharumkan nama Universitas berdasarkan penilaian Senat Universitas;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Penghargaan bagi dosen sebagaimana dimaksud pada ayat (1) pasal ini dapat berupa :
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. sertifikat dan/atau piagam;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. dana stimulus untuk mempertahankan/meningkatkan prestasinya.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Sanksi pada Mahasiswa</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Mahasiswa yang melanggar ketentuan-ketentuan yang berlaku di Universitas dapat dijatuhi sanksi;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Sanksi sebagaimana dimaksud pada ayat (1) pasal ini dapat berupa peringatan tertulis, pemberhentian studi sementara (skorsing) atau pemberhentian studi permanen (drop out)
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Mahasiswa yang sedang menjalani sanksi skorsing tidak dibenarkan menjadi pengurus organisasi kemahasiswaan dan tidak boleh mengikuti semua kegiatan kemahasiswaan.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Peringatan Tertulis</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Peringatan tertulis diberikan oleh Ketua Prodi tiap semester jika IPS dan/atau IPK< 2,00;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Peringatan tertulis, pemberhentian sementara (skorsing) atau pemberhentian permanen (drop out) oleh Dekan/Direktur jika melakukan pelanggaran peraturan/tata tertib kehidupan kampus dan kode etik mahasiswa;
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Pemberhentian Studi Sementara(Skorsing)</h6>
+										<p class="mb-0" style="text-align: justify">
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Pemberhentian studi sementara (skorsing) dijatuhkan kepada mahasiswa jika terbukti melanggar tata tertib kehidupan kampus, melanggar kode etik mahasiswa, melakukan kecurangan / pelanggaran / penghinaan terhadap ketentuan dan proses akademik yang berlaku di Universitas;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Sanksi skorsing dijatuhkankepada mahasiswa sehingga tidak boleh mengikuti kegiatan akademik dan kegiatan non akademik selama-lamanya sebanyak 2 (dua) semester;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Sanksi skorsing dijatuhkan oleh Dekan kepada mahasiswa dengan surat keputusan yang ditembuskan kepada Rektor, Wakil Rektor Bidang Akademik , Biro Adminsitrasi Akademik (BAA), Biro Administrasi Keuangan (BAK) dan Biro Kemahasiswaan;
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Mahasiswa yang dijatuhi sanksi skorsing ditetapkan sebagai mahasiswa cuti dan diperhitungkan dalam masa studi.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Putus Studi (Drop Out)</h6>
+										<p class="mb-0" style="text-align: justify">
+											Mahasiswa dapat diberhentikan dari kuliah secara permanen (drop out) oleh Universitas jika :
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	IPK kurang dari 2,00 (dua koma nol nol) selama 2 (dua) semester berturut-turut dimulai dari semester 2 dan seterusnya;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Habis masa studinya;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(3)	Tidak aktif selama 2 (dua) semester berturut-turut;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(4)	Diberi 2 (dua) kali peringatan tertulis, tetapi mahasiswa tidak mampu memperbaiki diri;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(5)	Tidak lulus ujian Tugas Akhir sebanyak 2 (dua)kali penggantian judul;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(6)	Tidak dapat menyelesaikan studi walaupun telah dilakukan perpanjangan masa studi;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(7)	Melakukan pelanggaran berat terhadap peraturan/tata tertib kehidupan kampus, kode etik mahasiswa;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(8)	Mahasiswa yang telah ditetapkan sebagai mahasiswa putus kuliah (drop out) pada salah satu program studi tidak dapat melanjutkan pada program studi lainnya di lingkungan Universitas
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(9)	Prosedur pelaksanaan pemberhentian studi program Diploma, Program Sarjana dan Pascasarjana:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Dekan/Direktur wajib memberi surat peringatan pertama, kedua, dan ketiga pada setiap akhir semester1(satu), akhir semester 2(dua) dan akhir semester 3 (tiga) kepada mahasiswa program sarjana dan Diploma yang IPK-nya kurang atau sama dengan 2,00; mahasiswa program  Magister yang IPK-nya kurang dari 2,75 dan mahasiswa program Doktor yang IPK-nya kurang dari 3,00.
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Pada akhir semester 4 (empat), Dekan/Direktur menetapkan mahasiswa program Sarjana dan Diploma yang IPK-nya 2,00; mahasiswa program Magister yang IPK-nya kurang dari 2,75; mahasiswa program Doktor yang IPK-nya kurang dari 3,00 sebagai mahasiswa putus kuliah (drop out)
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												c. Dekan/Direktur menerbitkan surat keputusan tentang mahasiswa putus kuliah (drop out) sebagaimana dimaksud pada butir b ayat (8) pasal ini.
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												d. Dekan/Direktur dapat menerbitkan surat keputusan drop out (DO) atau dikeluarkan sebagai mahasiswa Universitas Siber Asia bagi mahasiswa yang melakukan pelanggaran berat.
+											</div>
+										</p>
+									</div>
+									<div class="mb-5">
+										<h6 class="text-center">Mengundurkan Diri</h6>
+										<p class="mb-0" style="text-align: justify">
+											Mahasiswa dapat diberhentikan dari kuliah secara permanen (drop out) oleh Universitas jika :
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(1)	Bagi mahasiswa yang disebut pada pasal 86 ayat (1, 2, 3, 4) diberikan kesempatan untuk mengundurkan diri dari Universitas;
+											</div>
+											<div style="padding-left: 1.5em; text-indent:-1.5em;">
+												(2)	Prosedur pelaksanaan pengunduran diri:
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												a. Dekan/Direktur wajib memberi surat peringatan pertama,kedua, dan ketiga pada setiap akhir semester 1(satu), akhir semester 2(dua) dan akhir semester 3 (tiga) kepada mahasiswa program sarjana dan diploma yang IPK-nya kurang atau sama dengan 2,00; mahasiswa program Magister yang IPK-nya kurang dari 2,75 dan mahasiswa program Doktor yang IPK-nya kurang dari 3,00.
+											</div>
+											<div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
+												b. Dekan/Direktur menerbitkan surat keputusan tentang mahasiswa mengundurkan diri sebagaimana dimaksud pada butir (a) ayat (2) pasal ini.
 											</div>
 										</p>
 									</div>
