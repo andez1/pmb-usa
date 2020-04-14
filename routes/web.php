@@ -25,6 +25,7 @@ Route::get('/academic-info', 'LandingController@academic_info')->name('landing.a
 Route::get('/academic-program', 'LandingController@academic_program')->name('landing.academic_program');
 Route::get('/academic-guide', 'LandingController@academic_guide')->name('landing.academic_guide');
 Route::get('/study-guide', 'LandingController@study_guide')->name('landing.study_guide');
+Route::get('/keunggulan-lulusan', 'LandingController@keunggulan_lulusan')->name('landing.keunggulan_lulusan');
 
 /**
  * Academic
