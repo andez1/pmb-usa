@@ -1,5 +1,7 @@
 @extends('layouts.main-page')
 
+@section('active-about', 'active')
+
 @section('contentBox')
         <!-- Page Heading Box ==== -->
         <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
@@ -30,7 +32,44 @@
 								<div class="icon-content mb-2">
 									<ol>
                     <li>
-                      <h4>Apa itu online learning?</h4>
+                      <h4>Why Asia Cyber University?</h4>
+                      <table class="table table-borderless">
+                          <tr>
+                            <th scope="row">1</th>
+                            <td>Perguruan Tinggi Swasta pertama yang mendapatkan lisensi pemerintah untuk menyelenggarakan jenjang Pendidikan tinggi berbasis full online learning.</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">2</th>
+                            <td>Menghadirkan pengajaran dengan kualitas dunia (world class learning).</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">3</th>
+                            <td>Membawa teknologi terbaik dan terbaru dari Korea.</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">4</th>
+                            <td>Didukung oleh pengajar yang kompeten dan ahli di bidangnya.</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">5</th>
+                            <td>Materi perkuliahan yang up to date dan menarik.</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">6</th>
+                            <td>Waktu perkuliahan yang fleksibel dan dapat diakses kapanpun dan dimanapun melalui internet.</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">7</th>
+                            <td>Biaya perkuliahan yang sangat jangkau dan dapat dicicil.</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">8</th>
+                            <td>kuliah berkualitas tinggi melalui pengembangan sistem akademik kuliah dan sistem manajemennya.</td>
+                          </tr>
+                      </table>
+                    </li>
+                    <li>
+                    <h4>Apa itu online learning?</h4>
                     <p style="text-align: justify">Online learning disebut juga e-Learning atau Online Course adalah konsep pendidikan yang memanfaatkan Teknologi Informasi dan Komunikasi dalam proses belajar mengajar. Dalam perkuliahan online atau kuliah non tatap muka ini mahasiswa tidak perlu duduk dengan manis di ruang kelas untuk menyimak setiap ucapan dari seorang dosen secara langsung. Kuliah Online juga merupakan salah satu sarana pembelajaran interaktif, dosen dan mahasiswa dapat berkomunikasi dengan menggunakan media internet. Dosen dapat memberikan materi kuliah, baik berupa file, video, maupun tulisan (teks). Dengan kuliah online, seorang dosen juga bisa mengajar di beberapa tempat secara bersamaan. Mahasiswa dapat mengikuti kuliah di mana saja dan kapan saja, selama mereka memiliki koneksi Internet.</p>
                     </li>
                     <li>
@@ -79,7 +118,7 @@
                       </table>
                     </li>
                     <li>
-                      <h4>Apa yg dimaksud cyber university?</h4>
+                      <h4>Apa yang dimaksud cyber university?</h4>
                       <p style="text-align: justify">Cyber University merupakan bentuk upaya untuk menjadikan perguruan tinggi berbasis teknologi informasi, usaha tersebut diterapkan di semua lini, mulai dari sistem pembelajaran, kurikulum, pelayanan, fasilitas, maupun sarana dan prasarana lainnya, itu semua dikembangkan dengan berbasis teknologi. Selain itu</p>
                       <p style="text-align: justify">Cyber University menyediakan layanan belajar formal melalui media online yang bisa diakses semua orang, terlepas dari keterbatasan akibat lokasi geografis, fleksibilitas, dan lainnya.</p>
                       <p style="text-align: justify">Cyber University adalah salah satu kecanggihan fasilitas bagi siswa yang ingin melanjutkan ke perguruan tinggi. Kementerian Riset Teknologi dan Pendidikan Tinggi menyadari perlunya mengubah universitas di Indonesia jadi sekelas internasional. Untuk mendorong daya saing generasi muda Indonesia, universitas-universitas di Indonesia perlu melakukan inovasi sistem secara menyeluruh.</p>

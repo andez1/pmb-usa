@@ -20,12 +20,16 @@ Route::get('/marketing-promosi', 'LandingController@marketing_promosi')->name('l
 Route::get('/pelatihan-bersertifikasi', 'LandingController@pelatihan_bersertifikasi')->name('landing.pelatihan_bersertifikasi');
 Route::get('/faq', 'LandingController@faq')->name('landing.faq');
 Route::get('/about-usa', 'LandingController@about')->name('landing.about');
+Route::get('/sejarah-usa', 'LandingController@sejarah')->name('landing.sejarah');
 Route::get('/admission-info', 'LandingController@admission_info')->name('landing.admission_info');
 Route::get('/academic-info', 'LandingController@academic_info')->name('landing.academic_info');
 Route::get('/academic-program', 'LandingController@academic_program')->name('landing.academic_program');
 Route::get('/academic-guide', 'LandingController@academic_guide')->name('landing.academic_guide');
 Route::get('/study-guide', 'LandingController@study_guide')->name('landing.study_guide');
 Route::get('/keunggulan-lulusan', 'LandingController@keunggulan_lulusan')->name('landing.keunggulan_lulusan');
+Route::get('/greetings-rector', 'LandingController@greetings_rector')->name('landing.greetings_rector');
+Route::get('/visi-misi', 'LandingController@visi_misi')->name('landing.visi_misi');
+Route::get('/struktur-organisasi', 'LandingController@struktur_organisasi')->name('landing.struktur_organisasi');
 
 /**
  * Academic
