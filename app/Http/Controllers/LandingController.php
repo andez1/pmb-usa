@@ -36,6 +36,11 @@ class LandingController extends Controller
         return view('landing.about');
     }
 
+    public function sejarah()
+    {
+        return view('landing.sejarah');
+    }
+
     public function admission_info()
     {
         return view('landing.admission-info');
@@ -64,5 +69,20 @@ class LandingController extends Controller
     public function keunggulan_lulusan()
     {
         return view('landing.keunggulan-lulusan');
+    }
+
+    public function struktur_organisasi()
+    {
+        return view('landing.struktur-organisasi');
+    }
+
+    public function visi_misi()
+    {
+        return view('landing.visi-misi');
+    }
+
+    public function greetings_rector()
+    {
+        return view('landing.greetings-rector');
     }
 }

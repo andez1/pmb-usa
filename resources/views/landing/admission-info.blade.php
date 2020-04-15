@@ -1,5 +1,7 @@
 @extends('layouts.main-page')
 
+@section('active-pendaftaran', 'active')
+
 @section('contentBox')
         <!-- Page Heading Box ==== -->
         <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">

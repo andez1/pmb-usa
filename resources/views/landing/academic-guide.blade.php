@@ -1,5 +1,7 @@
 @extends('layouts.main-page')
 
+@section('active-pendaftaran', 'active')
+
 @section('contentBox')
         <!-- Page Heading Box ==== -->
         <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
@@ -27,6 +29,9 @@
 					 <div class="row">
 						<div class="col-lg-12 col-md-12 col-sm-12 m-b30">
 							<div class="feature-container">
+                                <div class="text-center mb-5">
+                                    <img src="{{ asset('homepages/images/academic-guide.jpg') }}" alt="">
+                                </div>
 								<div class="icon-content mb-2">
 									<p style="text-align: justify">
                                         Mari bergabung menjadi Mahasiswa Universitas Siber Asia, menyongsong masa depan cerah di Era Smart Digital Society.</br>
