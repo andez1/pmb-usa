@@ -132,29 +132,63 @@
 							</li>
 							<li><a href="{{ route('landing.about') }}">Tentang USA <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
-									<li><a href="{{ route('landing.about') }}">Tentang USA</i></a></li>
-									<li><a href="{{ route('landing.marketing_promosi') }}">Marketing dan Promosi</a></li>
-									<li><a href="{{ route('landing.pelatihan_bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
+									<li><a href="{{ route('landing.greetings_rector') }}">Salam Rektor</i></a></li>
+									{{-- <li><a href="{{ route('landing.about') }}">Tentang USA</i></a></li> --}}
+									<li><a href="{{ route('landing.sejarah') }}">Sejarah USA</i></a></li>
+									<li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
+									<li><a href="{{ route('landing.struktur_organisasi') }}">Struktur Organisasi</i></a></li>
+									{{-- <li><a href="{{ route('landing.pelatihan_bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
 									<li><a href="{{ route('landing.teaser_video_pembelajaran') }}">Teaser Video Pembelajaran</a></li>
-									<li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a></li>
+									<li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a></li> --}}
 									<li><a href="{{ route('landing.faq') }}">FAQ</a></li>
 								</ul>
 							</li>
 							<li><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
-									<li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
-									<li><a href="{{ route('landing.academic_info') }}">Info Akademik</a></li>
+									<li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
+										<ul class="sub-menu">
+											<li><a href="#">Teknologi Informasi</a></li>
+											<li><a href="#">Sistem Informasi</a></li>
+											<li><a href="#">Manajemen Kontemporer</a></li>
+											<li><a href="#">Akuntansi dan Perpajakan</a></li>
+											<li><a href="#">Penyiaran dan Komunikasi Digital</a></li>
+										</ul>
+									</li>
+									<li><a href="{{ route('landing.academic_info') }}">Sistem Pembelajaran</a></li>
+									{{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
 									<li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
+									<li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
+								</ul>
+							</li>
+							{{-- <li>
+								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
+							</li> --}}
+							<li><a href="javascript:;">Pendaftaran<i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
+										<ul class="sub-menu">
+											<li><a href="#">Info</a></li>
+											<li><a href="{{ route('landing.admission_info') }}">Persyaratan</a></li>
+											<li><a href="http://portal.koreaswt.com/apply/index.jsp">Admission</a></li>
+										</ul>
+									</li>
 									<li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
-									<li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li>
+									<li><a href="#">Kalender Akademik</a></li>
+									<li><a href="{{ route('landing.marketing_promosi') }}">Beasiswa</a></li>
+								</ul>
+							</li>
+							<li><a href="javascript:;">Berita<i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="#">Berita</a></li>
+									<li><a href="#">Kegiatan</a></li>
 								</ul>
 							</li>
 							<li>
-								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
+								<a href="#">Kontak</a>
 							</li>
-							<li>
+							{{-- <li>
 								<a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a>
-							</li>
+							</li> --}}
 						</ul>
 						<div class="nav-social-link">
 							<a href="javascript:;"><i class="fa fa-facebook"></i></a>
@@ -1216,6 +1250,25 @@
 						<div class="item">
 							<div class="recent-news">
 								<div class="action-box">
+									<img src="{{ asset('homepages/images/blog/latest-blog/mpr-unas.jpg') }}" alt="">
+								</div>
+								<div class="info-bx">
+									<ul class="media-post">
+										<li><a href="#"><i class="fa fa-calendar"></i>Agustus 26 2019</a></li>
+										<li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
+									</ul>
+									<h5 class="post-title"><a href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/">YMIK Terima Izin Pendirian Universitas Siber Pertama di Indonesia</a></h5>
+									<p>BALI (YMIK) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menerima izin prinsip pendirian Universitas Siber Asia dari Menteri</p>
+									<div class="post-extra">
+										<a href="#" class="btn-link">READ MORE</a>
+										<a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>19 Comment</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="recent-news">
+								<div class="action-box">
 									<img src="{{ asset('homepages/images/blog/latest-blog/blog-1.jpg') }}" alt="">
 								</div>
 								<div class="info-bx">
@@ -1270,6 +1323,7 @@
 								</div>
 							</div>
 						</div>
+						
 					</div>
 				</div>
 			</section>
