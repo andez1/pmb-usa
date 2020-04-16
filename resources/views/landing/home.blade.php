@@ -1250,6 +1250,25 @@
 						<div class="item">
 							<div class="recent-news">
 								<div class="action-box">
+									<img src="{{ asset('homepages/images/blog/latest-blog/mpr-unas.jpg') }}" alt="">
+								</div>
+								<div class="info-bx">
+									<ul class="media-post">
+										<li><a href="#"><i class="fa fa-calendar"></i>Agustus 26 2019</a></li>
+										<li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
+									</ul>
+									<h5 class="post-title"><a href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/">YMIK Terima Izin Pendirian Universitas Siber Pertama di Indonesia</a></h5>
+									<p>BALI (YMIK) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menerima izin prinsip pendirian Universitas Siber Asia dari Menteri</p>
+									<div class="post-extra">
+										<a href="#" class="btn-link">READ MORE</a>
+										<a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>19 Comment</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="recent-news">
+								<div class="action-box">
 									<img src="{{ asset('homepages/images/blog/latest-blog/blog-1.jpg') }}" alt="">
 								</div>
 								<div class="info-bx">
@@ -1304,6 +1323,7 @@
 								</div>
 							</div>
 						</div>
+						
 					</div>
 				</div>
 			</section>
