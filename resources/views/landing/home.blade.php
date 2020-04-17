@@ -155,6 +155,7 @@
 										</ul>
 									</li>
 									<li><a href="{{ route('landing.academic_info') }}">Sistem Pembelajaran</a></li>
+									<li><a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a></li>
 									{{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
 									<li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
 									<li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
@@ -186,9 +187,6 @@
 							<li>
 								<a href="#">Kontak</a>
 							</li>
-							{{-- <li>
-								<a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a>
-							</li> --}}
 						</ul>
 						<div class="nav-social-link">
 							<a href="javascript:;"><i class="fa fa-facebook"></i></a>
