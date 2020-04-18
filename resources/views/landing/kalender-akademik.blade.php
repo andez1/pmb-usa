@@ -7,7 +7,7 @@
         <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
             <div class="container">
                 <div class="page-banner-entry">
-                    <h1 class="text-white">INFO AKADEMIK</h1>
+                    <h1 class="text-white">KALENDER AKADEMIK</h1>
 				 </div>
             </div>
         </div>
@@ -16,7 +16,7 @@
 				<ul class="list-inline">
 					<li><a href="#">Beranda</a></li>
 					<li>Akademik</li>
-					<li>Info Akademik</li>
+					<li>Kalender Akademik</li>
 				</ul>
 			</div>
 		</div>

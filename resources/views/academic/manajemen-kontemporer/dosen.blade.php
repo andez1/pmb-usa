@@ -70,6 +70,60 @@
                                     <td>Manajemen SDM</td>
                                     <td>2018</td>
                                   </tr>
+                                  <tr>
+                                    <th>2</th>
+                                    <td>Dr. Sugeng Prasetno, SE., MH.</td>
+                                    <td>Universitas Indonesia</td>
+                                    <td>Manajemen</td>
+                                    <td>Universitas Indonesia</td>
+                                    <td>Manajemen Strategik</td>
+                                    <td></td>
+                                  </tr>
+                                  <tr>
+                                    <th>3</th>
+                                    <td>Dr. Kusama, Pramanajati SE., M.Si.M.</td>
+                                    <td>Inggris</td>
+                                    <td>Manajemen</td>
+                                    <td>Universitas Gajah Mada</td>
+                                    <td>Manajemen Keuangan</td>
+                                    <td></td>
+                                  </tr>
+                                  <tr>
+                                    <th>4</th>
+                                    <td>Drs. Suadi Putra, M.Si.M</td>
+                                    <td>Universitas Nasional</td>
+                                    <td>Manajemen</td>
+                                    <td>Unhas</td>
+                                    <td>Manajemen Pemasaran</td>
+                                    <td></td>
+                                  </tr>
+                                  <tr>
+                                    <th>5</th>
+                                    <td>Dwitya  Kirana Amry, B.Sc., MSC.</td>
+                                    <td>Warwick University England</td>
+                                    <td>Manajemen</td>
+                                    <td>Warwick University England</td>
+                                    <td>Manajemen</td>
+                                    <td>2019</td>
+                                  </tr>
+                                  <tr>
+                                    <th>6</th>
+                                    <td>Mufidah Sahid SE., MM.</td>
+                                    <td>Universitas Nasional</td>
+                                    <td>Manajemen</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>2016</td>
+                                  </tr>
+                                  <tr>
+                                    <th>7</th>
+                                    <td>Dr. Sukusen Soemarinda, DipTech., MBA.</td>
+                                    <td>Universitas Indonesia</td>
+                                    <td>Ekonomi Manajemen</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                  </tr>
                               </table>
                         </div>
                     </div>

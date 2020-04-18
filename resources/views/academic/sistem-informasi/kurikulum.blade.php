@@ -31,110 +31,32 @@
                     <div class="feature-container">
                         <ul class="nav nav-tabs mb-4">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer') }}">Profil</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi') }}">Profil</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active"
-                                    href="{{ url('/manajemen-kontemporer/kurikulum') }}">Kurikulum</a>
+                                    href="{{ url('/sistem-informasi/kurikulum') }}">Kurikulum</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/keunggulan') }}">Keunggulan</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi/keunggulan') }}">Keunggulan</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/prospek-karir') }}">Prospek Karir</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi/prospek-karir') }}">Prospek Karir</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/dosen') }}">Dosen</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi/dosen') }}">Dosen</a>
                             </li>
                         </ul>
                         <div class="icon-content mb-2">
                             <ul class="ml-4">
                                 <li class="mb-3">
                                     <h4>KURIKULUM BERBASIS KPT-KKNI level 6</h4>
-                                    <p style="text-align: justify">Dengan penerapan KPT-KKNI level 6, Manajemen Kontemporer dan E-Commerce telah
-                                        merancang SKPI (Surat Keterangan Pendamping Ijazah) yang menerangkan jenjang pencapaian
-                                        learning outcome lulusan. Selain itu, SKPI dirancang sebagai recognition of competence outside
-                                        the running curricula, artinya kompetensi yang dicapai oleh peserta didik akan diakui oleh Asia
-                                        Cyber Universitysebagai pelengkap pencapaian learning outcome. Sistem recognition atau
-                                        pengakuan kompetensi yang dicapai oleh peserta didik adalah meliputi 3 komponen utama yakni
-                                        kompetensi pendukung professional, kompetensi pendukung soft skill, dan kompetensi
-                                        pendukung talenta/jalur bakat. Dengan demikian, penerapan KPT-KKNI level 6 di Manajemen
-                                        Kontemporer dan E-Commerce berupaya konsisten dalam membangun mutu lulusan di bidang
-                                        manajemen kontempore</p>
+                                    <p style="text-align: justify">Kurikulum pendidikan tinggi Prodi Sistem Informasi (Prodi SI) merupakan body knowledge of information sistem yang tersusun atas perencanaan learning outcome sebagai bagian proses utama dalam menghasilkan outcome program. Prodi SI yang telah mendapatkan akreditasi BAN PT peringkat B pada 2014 berupaya intensif untuk semakin mengokohkan jati dirinya dalam menghasilkan lulusan yang bermutu di bidang information system dan diserap oleh stakeholder/user. Dalam upaya tersebut, Prodi SI melakukan upgrading kurikulum dari KBK menjadi KPT-KKNI (Kurikulum Pendidikan Tinggi berbasis KKNI). KPT-KKNI disusun berdasarkan analisis data tracer study dan rekomendasi program outcome dan learning outcome dari APTIKOM (Asosiasi Pendidikan Tinggi Informatika dan Komputer).</p>
                                 </li>
                                 <li>
-                                    <h4>SEBARAN MATA KULIAH PROGRAM STUDI MANAJEMEN KONTEMPORER 2020</h4>
+                                    <h4>SEBARAN MATA KULIAH PROGRAM STUDI SISTEM INFORMASI 2020</h4>
                                     <p>Jumlah sks Program Studi (minimum untuk kelulusan) :  144 sks yang tersusun sebagai berikut:</p>
-                                    <table class="table table-bordered text-center">
-                                        <thead>
-                                          <tr class="bg-info">
-                                            <th colspan="5">Semester 1</th>
-                                          </tr>
-                                          <tr class="bg-success">
-                                            <th scope="col">No</th>
-                                            <th scope="col">Kode</th>
-                                            <th scope="col">Mata Kuliah</th>
-                                            <th scope="col">SKS</th>
-                                            <th scope="col">Keterangan</th>
-                                          </tr>
-                                        </thead>
-                                        <tbody>
-                                          <tr>
-                                            <th scope="row">1</th>
-                                            <td>`19010001</td>
-                                            <td>Pancasila*</td>
-                                            <td>2</td>
-                                            <td></td>
-                                          </tr>
-                                          <tr>
-                                            <th scope="row">2</th>
-                                            <td>`19010001</td>
-                                            <td>Pancasila*</td>
-                                            <td>2</td>
-                                            <td></td>
-                                          </tr>
-                                          <tr>
-                                            <th scope="row">3</th>
-                                            <td>`19010001</td>
-                                            <td>Pancasila*</td>
-                                            <td>2</td>
-                                            <td></td>
-                                          </tr>
-                                          <tr>
-                                            <th scope="row">4</th>
-                                            <td>`19010001</td>
-                                            <td>Pancasila*</td>
-                                            <td>2</td>
-                                            <td></td>
-                                          </tr>
-                                          <tr>
-                                            <th scope="row">5</th>
-                                            <td>`19010001</td>
-                                            <td>Pancasila*</td>
-                                            <td>2</td>
-                                            <td></td>
-                                          </tr>
-                                          <tr>
-                                            <th scope="row">6</th>
-                                            <td>`19010001</td>
-                                            <td>Pancasila*</td>
-                                            <td>2</td>
-                                            <td></td>
-                                          </tr>
-                                          <tr>
-                                            <th scope="row">7</th>
-                                            <td>`19010001</td>
-                                            <td>Pancasila*</td>
-                                            <td>2</td>
-                                            <td></td>
-                                          </tr>
-                                          <tr class="bg-warning">
-                                            <th colspan="3">Jumlah SKS yang wajib diambil di semester ke-1</th>
-                                            <th>20</th>
-                                            <td></td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
+                                    <a href="{{ asset('homepages/documents/kurikulum-sistem-informasi.pdf') }}" class="btn btn-primary">DOWNLOAD</a>
                                 </li>
                             </ul>
                         </div>

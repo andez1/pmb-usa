@@ -39,7 +39,8 @@
                                 <a class="nav-link" href="{{ url('/sistem-informasi/keunggulan') }}">Keunggulan</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi/prospek-karir') }}">Prospek Karir</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi/prospek-karir') }}">Prospek
+                                    Karir</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/sistem-informasi/dosen') }}">Dosen</a>
@@ -62,7 +63,7 @@
                                 </tr>
                                 <tr>
                                     <th>Gelar</th>
-                                    <td>Sarjana Manajemen (S.M)</td>
+                                    <td>Sarjana Sistem Informasi (S.SI)</td>
                                 </tr>
                                 <tr>
                                     <th>Syarat Pendidikan</th>
@@ -83,51 +84,72 @@
                                 </tr>
                             </table>
                             <h4>Profil</h4>
-                            <p style="text-align: justify">Prodi Manajemen Kontemporer didirikan untuk menjawab
-                                tantangan revolusi industri 4,0 dimana semua operasi perusahaan saat ini bekerja atas
-                                dasar teknologi informasi digital. Manajemen Kontemporer diharapkan akan menghasilkan
-                                lulusan yang bermutu di bidang manajemen kontemporer untuk dapat diserap oleh stake
-                                holder/user.</p>
-                            <p style="text-align: justify">Sebagai uniqueness Prodi dan Universitas, pendidikan berbasis
-                                karakter dan integritas dipilih oleh Manajemen Kontemporer sebagai penciri khas
-                                kurikulum. Dengan demikian, penyusunan KPT-KKNI level 6 oleh Manajemen Kontemporer telah
-                                memperhatikan prosedur atau langkah-langkah standar yang telah ditetapkan oleh Belmawa
-                                DIKTI, yakni telah mengacu pada rekomendasi dari asosiasi prodi (Forum Manajemen
-                                Indonesia).</p>
-                            <p style="text-align: justify">Dengan demikian, penerapan KPT-KKNI level 6 di Manajemen
+                            <p style="text-align: justify">Prodi Sistem Informasi merupakan disiplin ilmu yang
+                                berhubungan dengan teknologi informasi dan komunikasi guna menyelesaikan masalah?masalah
+                                bisnis dan teknologi dalam perusahaan. Lulusan sistem informasi mempunyai kesempatan
+                                karir di bidang bisnis dan teknologi informasi.
+                            </p>
+                            <p style="text-align: justify">Program ini bertujuan membekali mahasiswa dengan wawasan
+                                pengetahuan dan keterampilan dalam pengembangan sistem informasi, tren penggunaan dan
+                                kebutuhan sistem informasi strategis bagi perusahaan (corporate information systems),
+                                penggunaan sistem informasi yang berbasis e-business, serta pengetahuan teknologi dan
+                                bisnis yang dapat diaplikasikan dalam dunia usaha dan dunia industri (DUDI). Mahasiswa
+                                akan diarahkan menjadi seorang pakar di dalam perencanaan strategi dan pemanfaatan SI/TI
+                                guna mendukung kinerja bisnis sebuah organisasi.
+                            </p>
+                            <!--<p style="text-align: justify">Dengan demikian, penerapan KPT-KKNI level 6 di Manajemen
                                 Kontemporer berupaya konsisten dalam membangun mutu lulusan di bidang manajemen
-                                kontemporer.</p>
+                                kontemporer.</p>-->
                             <h4>Tujuan Program</h4>
                             <ul class="ml-4">
-                                <li>Tercapainya kualitas pendidikan dan pengajaran dengan lulusan yang memiliki
-                                    kompetensi yang tinggi di bidang ilmu manajemen kontemporer</li>
-                                <li>Tercapainya kualitas dan kuantitas penelitian untuk mengembangkan dan menerapkan
-                                    ilmu manajemen kontemporer dan teknologi, serta menunjang pengembangan proses
-                                    pembelajaran</li>
-                                <li>Tercapainya kegiatan pengabdian pada masyarakat untuk menerapkan ilmu manajemen
-                                    kontemporer dan teknologi dalam rangka meningkatkan pemberdayaan masyarakat</li>
-                                <li>Tercapainya efisiensi dan efektivitas manajemen kelembagaan untuk menghasilkan tata
-                                    kelola sarana dan prasarana Program Studi Manajemen Kontemporer. yang baik dan
-                                    transparan </li>
-                                <li>Tercapainya jaringan kerjasama untuk meningkatkan kepakaran dosen sesuai bidang
-                                    ilmunya</li>
+                                <li>Menghasilkan lulusan yang ahli di bidang sistem informasi E-Business berbasis
+                                    capaian Pembelajaran Lulusan sesuai dengan Standar Nasional Pendidikan Tinggi dan
+                                    memiliki kemampuan untuk mengembangkan keilmuan sistem informasi secara lebih maju,
+                                    berkarakter profesional dan memiliki budi pekerti yang luhur.
+                                </li>
+                                <li>Menghasilkan topik-topik penelitian dibidang sistem informasi yang berorientasi pada
+                                    kontribusi pengembangan IPTEK untuk revolusi industry 4.0 di Indonesia serta
+                                    menghasilkan luaran publikasi nasional dan internasional bereputasi dan HAKI.</li>
+                                <li>Menghasilkan kegiatan-kegiatan pengabdian masyarakat yang berorientasi pada
+                                    kontribusi IPTEK pada masyarakat.
+                                </li>
+                                <li>Menghasilkan dosen tetap Prodi Sistem Informasi yang memiliki kepakaran di bidang
+                                    sistem informasi E-Business mengacu pada perkembangan revolusi industry 4.0.
+                                </li>
+                                <li>Menciptakan budaya akademik yang unggul dengan menerapkan standar dan peraturan
+                                    nasional perguruan tinggi yang mampu mengikuti perkembangan iptek di bidang sistem
+                                    informasi.
+                                </li>
                             </ul>
                             <h4>Visi Program Studi</h4>
-                            <p style="text-align: justify">Menciptakan dan mewujudkan pendidikan tinggi dalam bidang
-                                ilmu manajemen kontemporer yang dinamis, progresif dan berkualitas.</p>
-                            <p style="text-align: justify">Menjadi Program Studi unggulan dalam pengembangan ilmu
-                                pengetahuan dan teknologi manajemen kontemporer on-line unggulan dalam tata kelola
-                                pendidikan, penelitian, dan pengabdian masyarakat pada tahun 2024.</p>
+                            <p style="text-align: justify">MMenjadi Program Studi Sistem Informasi On-line yang unggul
+                                pada tataran global dibidang E-Bisnis dan masuk dalam tujuh besar Program Studi Sistem
+                                Informasi On-line unggulan di Indonesia</p>
+                            <!-- <p style="text-align: justify">Menjadi Program Studi unggulan dalam pengembangan ilmu
+                                pengetahuan dan teknologi Sistem Informasi on-line unggulan dalam tata kelola
+                                pendidikan, penelitian, dan pengabdian masyarakat pada tahun 2024.</p>-->
+
                             <h4>Misi Program Studi</h4>
                             <ol type="a" class="ml-4">
-                                <li>Membentuk sarjana ekonomi manajemen kontemporer yang memiliki kompetensi dan
-                                    profesionalitas</li>
-                                <li>Membentuk sarjana ekonomi manajemen kontemporer yang memiliki kemampuan tinggi dalam
-                                    beradaptasi dengan lingkungan kerja dan perubahan kemajuan ilmu dan teknologi</li>
-                                <li>Meningkatkan mutu dosen sesuai dengan perkembangan dan kemajuan ilmu manajemen
-                                    kontemporer dan teknologi</li>
-                                <li>Melaksanakan pendidikan, penelitian dan pengabdian kepada masyarakat di bidang ilmu
-                                    manajemen kontemporer.</li>
+                                <li>Menyelenggarakan pendidikan tinggi di bidang sistem informasi yang mengacu pada
+                                    standar mutu nasional BAN PT dan mengikuti trend perkembangan TIK di tingkat
+                                    internasional yakni revolusi industry 4.0.
+                                </li>
+                                <li>Menyelenggarakan penelitian di bidang ilmu sistem informasi yang berfokus pada
+                                    pengembangan E-Bisnis untuk mendukung pengembangan revolusi industry 4.0 di
+                                    Indonesia.
+                                </li>
+                                <li>Menyelenggarakan pengabdian kepada masyarakat yang berbasis ilmu pengetahuan dan
+                                    teknologi dengan memanfaatkan hasil penelitian.
+                                </li>
+                                <li>Membangun kompetensi dosen sesuai standar nasional untuk menunjang pengembangan
+                                    kurikulum yang fokus pada pengembangan E-Bisnis berdasarkan Standar Nasional
+                                    Pendidikan Tinggi.
+                                </li>
+                                <li>MMembangun budaya akademik yang menerapkan standar dan peraturan nasional perguruan
+                                    tinggi yang mampu mengikuti perkembangan iptek di bidang sistem informasi pendidikan
+                                    secara on-line secara global.
+                                </li>
                             </ol>
                         </div>
                     </div>

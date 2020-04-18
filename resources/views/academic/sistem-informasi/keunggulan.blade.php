@@ -6,6 +6,7 @@
     <div class="container">
         <div class="page-banner-entry">
             <h1 class="text-white">Keunggulan Sistem Informasi</h1>
+            <h1 class="text-white">Keunggulan Sistem Informasi</h1>
         </div>
     </div>
 </div>
@@ -15,6 +16,7 @@
         <ul class="list-inline">
             <li><a href="#">Beranda</a></li>
             <li>Program Studi</li>
+            <li>Sistem Informasi</li>
             <li>Sistem Informasi</li>
             <li>Keunggulan</li>
         </ul>

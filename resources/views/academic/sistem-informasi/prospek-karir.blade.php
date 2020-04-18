@@ -31,32 +31,32 @@
                     <div class="feature-container">
                         <ul class="nav nav-tabs mb-4">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer') }}">Profil</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi') }}">Profil</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/kurikulum') }}">Kurikulum</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi/kurikulum') }}">Kurikulum</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/keunggulan') }}">Keunggulan</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi/keunggulan') }}">Keunggulan</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="{{ url('/manajemen-kontemporer/prospek-karir') }}">Prospek Karir</a>
+                                <a class="nav-link active" href="{{ url('/sistem-informasi/prospek-karir') }}">Prospek Karir</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/dosen') }}">Dosen</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi/dosen') }}">Dosen</a>
                             </li>
                         </ul>
                         <div class="icon-content mb-2">
-                            <p>Lulusan Program Studi Manajemen Kontemporer Universitas Siber Asia nantinya diharapkan dapat menjadi orofesi seperti dibawah ini</p>
+                            <p>Lulusan Program Studi Sistem Informasi Universitas Siber Asia nantinya diharapkan dapat menjadi orofesi seperti dibawah ini</p>
                             <ol class="ml-4">
-                                <li>Entrepreneur/Wirausaha yang berwawasan strategi bisnis dan teknologi informasi</li>
-                                <li>Chief Operational Officer pada korporasi/perusahaan</li>
-                                <li>Konsultan Manajemen Strategi/bisnis global</li>
-                                <li>Manajer yang berorientasi e-Bisnis</li>
-                                <li>Manajer pada hampir semua bidang industri (manufaktur, jasa, transportasi, retail, perbankan)</li>
-                                <li>Manajer HRD, Marketing, Accounting, Finance pada korporasi/perusahaan multinasional</li>
+                                <li>Project Manager TIK</li>
+                                <li>System Analyst</li>
+                                <li>System Database Administrator</li>
+                                <li>System Multimedia Developer</li>
+                                <li>Web Developer</li>
+                                <!--<li>Manajer HRD, Marketing, Accounting, Finance pada korporasi/perusahaan multinasional</li>
                                 <li>Business researcher/developer pada industri perbankan, asuransi, jasa keuangan, perhotelan, dan berbagai industrylainnya</li>
-                                <li>Manajer project and development</li>
+                                <li>Manajer project and development</li>-->
                             </ol>
                         </div>
                     </div>

@@ -54,7 +54,7 @@
                                 </tr>
                                 <tr>
                                     <th>Website</th>
-                                    <td><a href="https://pmb.lms-usa.site/">https://pmb.lms-usa.site/</a></td>
+                                    <td><a href="https://pmb.lms-usa.site/manajemen-kontemporer">https://pmb.lms-usa.site/manajemen-kontemporer</a></td>
                                 </tr>
                                 <tr>
                                     <th>Jenjang</th>

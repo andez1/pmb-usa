@@ -63,12 +63,66 @@
                                   </tr>
                                   <tr>
                                     <th>1</th>
-                                    <td>Dr. Ir. Edi Sugiono,  SE., MM</td>
-                                    <td>Universitas  Negeri Jember</td>
-                                    <td>Manajemen</td>
-                                    <td>Universitas Brawijaya</td>
+                                    <td>Andrianingsih, S.Kom., MMSI</td>
+                                    <td>Universitas Gunadarma</td>
+                                    <td>Sistem Informasi</td>
+                                    <!--<td>Universitas Brawijaya</td>
                                     <td>Manajemen SDM</td>
+                                    <td>2018</td>-->
+                                  </tr>
+                                  <tr>
+                                    <th>2</th>
+                                    <td>Dr. Fauziah, S.Kom., MMSI</td>
+                                    <td>Universitas Gunadarma</td>
+                                    <td>Sistem Informasi</td>
+                                    <td>Universitas Gunadarma</td>
+                                    <td>Artifical Intelligent</td>
                                     <td>2018</td>
+                                  </tr>
+                                  <tr>
+                                    <th>3</th>
+                                    <td>Ira Diana Sholihati, S.Kom., MMSI</td>
+                                    <td>Universitas Gunadarma</td>
+                                    <td>sistem Informasi Bisnis</td>
+                                    <!--<td>Universitas Gajah Mada</td>
+                                    <td>Manajemen Keuangan</td>
+                                    <td></td>-->
+                                  </tr>
+                                  <tr>
+                                    <th>4</th>
+                                    <td>Ir. Endah Tri Esthi, MMSI</td>
+                                    <td>Universitas Gunadarma</td>
+                                    <td>Sistem Informasi</td>
+                                    <!--<td>Unhas</td>
+                                    <td>Manajemen Pemasaran</td>
+                                    <td></td>-->
+                                  </tr>
+                                  <tr>
+                                    <th>5</th>
+                                    <td>Yunan Fauzi Wijaya, S.Kom., MMSI</td>
+                                    <td>Universitas Gunadarma</td>
+                                    <td>Data Science</td>
+                                    <!--<td>Warwick University England</td>
+                                    <td>Manajemen</td>
+                                    <td>2019</td>-->
+                                  </tr>
+                                  <tr>
+                                    <th>6</th>
+                                    <td>Gatot Supriyono, MMSI</td>
+                                    <td>Universitas Gunadarma</td>
+                                    <td>Sistem Informasi Bisnis</td>
+                                    <!--<td></td>
+                                    <td></td>
+                                    <td>2016</td>-->
+                                  </tr>
+                                  <tr>
+                                    <th>7</th>
+                                    <td>Ari Gunawan, MMSI</td>
+                                    <td>Universitas Gunadarma</td>
+                                    <td>Data Science</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
                                   </tr>
                               </table>
                         </div>
