@@ -30,7 +30,7 @@
 						<div class="col-lg-12 col-md-12 col-sm-12 m-b30">
 							<div class="feature-container">
 								<div class="icon-content mb-2">
-									<img src="{{ asset('homepages/images/oraganisation.png') }}" class="img-fluid" alt="Responsive image">
+									<img src="{{ asset('homepages/images/new-organisation.png') }}" class="img-fluid" alt="Responsive image">
 								</div>
 							</div>
 						</div>
