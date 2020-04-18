@@ -16,7 +16,7 @@
  */
 Route::get('/', 'LandingController@index')->name('landing.index');
 Route::get('/teaser-video-pembelajaran', 'LandingController@teaser_video_pembelajaran')->name('landing.teaser_video_pembelajaran');
-Route::get('/marketing-promosi', 'LandingController@marketing_promosi')->name('landing.marketing_promosi');
+Route::get('/beasiswa', 'LandingController@beasiswa')->name('landing.beasiswa');
 Route::get('/pelatihan-bersertifikasi', 'LandingController@pelatihan_bersertifikasi')->name('landing.pelatihan_bersertifikasi');
 Route::get('/faq', 'LandingController@faq')->name('landing.faq');
 Route::get('/about-usa', 'LandingController@about')->name('landing.about');
@@ -30,6 +30,8 @@ Route::get('/keunggulan-lulusan', 'LandingController@keunggulan_lulusan')->name(
 Route::get('/greetings-rector', 'LandingController@greetings_rector')->name('landing.greetings_rector');
 Route::get('/visi-misi', 'LandingController@visi_misi')->name('landing.visi_misi');
 Route::get('/struktur-organisasi', 'LandingController@struktur_organisasi')->name('landing.struktur_organisasi');
+Route::get('/kenapa-usa', 'LandingController@kenapa_usa')->name('landing.kenapa_usa');
+Route::get('/keunggulan-usa', 'LandingController@keunggulan_usa')->name('landing.keunggulan_usa');
 
 /**
  * Academic

@@ -31,13 +31,19 @@
 							<div class="feature-container">
 								<div class="icon-content mb-2 rector">
 									<img src="{{ asset('homepages/images/dr-cho.jpg') }}" class="img-fluid" alt="Responsive image">
-									<p style="text-align: justify">Welcome to the first cyber university of Indonesia, Asia Cyber University.  Our university is established since 2019 to meet the 21 century's needs, professional leader in a smart digital society under 4th industrialized revolution.</p>
-									<p style="text-align: justify">Indonesia is an archipelago nation that consist almost 17.000 islands with the population around 270 million of people. Thus Indonesia has a great opportunity to be the key player in global competition, leading to digital economy market. This requires development of human resources that has major skill in IT literacy and applied science. In order to meet this goal, massive education through online higher education system is the only solution regarding the diversity of geographical condition in Indonesia as well as the quality discrepancy.</p>
-									<p style="text-align: justify">Every year, more than 2 million talented young men and women from high school graduations are losing opportunity to continue higher education, mainly cased by economical problem and other urgent reasons.  Our cyber university provides solution that will provide top quality education service to you anytime, and wherever you are, without any bias, with very affordable tuition.  Online higher education can bring you into the top through bring you a learning system that can be everywhere not only in the city or big metro. Online learning system guides every students to be an active learner and full of joy through interactive activity and supported by digital material in Learning Management System.</p>
-									<p style="text-align: justify">You will be the pioneer group to break the bias that education is possible only through physical facilities.  You can reach to world class lectures with top support from our professional staffs and top education technologies. Welcome to visit our homepage again and hope to start a journey together to write your own success story together with us.</p>
-                                    <p>Thank you again, Best regards,</p>
-                                    <p>Rector,</p>
-                                    <p>Prof. Cho, Jang Youn  Ph.D., CPA</p>
+									<p style="text-align: justify;">
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selamat datang di Universitas Siber pertama di Indonesia, Universitas Siber Asia / Asia Cyber University. Universitas kami didirikan sejak 2019 untuk memenuhi kebutuhan abad ke 21, pemimpin professional dalam masyarakat digital yang cerdas dalam era revolusi industri ke 4.
+									</p>
+									<p style="text-align: justify;">
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indonesia adalah negara kepulauan yang terdiri dari hampir 17.000 pulau dengan populasi sekitar 270 juta penduduk. Maka dari itu, Indonesia memiliki kesempatan yang strategis untuk menjadi pemain kunci dalam kompetisi global, memimpin pasar ekonomi digital. Ini membutuhkan pengembangan Sumber Daya Manusia yang memiliki keterampilan utama dalam hal literasi Teknologi Informasi dan Sains terapan. Untuk memenuhi tujuan ini, Pendidikan secara massif yang diselenggarakan melalui Sistem Pendidikan tinggi adalah satu-satunya solusi mengingat perbedaan kondisi geografis di Indonesia sekaligus perbedaan kualitas.
+									</p>
+									<p style="text-align: justify;">
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setiap tahun, lebih dari 2 juta orang berbakat yang tamat dari Sekolah Menengah Atas kehilangan kesempatan untuk melanjutkan Pendidikan tinggi, kasus terbanyak disebabkan oleh masalah ekonomi dan masalah-masalah penting lainnya. Universitas Siber kami menyediakan solusi yang akan menyediakan layanan pendidikan berkualitas terbaik, kapanpun, dan dimanapun anda, tanpa bias apapun, dengan biaya Pendidikan yang terjangkau. Pendidikan Tinggi berbasis daring dapat membawa Anda menuju puncak melalui sebuah sistem pembelajaran yang dapat di akses dimana saja tanpa perlu berada di kota besar. Sistem Pembelajaran Online memandu setiap siswa untuk menjadi pembelajar yang aktif dan penuh kegembiraan melalui aktivitas interaktif dan didukung oleh materi digital dalam Sistem Manajemen Pembelajaran (Learning Management System).
+									</p>
+									<p style="text-align: justify;">
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anda akan menjadi kelompok pionir untuk mendobrak bias yang menggambarkan bahwa Pendidikan hanya mungkin dilakukan bila melalui fasilitas fisik. Anda akan mencapai perkuliahan kelas dunia dengan dukungan teratas dari staf professional dan teknologi pendidikan kami. Selamat datang dan semoga kita dapat memulai perjalanan bersama untuk menuliskan cerita sukses Anda, bersama kami.
+									</p>
+                                    <p>Hormat kami, <br> Rektor, <br> Prof. Cho, Jang Youn  Ph.D., CPA </p>
 								</div>
 							</div>
 						</div>
