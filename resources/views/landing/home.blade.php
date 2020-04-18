@@ -175,6 +175,7 @@
                                             <li><a href="#">Kalender Akademik</a></li>
                                         </ul>
                                     </li>
+                                    <li><a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a></li>
                                     {{-- <li><a href="{{ route('landing.academic_info') }}">Sistem Pembelajaran</a>
                             </li>
                             <li><a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a></li>
