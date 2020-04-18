@@ -157,37 +157,6 @@
                                 </li> --}}
                             </ul>
                             </li>
-                            <li><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
-                                            <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
-                                            <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
-                                            <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan Perpajakan</a></li>
-                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="javascript:;">Sistem Pembelajaran<i class="fa fa-chevron-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
-                                            <li><a href="#">Peraturan Akademik</a></li>
-                                            <li><a href="#">Kalender Akademik</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a></li>
-                                    {{-- <li><a href="{{ route('landing.academic_info') }}">Sistem Pembelajaran</a>
-                            </li>
-                            <li><a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a></li>
-                            <li><a href="#">Kalender Akademik</a></li> --}}
-                            {{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
-                            <li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
-                            <li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
-                            </ul>
-                            </li>
-                            {{-- <li>
-								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
-							</li> --}}
                             <li><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
                                     <li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
@@ -202,6 +171,46 @@
                                     <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
                                 </ul>
                             </li>
+                            <li><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
+                                <ul class="sub-menu">
+                                    <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a>
+                                            </li>
+                                            <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
+                                            <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
+                                            <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
+                                                    Perpajakan</a></li>
+                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan
+                                                    Komunikasi Digital</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
+                                            </li>
+                                            <li><a href="#">Peraturan Akademik</a></li>
+                                            <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran Online</a>
+                                    </li>
+                                    <li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi
+                                            Akademik</a></li>
+                                    <li><a href="#">Digital Library</a></li>
+                                    {{-- 
+                            <li><a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a></li>
+                            <li><a href="#">Kalender Akademik</a></li> --}}
+                                    {{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a>
+                            </li>
+                            <li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
+                            <li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
+                            </ul>
+                            </li>
+                            {{-- <li>
+								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
+							</li> --}}
                             <li><a href="javascript:;">Berita<i class="fa fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
                                     <li><a href="#">Berita</a></li>
@@ -1119,6 +1128,44 @@
     </section>
     <!-- Recent News End -->
 
+    <!-- Testimonials -->
+    <div class="section-area section-sp2 bg-fix ovbl-dark"
+        style="background-image:url('{{ asset('homepages/images/background/bg2.jpg') }}');">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-white heading-bx left">
+                    <h2 class="title-head text-uppercase">Video Teaser</h2>
+                    <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page</p> -->
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-md-2">
+                <div class="col mb-4">
+                  <div class="card">
+                    <video controls src="{{ asset('homepages/images/video/teaservideo1.mp4') }}"></video>
+                    <div class="card-body">
+                      <h5 class="card-title">Video Teaser Pelatihan</h5>
+                      <p class="card-text">Universitas Siber Asia secara regular atau setiap akhir semester menyelenggarakan Pelatihan Profesional Bersertifikasi dengan tujuan untuk mempersiapkan lulusan yang siap berkiprah di dunia kerja dalam Era Smart Digital Economy. Pelatihan secara rutin diumumkan dalam kalender akademik mahasiswa wajib mengikuti pelatihan tersebut secara online.</p>
+                      <a href="#" class="btn btn-primary">Read More</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col mb-4">
+                  <div class="card">
+                    <video controls src="{{ asset('homepages/images/video/teaservideo2.mp4') }}"></video>
+                    <div class="card-body">
+                      <h5 class="card-title">Video Teaser Pembelajaran</h5>
+                      <p class="card-text">Salah satu materi utama pembelajaran online dalam LMS
+                        (Learning Management System) adalah tersedianya video pembelajaran di setiap minggu
+                        perkuliahan. Anda dapat mengaksesnya setiap minggu dengan berulang-ulang untuk dapat
+                        memperjelas pemahaman anda tentang materi yang dirancang setiap minggu.</p>
+                      <a href="#" class="btn btn-primary">Read More</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </div>
+    </div>
+    <!-- Testimonials END -->
     </div>
     <!-- contact area END -->
     </div>

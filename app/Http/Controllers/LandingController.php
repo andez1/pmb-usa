@@ -56,9 +56,9 @@ class LandingController extends Controller
         return view('landing.admission-info');
     }
 
-    public function academic_info()
+    public function kalender_akademik()
     {
-        return view('landing.academic-info');
+        return view('landing.kalender-akademik');
     }
 
     public function academic_program()
