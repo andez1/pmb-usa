@@ -36,10 +36,21 @@ Route::get('/keunggulan-usa', 'LandingController@keunggulan_usa')->name('landing
 /**
  * Academic
  */
-Route::get('/penyiaran-dan-komunikasi-digital', 'AcademicController@penyiaran');
-Route::get('/manajemen-kontemporer', 'AcademicController@manajemen');
-Route::get('/akuntansi-dan-perpajakan', 'AcademicController@akuntansi');
+// Manajemen Kontemporer
+Route::get('/manajemen-kontemporer', 'AcademicController@manajemenKontemporer');
+Route::get('/manajemen-kontemporer/kurikulum', 'AcademicController@manajemenKontemporer_kurikulum');
+Route::get('/manajemen-kontemporer/keunggulan', 'AcademicController@manajemenKontemporer_keunggulan');
+Route::get('/manajemen-kontemporer/prospek-karir', 'AcademicController@manajemenKontemporer_prospek');
+Route::get('/manajemen-kontemporer/dosen', 'AcademicController@manajemenKontemporer_dosen');
+// Sistem Informasi
 Route::get('/sistem-informasi', 'AcademicController@sistemInformasi');
+Route::get('/sistem-informasi/kurikulum', 'AcademicController@sistemInformasi_kurikulum');
+Route::get('/sistem-informasi/keunggulan', 'AcademicController@sistemInformasi_keunggulan');
+Route::get('/sistem-informasi/prospek-karir', 'AcademicController@sistemInformasi_prospek');
+Route::get('/sistem-informasi/dosen', 'AcademicController@sistemInformasi_dosen');
+
+Route::get('/penyiaran-dan-komunikasi-digital', 'AcademicController@penyiaran');
+Route::get('/akuntansi-dan-perpajakan', 'AcademicController@akuntansi');
 Route::get('/teknologi-informasi', 'AcademicController@teknologiInformasi');
 
 /**
