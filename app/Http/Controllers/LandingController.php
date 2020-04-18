@@ -16,9 +16,19 @@ class LandingController extends Controller
         return view('landing.teaser-video-pembelajaran');
     }
 
-    public function marketing_promosi()
+    public function beasiswa()
     {
-        return view('landing.marketing-promosi');
+        return view('landing.beasiswa');
+    }
+
+    public function kenapa_usa()
+    {
+        return view('landing.kenapa-usa');
+    }
+
+    public function keunggulan_usa()
+    {
+        return view('landing.keunggulan-usa');
     }
 
     public function pelatihan_bersertifikasi()

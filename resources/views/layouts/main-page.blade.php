@@ -134,28 +134,36 @@
 							<li class="@yield('active-about')"><a href="javascript:;">Tentang USA <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li><a href="{{ route('landing.greetings_rector') }}">Salam Rektor</i></a></li>
+                                        <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa USA?</i></a></li>
+                                        <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan USA</i></a></li>
+                                        <li><a href="{{ route('landing.sejarah') }}">Sejarah USA</i></a></li>
+                                        <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
+                                        <li><a href="{{ route('landing.struktur_organisasi') }}">Struktur Organisasi</i></a></li>
+                                        <li><a href="{{ route('landing.faq') }}">FAQ</a></li>
 									{{-- <li><a href="{{ route('landing.about') }}">Tentang USA</i></a></li> --}}
-									<li><a href="{{ route('landing.sejarah') }}">Sejarah USA</i></a></li>
-									<li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
-									<li><a href="{{ route('landing.struktur_organisasi') }}">Struktur Organisasi</i></a></li>
 									{{-- <li><a href="{{ route('landing.pelatihan_bersertifikasi') }}">Pelatihan Bersertifikasi</a></li>
 									<li><a href="{{ route('landing.teaser_video_pembelajaran') }}">Teaser Video Pembelajaran</a></li>
 									<li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a></li> --}}
-									<li><a href="{{ route('landing.faq') }}">FAQ</a></li>
 								</ul>
 							</li>
 							<li class="@yield('active-akademik')"><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
-										<ul class="sub-menu">
-											<li><a href="#">Teknologi Informasi</a></li>
-											<li><a href="#">Sistem Informasi</a></li>
-											<li><a href="#">Manajemen Kontemporer</a></li>
-											<li><a href="#">Akuntansi dan Perpajakan</a></li>
-											<li><a href="#">Penyiaran dan Komunikasi Digital</a></li>
-										</ul>
-									</li>
-									<li><a href="{{ route('landing.academic_info') }}">Sistem Pembelajaran</a></li>
+                                        <ul class="sub-menu">
+                                            <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
+                                            <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
+                                            <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
+                                            <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan Perpajakan</a></li>
+                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="javascript:;">Sistem Pembelajaran<i class="fa fa-chevron-down"></i></a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
+                                            <li><a href="#">Peraturan Akademik</a></li>
+                                            <li><a href="#">Kalender Akademik</a></li>
+                                        </ul>
+                                    </li>
 									{{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
 									<li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
 									<li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
@@ -164,24 +172,24 @@
 							{{-- <li>
 								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
 							</li> --}}
-							<li class="@yield('active-pendaftaran')"><a href="javascript:;">Pendaftaran<i class="fa fa-chevron-down"></i></a>
+							<li class="@yield('active-pendaftaran')"><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
-										<ul class="sub-menu">
-											<li><a href="#">Info</a></li>
-											<li><a href="{{ route('landing.admission_info') }}">Persyaratan</a></li>
-											<li><a href="http://portal.koreaswt.com/apply/index.jsp">Admission</a></li>
-										</ul>
-									</li>
-									<li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
-									<li><a href="#">Kalender Akademik</a></li>
-									<li><a href="{{ route('landing.marketing_promosi') }}">Beasiswa</a></li>
+                                        <ul class="sub-menu">
+                                            <li><a href="#">Info Pendaftaran</a></li>
+                                            <li><a href="{{ route('landing.admission_info') }}">Persyaratan Pendaftaran</a></li>
+                                            <li><a href="#">Periode Pendaftaran</a></li>
+                                            <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
 								</ul>
 							</li>
 							<li class="@yield('active-berita')"><a href="javascript:;">Berita<i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li><a href="#">Berita</a></li>
 									<li><a href="#">Kegiatan</a></li>
+									<li><a href="#">Siaran Pers</a></li>
 								</ul>
 							</li>
 							<li class="@yield('active-kontak')">
@@ -321,7 +329,7 @@
 </div>
 
 <!-- External JavaScripts -->
-<script src="{{ asset('homepages/js/jquery.min.js') }}"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="{{ asset('homepages/vendors/bootstrap/js/popper.min.js') }}"></script>
 <script src="{{ asset('homepages/vendors/bootstrap/js/bootstrap.min.js') }}"></script>
 <script src="{{ asset('homepages/vendors/bootstrap-select/bootstrap-select.min.js') }}"></script>
