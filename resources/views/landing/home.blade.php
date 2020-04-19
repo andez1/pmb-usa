@@ -198,7 +198,7 @@
                                     </li>
                                     <li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi
                                             Akademik</a></li>
-                                    <li><a href="#">Digital Library</a></li>
+                                    <li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
                                     {{-- 
                             <li><a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a></li>
                             <li><a href="#">Kalender Akademik</a></li> --}}

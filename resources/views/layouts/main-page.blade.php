@@ -179,7 +179,7 @@
 									</li>
 									<li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran Online</a></li>
 									<li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi Akademik</a></li>
-									<li><a href="#">Digital Library</a></li>
+									<li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
 									{{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
 									<li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
 									<li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
