@@ -31,23 +31,31 @@
 							<div class="feature-container">
 								<div class="icon-content mb-2">
 									<ol class="ml-4">
-										<li class="mb-2">
-											<b>Visi</b>
-											<p>Visi Universitas adalah menjadi Universitas Siber unggulan di Indonesia dalam tata kelola pendidikan, penelitian, dan pengabdian pada masyarakat pada tahun 2024</p>
+										<li class="mb-4">
+											<h4>Visi</h4>
+											<p>Menjadi perguruan tinggi online unggulan berbasis Smart Digital Technology pada 2025 yang berkontribusi pada Era Smart Society 5.0.</p>
+											{{-- Visi Lama --}}
+											{{-- <p>Visi Universitas adalah menjadi Universitas Siber unggulan di Indonesia dalam tata kelola pendidikan, penelitian, dan pengabdian pada masyarakat pada tahun 2024</p> --}}
 										</li>
-										<li class="mb-2">
-											<b>Misi</b>
+										<li class="mb-4">
+											<h4>Misi</h4>
 											<p>Berdasarkan rumusan visi UNSIA, maka yang menjadi misi UNSIA adalah sebagai berikut:</p>
 											<ol type="a" class="ml-5">
-												<li>Menyelenggarakan dan mengembangkan pendidikan tinggi berbasis online bertaraf nasional yang dapat bersaing di tataran global</li>
+												<li>Membangun tata kelola kampus online berbasis teknologi informasi yang mendukung layanan pendidikan tinggi secara massive dan online berbasis high-end Smart Digital Technology.</li>
+												<li>Mengembangkan sumber daya dosen dan tenaga kependidikan yang mampu menguasai platform smart digital technology berorientasi pada pengembangan keilmuan dan dan applied skill.</li>
+												<li>Mengembangkan sistem pembelajaran yang berorientasi pada luaran lulusan yang memiliki kemampuan dalam penguasaan applied science dan platform smart digital technology development dan berkarakter mandiri, inovatif, kreatif, mampu bekerja sama dan complex problem solving.</li>
+												<li>Membangun roadmap penelitian dan pengabdian kepada masyarakat berorientasi pada pengembangan Smart Digital Technology untuk mempersiapkan Era Smart Societ 5.0.</li>
+												<li>Menjalin networking dan kerjasama baik nasional dan internasional untuk mengembangkan kampus berbasis layanan online.</li>
+												{{-- Misi Lama --}}
+												{{-- <li>Menyelenggarakan dan mengembangkan pendidikan tinggi berbasis online bertaraf nasional yang dapat bersaing di tataran global</li>
 												<li>Menyelenggarakan pendidikan tinggi berbasis online yang menghasilkan lulusan yang unggul dalam bidangnya, menguasai perkembangan ilmu pengetahuan, teknologi dan kebudayaan terkini dan mampu bersaing di dunia kerja, baik nasional maupun internasional</li>
 												<li>Menyelenggarakan penelitian dan pengabdian pada masyarakat bagi pengembangan ilmu pengetahuan, teknologi dan kebudayaan yang mampu berkiprah di kancah nasional dan internasional</li>
 												<li>Menyelenggarakan tata kelola Universitas secara akuntabel yang mengacu pada sistem pendidikan nasional</li>
-												<li>Membangun jejaring kemitraan nasional dan internasional dalam rangka kelancaran penyelenggaraan pendidikan tinggi berbasis online</li>
+												<li>Membangun jejaring kemitraan nasional dan internasional dalam rangka kelancaran penyelenggaraan pendidikan tinggi berbasis online</li> --}}
 											</ol>
 										</li>
-										<li class="mb-2">
-											<b>Tujuan</b>
+										<li class="mb-4">
+											<h4>Tujuan</h4>
 											<ol type="a" class="ml-5">
 												<li>Terselenggaranya pendidikan tinggi berbasis online bertaraf nasional yang dapat bersaing di tataran global</li>
 												<li>Dihasilkannya lulusan yang memiliki integritas, kompetensi, serta daya saing nasional dan internasional.</li>

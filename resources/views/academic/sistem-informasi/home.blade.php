@@ -122,7 +122,7 @@
                                 </li>
                             </ul>
                             <h4>Visi Program Studi</h4>
-                            <p style="text-align: justify">MMenjadi Program Studi Sistem Informasi On-line yang unggul
+                            <p style="text-align: justify">Menjadi Program Studi Sistem Informasi On-line yang unggul
                                 pada tataran global dibidang E-Bisnis dan masuk dalam tujuh besar Program Studi Sistem
                                 Informasi On-line unggulan di Indonesia</p>
                             <!-- <p style="text-align: justify">Menjadi Program Studi unggulan dalam pengembangan ilmu
