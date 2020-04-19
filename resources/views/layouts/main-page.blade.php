@@ -173,7 +173,7 @@
                                     <li><a href="javascript:;">Sistem Pembelajaran<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
                                             <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
-                                            <li><a href="#">Peraturan Akademik</a></li>
+                                            <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan Akademik</a></li>
                                             <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a></li>
                                         </ul>
 									</li>

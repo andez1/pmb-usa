@@ -35,6 +35,7 @@ Route::get('/keunggulan-usa', 'LandingController@keunggulan_usa')->name('landing
 Route::get('/kontak', 'LandingController@kontak')->name('landing.kontak');
 Route::get('/arsip/berita', 'LandingController@berita')->name('landing.berita');
 Route::get('/arsip/siaran-pers', 'LandingController@siaran_pers')->name('landing.siaran_pers');
+Route::get('/peraturan-akademik', 'LandingController@peraturan_akademik')->name('landing.peraturan_akademik');
 
 /**
  * Academic
