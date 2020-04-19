@@ -15,9 +15,9 @@
  * Landing Page for Portal
  */
 Route::get('/', 'LandingController@index')->name('landing.index');
+Route::get('/teaser-video-pelatihan', 'LandingController@teaser_video_pelatihan')->name('landing.teaser_video_pelatihan');
 Route::get('/teaser-video-pembelajaran', 'LandingController@teaser_video_pembelajaran')->name('landing.teaser_video_pembelajaran');
 Route::get('/beasiswa', 'LandingController@beasiswa')->name('landing.beasiswa');
-Route::get('/pelatihan-bersertifikasi', 'LandingController@pelatihan_bersertifikasi')->name('landing.pelatihan_bersertifikasi');
 Route::get('/faq', 'LandingController@faq')->name('landing.faq');
 Route::get('/about-usa', 'LandingController@about')->name('landing.about');
 Route::get('/sejarah-usa', 'LandingController@sejarah')->name('landing.sejarah');
@@ -32,6 +32,10 @@ Route::get('/visi-misi', 'LandingController@visi_misi')->name('landing.visi_misi
 Route::get('/struktur-organisasi', 'LandingController@struktur_organisasi')->name('landing.struktur_organisasi');
 Route::get('/kenapa-usa', 'LandingController@kenapa_usa')->name('landing.kenapa_usa');
 Route::get('/keunggulan-usa', 'LandingController@keunggulan_usa')->name('landing.keunggulan_usa');
+Route::get('/kontak', 'LandingController@kontak')->name('landing.kontak');
+Route::get('/arsip/berita', 'LandingController@berita')->name('landing.berita');
+Route::get('/arsip/siaran-pers', 'LandingController@siaran_pers')->name('landing.siaran_pers');
+Route::get('/peraturan-akademik', 'LandingController@peraturan_akademik')->name('landing.peraturan_akademik');
 
 /**
  * Academic

@@ -107,7 +107,7 @@
                         <div class="secondary-inner">
                             <ul>
 								<li><a href="javascript:;" class="btn-link"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="javascript:;" class="btn-link"><i class="fa fa-google-plus"></i></a></li>
+								<li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a></li>
 								<li><a href="javascript:;" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
 								<!-- Search Button ==== -->
 								<li class="search-btn"><button id="quik-search-btn" type="button" class="btn-link"><i class="fa fa-search"></i></button></li>
@@ -173,7 +173,7 @@
                                     <li><a href="javascript:;">Sistem Pembelajaran<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
                                             <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
-                                            <li><a href="#">Peraturan Akademik</a></li>
+                                            <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan Akademik</a></li>
                                             <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a></li>
                                         </ul>
 									</li>
@@ -188,15 +188,15 @@
 							{{-- <li>
 								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
 							</li> --}}
-							<li class="@yield('active-berita')"><a href="javascript:;">Berita<i class="fa fa-chevron-down"></i></a>
+							<li class="@yield('active-arsip')"><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
-									<li><a href="#">Berita</a></li>
+									<li><a href="{{ route('landing.berita') }}">Berita</a></li>
 									<li><a href="#">Kegiatan</a></li>
-									<li><a href="#">Siaran Pers</a></li>
+									<li><a href="{{ route('landing.siaran_pers') }}">Siaran Pers</a></li>
 								</ul>
 							</li>
 							<li class="@yield('active-kontak')">
-								<a href="#">Kontak</a>
+								<a href="{{ route('landing.kontak') }}">Kontak</a>
 							</li>
 							{{-- <li>
 								<a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a>
@@ -204,7 +204,7 @@
 						</ul>
 						<div class="nav-social-link">
 							<a href="javascript:;"><i class="fa fa-facebook"></i></a>
-							<a href="javascript:;"><i class="fa fa-google-plus"></i></a>
+							<a href="https://www.instagram.com/asiacyberuniversity/"><i class="fa fa-instagram"></i></a>
 							<a href="javascript:;"><i class="fa fa-linkedin"></i></a>
 						</div>
                     </div>
@@ -235,7 +235,7 @@
 								<li><a href="#" class="btn-link"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#" class="btn-link"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
-								<li><a href="#" class="btn-link"><i class="fa fa-google-plus"></i></a></li>
+								<li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a></li>
 							</ul>
 						</div>
 						<div class="pt-btn-join">
@@ -280,11 +280,11 @@
 								<div class="widget footer_widget">
 									<h5 class="footer-title">Program Studi</h5>
 									<ul>
-										<li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
 										<li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
-										<li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan Perpajakan</a></li>
 										<li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
 										<li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
+										<li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan Perpajakan</a></li>
+										<li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
 									</ul>
 								</div>
 							</div>

@@ -110,7 +110,7 @@
                             <div class="secondary-inner">
                                 <ul>
                                     <li><a href="javascript:;" class="btn-link"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="javascript:;" class="btn-link"><i class="fa fa-google-plus"></i></a>
+                                    <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a>
                                     </li>
                                     <li><a href="javascript:;" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
                                     <!-- Search Button ==== -->
@@ -189,7 +189,7 @@
                                         <ul class="sub-menu">
                                             <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
                                             </li>
-                                            <li><a href="#">Peraturan Akademik</a></li>
+                                            <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan Akademik</a></li>
                                             <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a>
                                             </li>
                                         </ul>
@@ -211,20 +211,20 @@
                             {{-- <li>
 								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
 							</li> --}}
-                            <li><a href="javascript:;">Berita<i class="fa fa-chevron-down"></i></a>
+                            <li><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
-                                    <li><a href="#">Berita</a></li>
+                                    <li><a href="{{ route('landing.berita') }}">Berita</a></li>
                                     <li><a href="#">Kegiatan</a></li>
-                                    <li><a href="#">Siaran Pers</a></li>
+                                    <li><a href="{{ route('landing.siaran_pers') }}">Siaran Pers</a></li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="#">Kontak</a>
+                                <a href="{{ route('landing.kontak') }}">Kontak</a>
                             </li>
                             </ul>
                             <div class="nav-social-link">
                                 <a href="javascript:;"><i class="fa fa-facebook"></i></a>
-                                <a href="javascript:;"><i class="fa fa-google-plus"></i></a>
+                                <a href="https://www.instagram.com/asiacyberuniversity/"><i class="fa fa-instagram"></i></a>
                                 <a href="javascript:;"><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div>
@@ -1062,7 +1062,7 @@
                         </div>
                         <div class="info-bx">
                             <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Feb 28 201</a></li>
+                                <li><a href="#"><i class="fa fa-calendar"></i>Feb 28 2019</a></li>
                                 <li><a href="#"><i class="fa fa-user"></i>By Ristekdikti</a></li>
                             </ul>
                             <h5 class="post-title"><a
@@ -1145,7 +1145,7 @@
                     <div class="card-body">
                       <h5 class="card-title">Video Teaser Pelatihan</h5>
                       <p class="card-text">Universitas Siber Asia secara regular atau setiap akhir semester menyelenggarakan Pelatihan Profesional Bersertifikasi dengan tujuan untuk mempersiapkan lulusan yang siap berkiprah di dunia kerja dalam Era Smart Digital Economy. Pelatihan secara rutin diumumkan dalam kalender akademik mahasiswa wajib mengikuti pelatihan tersebut secara online.</p>
-                      <a href="#" class="btn btn-primary">Read More</a>
+                      <a href="{{ route('landing.teaser_video_pelatihan') }}" class="btn btn-primary">Read More</a>
                     </div>
                   </div>
                 </div>
@@ -1158,7 +1158,7 @@
                         (Learning Management System) adalah tersedianya video pembelajaran di setiap minggu
                         perkuliahan. Anda dapat mengaksesnya setiap minggu dengan berulang-ulang untuk dapat
                         memperjelas pemahaman anda tentang materi yang dirancang setiap minggu.</p>
-                      <a href="#" class="btn btn-primary">Read More</a>
+                      <a href="{{ route('landing.teaser_video_pembelajaran') }}" class="btn btn-primary">Read More</a>
                     </div>
                   </div>
                 </div>
@@ -1185,7 +1185,7 @@
                                 <li><a href="#" class="btn-link"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#" class="btn-link"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#" class="btn-link"><i class="fa fa-google-plus"></i></a></li>
+                                <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>
                         <div class="pt-btn-join">
@@ -1232,13 +1232,12 @@
                                 <div class="widget footer_widget">
                                     <h5 class="footer-title">Program Studi</h5>
                                     <ul>
-                                        <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan
-                                                Komunikasi Digital</a></li>
                                         <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
-                                        <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
-                                                Perpajakan</a></li>
                                         <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
                                         <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
+                                        <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
+                                            Perpajakan</a></li>
+                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
                                     </ul>
                                 </div>
                             </div>

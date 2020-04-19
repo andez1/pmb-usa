@@ -16,6 +16,26 @@ class LandingController extends Controller
         return view('landing.teaser-video-pembelajaran');
     }
 
+    public function teaser_video_pelatihan()
+    {
+        return view('landing.teaser-video-pelatihan');
+    }
+
+    public function peraturan_akademik()
+    {
+        return view('landing.peraturan-akademik');
+    }
+
+    public function berita()
+    {
+        return view('landing.berita');
+    }
+
+    public function siaran_pers()
+    {
+        return view('landing.siaran-pers');
+    }
+
     public function beasiswa()
     {
         return view('landing.beasiswa');
@@ -29,11 +49,6 @@ class LandingController extends Controller
     public function keunggulan_usa()
     {
         return view('landing.keunggulan-usa');
-    }
-
-    public function pelatihan_bersertifikasi()
-    {
-        return view('landing.pelatihan-bersertifikasi');
     }
 
     public function faq()
@@ -54,6 +69,11 @@ class LandingController extends Controller
     public function admission_info()
     {
         return view('landing.admission-info');
+    }
+
+    public function kontak()
+    {
+        return view('landing.kontak');
     }
 
     public function kalender_akademik()
