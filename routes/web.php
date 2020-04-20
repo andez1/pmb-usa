@@ -36,6 +36,7 @@ Route::get('/kontak', 'LandingController@kontak')->name('landing.kontak');
 Route::get('/arsip/berita', 'LandingController@berita')->name('landing.berita');
 Route::get('/arsip/siaran-pers', 'LandingController@siaran_pers')->name('landing.siaran_pers');
 Route::get('/peraturan-akademik', 'LandingController@peraturan_akademik')->name('landing.peraturan_akademik');
+Route::get('/penerimaan/jenjang-s1/info-pendaftaran', 'LandingController@jenjang_s1')->name('landing.jenjang_s1');
 
 /**
  * Academic
@@ -52,8 +53,13 @@ Route::get('/sistem-informasi/kurikulum', 'AcademicController@sistemInformasi_ku
 Route::get('/sistem-informasi/keunggulan', 'AcademicController@sistemInformasi_keunggulan');
 Route::get('/sistem-informasi/prospek-karir', 'AcademicController@sistemInformasi_prospek');
 Route::get('/sistem-informasi/dosen', 'AcademicController@sistemInformasi_dosen');
+// Penyiaran dan Komunikasi Digital
+Route::get('/penyiaran-dan-komunikasi-digital', 'AcademicController@penyiarandankomunikasidigital');
+Route::get('/penyiaran-dan-komunikasi-digital/kurikulum', 'AcademicController@penyiarandankomunikasidigital_kurikulum');
+Route::get('/penyiaran-dan-komunikasi-digital/keunggulan', 'AcademicController@penyiarandankomunikasidigital_keunggulan');
+Route::get('/penyiaran-dan-komunikasi-digital/prospek-karir', 'AcademicController@penyiarandankomunikasidigital_prospek');
+Route::get('/penyiaran-dan-komunikasi-digital/dosen', 'AcademicController@penyiarandankomunikasidigital_dosen');
 
-Route::get('/penyiaran-dan-komunikasi-digital', 'AcademicController@penyiaran');
 Route::get('/akuntansi-dan-perpajakan', 'AcademicController@akuntansi');
 Route::get('/teknologi-informasi', 'AcademicController@teknologiInformasi');
 

@@ -55,7 +55,9 @@
                                 </tr>
                                 <tr>
                                     <th>Website</th>
-                                    <td><a href="https://pmb.lms-usa.site/sistem-informasi">https://pmb.lms-usa.site/sistem-informasi</a></td>
+                                    <td><a
+                                            href="https://pmb.lms-usa.site/sistem-informasi">https://pmb.lms-usa.site/sistem-informasi</a>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <th>Jenjang</th>
@@ -97,9 +99,6 @@
                                 akan diarahkan menjadi seorang pakar di dalam perencanaan strategi dan pemanfaatan SI/TI
                                 guna mendukung kinerja bisnis sebuah organisasi.
                             </p>
-                            <!--<p style="text-align: justify">Dengan demikian, penerapan KPT-KKNI level 6 di Manajemen
-                                Kontemporer berupaya konsisten dalam membangun mutu lulusan di bidang manajemen
-                                kontemporer.</p>-->
                             <h4>Tujuan Program</h4>
                             <ul class="ml-4">
                                 <li>Menghasilkan lulusan yang ahli di bidang sistem informasi E-Business berbasis
@@ -125,9 +124,6 @@
                             <p style="text-align: justify">Menjadi Program Studi Sistem Informasi On-line yang unggul
                                 pada tataran global dibidang E-Bisnis dan masuk dalam tujuh besar Program Studi Sistem
                                 Informasi On-line unggulan di Indonesia</p>
-                            <!-- <p style="text-align: justify">Menjadi Program Studi unggulan dalam pengembangan ilmu
-                                pengetahuan dan teknologi Sistem Informasi on-line unggulan dalam tata kelola
-                                pendidikan, penelitian, dan pengabdian masyarakat pada tahun 2024.</p>-->
 
                             <h4>Misi Program Studi</h4>
                             <ol type="a" class="ml-4">
@@ -146,7 +142,7 @@
                                     kurikulum yang fokus pada pengembangan E-Bisnis berdasarkan Standar Nasional
                                     Pendidikan Tinggi.
                                 </li>
-                                <li>MMembangun budaya akademik yang menerapkan standar dan peraturan nasional perguruan
+                                <li>Membangun budaya akademik yang menerapkan standar dan peraturan nasional perguruan
                                     tinggi yang mampu mengikuti perkembangan iptek di bidang sistem informasi pendidikan
                                     secara on-line secara global.
                                 </li>

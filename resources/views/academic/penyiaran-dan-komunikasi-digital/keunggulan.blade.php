@@ -5,7 +5,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Keunggulan Sistem Informasi</h1>
+            <h1 class="text-white">Keunggulan Penyiaran dan Komunikasi Digital</h1>
         </div>
     </div>
 </div>
@@ -15,7 +15,7 @@
         <ul class="list-inline">
             <li><a href="#">Beranda</a></li>
             <li>Program Studi</li>
-            <li>Sistem Informasi</li>
+            <li>Penyiaran dan Komunikasi Digital</li>
             <li>Keunggulan</li>
         </ul>
     </div>
@@ -31,32 +31,28 @@
                     <div class="feature-container">
                         <ul class="nav nav-tabs mb-4">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi') }}">Profil</a>
+                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Profil</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi/kurikulum') }}">Kurikulum</a>
+                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital/kurikulum') }}">Kurikulum</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active"
-                                    href="{{ url('/sistem-informasi/keunggulan') }}">Keunggulan</a>
+                                <a class="nav-link active" href="{{ url('/penyiaran-dan-komunikasi-digital/keunggulan') }}">Keunggulan</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi/prospek-karir') }}">Prospek
-                                    Karir</a>
+                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital/prospek-karir') }}">Prospek Karir</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi/dosen') }}">Dosen</a>
+                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital/dosen') }}">Dosen</a>
                             </li>
                         </ul>
                         <div class="icon-content mb-2">
                             <ol class="ml-4">
                                 <li>Unggul dalam bidang pengetahuan Teknologi Informasi</li>
-                                <li>Konten Pendidikan berkualitas tinggi guna mempersiapkan mahasiswa menjadi individu
-                                    yang aktif dan fleksibel sesuai dengan perkembangan teknologi</li>
+                                <li>Konten Pendidikan berkualitas tinggi guna mempersiapkan mahasiswa menjadi individu yang aktif dan fleksibel sesuai dengan perkembangan teknologi</li>
                                 <li>Dosen dan pengajar yang mumpuni dengan melibatkan para ahli dan professional</li>
                                 <li>Memberikan bimbingan dan arahan studi yang seksama</li>
-                                <li>Membentuk dan menjembatani jaringan komunikasi dengan para alumni dan professional
-                                    di bidangnya</li>
+                                <li>Membentuk dan menjembatani jaringan komunikasi dengan para alumni dan professional di bidangnya</li>
                             </ol>
                         </div>
                     </div>

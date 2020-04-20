@@ -59,11 +59,34 @@ class AcademicController extends Controller
         return view('academic.sistem-informasi.keunggulan');
     }
 
-    // Teknologi Informasi
-    public function penyiaran()
+    // Penyiaran dan Komunikasi Digital
+
+    public function penyiarandankomunikasidigital()
     {
-        return view('academic.penyiaran');
+        return view('academic.penyiaran-dan-komunikasi-digital.home');
     }
+
+    public function penyiarandankomunikasidigital_kurikulum()
+    {
+        return view('academic.penyiaran-dan-komunikasi-digital.kurikulum');
+    }
+
+    public function penyiarandankomunikasidigital_prospek()
+    {
+        return view('academic.penyiaran-dan-komunikasi-digital.prospek-karir');
+    }
+
+    public function penyiarandankomunikasidigital_dosen()
+    {
+        return view('academic.penyiaran-dan-komunikasi-digital.dosen');
+    }
+
+    public function penyiarandankomunikasidigital_keunggulan()
+    {
+        return view('academic.penyiaran-dan-komunikasi-digital.keunggulan');
+    }
+
+    // Teknologi Informasi
 
     public function akuntansi()
     {
