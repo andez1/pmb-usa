@@ -26,6 +26,11 @@ class LandingController extends Controller
         return view('landing.peraturan-akademik');
     }
 
+    public function jenjang_s1()
+    {
+        return view('landing.info-pendaftaran-s1');
+    }
+
     public function berita()
     {
         return view('landing.berita');

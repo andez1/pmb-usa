@@ -30,9 +30,9 @@
                 <div class="col-lg-12 col-md-12 col-sm-12 m-b30">
                     <div class="feature-container">
                         <div class="icon-content mb-2">
-                            <ol>
-                                <li>
-                                    <h4>Apa itu online learning?</h4>
+                            <ul class="ml-4">
+                                <li class="mb-4">
+                                    <b>Apa itu online learning?</b>
                                     <p style="text-align: justify">Online learning disebut juga e-Learning atau Online
                                         Course adalah konsep pendidikan yang memanfaatkan Teknologi Informasi dan
                                         Komunikasi dalam proses belajar mengajar. Dalam perkuliahan online atau kuliah
@@ -45,8 +45,8 @@
                                         dapat mengikuti kuliah di mana saja dan kapan saja, selama mereka memiliki
                                         koneksi Internet.</p>
                                 </li>
-                                <li>
-                                    <h4>Apa keunggulan online learning?</h4>
+                                <li class="mb-4">
+                                    <b>Apa keunggulan online learning?</b>
                                     <table class="table table-borderless">
                                         <tr>
                                             <th scope="row">1</th>
@@ -103,8 +103,8 @@
                                         </tr>
                                     </table>
                                 </li>
-                                <li>
-                                    <h4>Apa yang dimaksud cyber university?</h4>
+                                <li class="mb-4">
+                                    <b>Apa yang dimaksud cyber university?</b>
                                     <p style="text-align: justify">Cyber University merupakan bentuk upaya untuk
                                         menjadikan perguruan tinggi berbasis teknologi informasi, usaha tersebut
                                         diterapkan di semua lini, mulai dari sistem pembelajaran, kurikulum, pelayanan,
@@ -119,8 +119,8 @@
                                         universitas-universitas di Indonesia perlu melakukan inovasi sistem secara
                                         menyeluruh</p>
                                 </li>
-                                <li>
-                                    <h4>Apakah Universitas Siber Asia (USA)?</h4>
+                                <li class="mb-4">
+                                    <b>Apakah Universitas Siber Asia (USA)?</b>
                                     <p style="text-align: justify">Universitas Siber Asia (USA/ Asia Cyber University)
                                         merupakan kampus atau perguruan tinggi berbasis full online learning yang
                                         mendapatkan izin prinsip pendirian dari Kemenristek DIKTI pada 26 Agustus 2019
@@ -162,8 +162,8 @@
                                         Dia pernah dinominasikan sebagai 10 besar profesor terbaik di Universitas
                                         Nebraska-Lincoln.</p>
                                 </li>
-                                <li>
-                                    <h4>Bagaimana metode pembelajarannya ?</h4>
+                                <li class="mb-4">
+                                    <b>Bagaimana metode pembelajarannya ?</b>
                                     <p>Aktifitas setiap semester:</p>
                                     <table class="table table-borderless">
                                         <tr>
@@ -215,8 +215,8 @@
                                     <p>Eksplorasi Materi, Diskusi, Pengerjaan Tugas, Video Conference/Webinar dan
                                         Assesment & Reviewing.</p>
                                 </li>
-                                <li>
-                                    <h4>Apa yang akan saya (mahasiswa) dapatkan ketika belajar online?</h4>
+                                <li class="mb-4">
+                                    <b>Apa yang akan saya (mahasiswa) dapatkan ketika belajar online?</b>
                                     <table class="table table-borderless">
                                         <tr>
                                             <th scope="row">1</th>
@@ -264,8 +264,8 @@
                                         </tr>
                                     </table>
                                 </li>
-                                <li>
-                                    <h4>Program studi apa saja yang ditawarkan di USA?</h4>
+                                <li class="mb-4">
+                                    <b>Program studi apa saja yang ditawarkan di USA?</b>
                                     <p>USA akan membuka 5 (lima) program pendidikan Sarjana Strata Satu, meliputi:</p>
                                     <table class="table table-borderless">
                                         <tr>
@@ -290,14 +290,14 @@
                                         </tr>
                                     </table>
                                 </li>
-                                <li>
-                                    <h4>Berapa lama saya kuliah online di Unsia?</h4>
+                                <li class="mb-4">
+                                    <b>Berapa lama saya kuliah online di Unsia?</b>
                                     <p style="text-align: justify">Secara umum kuliah untuk gelar sarjana S-1 dapat
                                         diselesaikan dalam 4 tahun atau 8 semester dengan minimal SKS ditempuh sebanyak
                                         144 SKS.</p>
                                 </li>
-                                <li>
-                                    <h4>Setelah kuliah apa yang saya dapatkan?</h4>
+                                <li class="mb-4">
+                                    <b>Setelah kuliah apa yang saya dapatkan?</b>
                                     <table class="table table-borderless">
                                         <tr>
                                             <th scope="row">1</th>
@@ -313,8 +313,8 @@
                                         </tr>
                                     </table>
                                 </li>
-                                <li>
-                                    <h4>Kemana saya setelah lulus?</h4>
+                                <li class="mb-4">
+                                    <b>Kemana saya setelah lulus?</b>
                                     <p style="text-align: justify">USA bekerjasama dan memiliki jaringan yang luas untuk
                                         menjalin kemitraan strategis dengan pemangku kepentingan (Stakeholders) meliputi
                                         Academic, Business, Company, and Government. Selain itu, dengan penandatanganan
@@ -322,7 +322,7 @@
                                         career center tentu akan memudahkan dengan menyediakan pusat informasi kerja
                                         bagi para lulusan dan menjembatani para lulusan dengan dunia kerja. </p>
                                 </li>
-                            </ol>
+                            </ul>
                         </div>
                     </div>
                 </div>

@@ -31,19 +31,19 @@
                     <div class="feature-container">
                         <ul class="nav nav-tabs mb-4">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi') }}">Profil</a>
+                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Profil</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi/kurikulum') }}">Kurikulum</a>
+                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital/kurikulum') }}">Kurikulum</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi/keunggulan') }}">Keunggulan</a>
+                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital/keunggulan') }}">Keunggulan</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi/prospek-karir') }}">Prospek Karir</a>
+                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital/prospek-karir') }}">Prospek Karir</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="{{ url('/sistem-informasi/dosen') }}">Dosen</a>
+                                <a class="nav-link active" href="{{ url('/penyiaran-dan-komunikasi-digital/dosen') }}">Dosen</a>
                             </li>
                         </ul>
                         <div class="icon-content mb-2">
@@ -63,63 +63,90 @@
                                   </tr>
                                   <tr>
                                     <th>1</th>
-                                    <td>Andrianingsih, S.Kom., MMSI</td>
-                                    <td>Universitas Gunadarma</td>
-                                    <td>Sistem Informasi</td>
+                                    <td>Dian Metha Ariyanti, S.Sos., M.Si</td>
+                                    <td>Univervsitas Indonesia</td>
+                                    <td>Manajemen Komunikasi/ Manajemen Media</td>
                                     <td></td>
                                     <td></td>
-                                    <td></td>
+                                    <td>2011</td>
                                   </tr>
                                   <tr>
                                     <th>2</th>
-                                    <td>Dr. Fauziah, S.Kom., MMSI</td>
-                                    <td>Universitas Gunadarma</td>
-                                    <td>Sistem Informasi</td>
-                                    <td>Universitas Gunadarma</td>
-                                    <td>Artifical Intelligent</td>
-                                    <td>2018</td>
+                                    <td>Adi Prakoso, M.Si</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
                                   </tr>
                                   <tr>
                                     <th>3</th>
-                                    <td>Ira Diana Sholihati, S.Kom., MMSI</td>
-                                    <td>Universitas Gunadarma</td>
-                                    <td>sistem Informasi Bisnis</td>
+                                    <td>Romika Junaidi</td>
+                                    <td></td>
+                                    <td></td>
                                     <td></td>
                                     <td></td>
                                     <td></td>
                                   </tr>
                                   <tr>
                                     <th>4</th>
-                                    <td>Ir. Endah Tri Esthi, MMSI</td>
-                                    <td>Universitas Gunadarma</td>
-                                    <td>Sistem Informasi</td>
+                                    <td>Daniel Wisnu W</td>
+                                    <td></td>
+                                    <td></td>
                                     <td></td>
                                     <td></td>
                                     <td></td>
                                   </tr>
                                   <tr>
                                     <th>5</th>
-                                    <td>Yunan Fauzi Wijaya, S.Kom., MMSI</td>
-                                    <td>Universitas Gunadarma</td>
-                                    <td>Data Science</td>
+                                    <td>Yayu Sriwartini, S.Sos., M.Si</td>
+                                    <td>Universitas Indonesia</td>
+                                    <td>Komunikasi</td>
                                     <td></td>
                                     <td></td>
                                     <td></td>
                                   </tr>
                                   <tr>
                                     <th>6</th>
-                                    <td>Gatot Supriyono, MMSI</td>
-                                    <td>Universitas Gunadarma</td>
-                                    <td>Sistem Informasi Bisnis</td>
+                                    <td>Dr. Dwi Kartika</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>Universitas Indonesia</td>
+                                    <td>Komunikasi</td>
+                                    <td></td>
+                                  </tr>
+                                  <tr>
+                                    <th>7</th>
+                                    <td>Dr Nurhasanah</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>Universitas Sahid</td>
+                                    <td>Komunikasi</td>
+                                    <td></td>
+                                  </tr>
+                                  <tr>
+                                    <th>8</th>
+                                    <td>Rosanah, M.Si</td>
+                                    <td></td>
+                                    <td></td>
                                     <td></td>
                                     <td></td>
                                     <td></td>
                                   </tr>
                                   <tr>
-                                    <th>7</th>
-                                    <td>Ari Gunawan, MMSI</td>
-                                    <td>Universitas Gunadarma</td>
-                                    <td>Data Science</td>
+                                    <th>9</th>
+                                    <td>Nursatyo, M.Si</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                  </tr>
+                                  <tr>
+                                    <th>10</th>
+                                    <td>Siska Fitria</td>
+                                    <td>Universitas Islam Negeri</td>
+                                    <td>Komunikasi Dahwah</td>
                                     <td></td>
                                     <td></td>
                                     <td></td>

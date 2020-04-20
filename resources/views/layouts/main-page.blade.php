@@ -146,13 +146,11 @@
 									<li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a></li> --}}
 								</ul>
 							</li>
-							<li class="@yield('active-pendaftaran')"><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
+							<li class="@yield('active-penerimaan')"><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
-                                            <li><a href="#">Info Pendaftaran</a></li>
-                                            <li><a href="{{ route('landing.admission_info') }}">Persyaratan Pendaftaran</a></li>
-                                            <li><a href="#">Periode Pendaftaran</a></li>
+                                            <li><a href="{{ route('landing.jenjang_s1') }}">Info Pendaftaran</a></li>
                                             <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
                                         </ul>
                                     </li>
@@ -179,7 +177,7 @@
 									</li>
 									<li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran Online</a></li>
 									<li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi Akademik</a></li>
-									<li><a href="#">Digital Library</a></li>
+									<li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
 									{{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
 									<li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
 									<li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
