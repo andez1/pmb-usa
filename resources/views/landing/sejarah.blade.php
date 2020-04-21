@@ -7,7 +7,7 @@
         <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
             <div class="container">
                 <div class="page-banner-entry">
-                    <h1 class="text-white">Sejarah USA (Universitas Siber Asia)</h1>
+                    <h1 class="text-white text-uppercase">Sejarah Universitas Siber Asia (UNSIA)</h1>
 				 </div>
             </div>
         </div>
@@ -15,8 +15,8 @@
 			<div class="container">
 				<ul class="list-inline">
 					<li><a href="#">Beranda</a></li>
-					<li>Tentang USA</li>
-					<li>Sejarah USA</li>
+					<li>Tentang UNSIA</li>
+					<li>Sejarah UNSIA</li>
 				</ul>
 			</div>
 		</div>
@@ -33,9 +33,9 @@
                                     <img src="{{ asset('homepages/images/about/unsia.jpg') }}" alt="">
                                 </div>
                                 <p style="text-align: justify">
-                                    Universitas Siber Asia (USA) lahir atas inisiasi dua tokoh penting, yaitu Dr. El Amry Bermawi Putera dan Jan Youn Cho, Ph.D., MPA., CPA. Keduanya memiliki pengalaman Panjang di dunia Pendidikan tinggi. Dr. El Amry merupakan Rektor 3 periode di Universitas Nasional, salah satu universitas tertua di Indonesia dan Jan Youn Cho, Ph.D., MPA., CPA adalah mantan Vice President  of  Hankuk University  for Foreign Studies, yang sekaligus merupakan Operating Rector. Keduanya memiliki misi mulia untuk meningkatkan kualitas Pendidikan tinggi melalui pembelajaran berbasis full online learning.
+                                    Universitas Siber Asia (UNSIA) lahir atas inisiasi dua tokoh penting, yaitu Dr. El Amry Bermawi Putera dan Jan Youn Cho, Ph.D., MPA., CPA. Keduanya memiliki pengalaman Panjang di dunia Pendidikan tinggi. Dr. El Amry merupakan Rektor 3 periode di Universitas Nasional, salah satu universitas tertua di Indonesia dan Jan Youn Cho, Ph.D., MPA., CPA adalah mantan Vice President  of  Hankuk University  for Foreign Studies, yang sekaligus merupakan Operating Rector. Keduanya memiliki misi mulia untuk meningkatkan kualitas Pendidikan tinggi melalui pembelajaran berbasis full online learning.
                                 </p>
-                                <p style="text-align: justify">Dibawah naungan Yayasan Memajukan Ilmu dan Kebudayaan (YMIK), USA hadir unutk mendorong peningkatan Angka Partisipasi Kasar (APK) atau jumlah masyarakat usia produktif yang melanjutkan ke jenjang perguruan tinggi di Indonesia yang masih rendah.  Berikut adalah milestone perjalanan Universitas Siber Asia:</p>
+                                <p style="text-align: justify">Dibawah naungan Yayasan Memajukan Ilmu dan Kebudayaan (YMIK), UNSIA hadir unutk mendorong peningkatan Angka Partisipasi Kasar (APK) atau jumlah masyarakat usia produktif yang melanjutkan ke jenjang perguruan tinggi di Indonesia yang masih rendah.  Berikut adalah milestone perjalanan Universitas Siber Asia:</p>
                                 <ol class="ml-4">
                                     <li>September, 2016, YMIK merintis Cyber University dengan Korea Selatan</li>
                                     <li>Februari 2017, Universitas Nasional -Universitas dibawah naungan YMIK bekerjasama untuk pembelajaran online learning dengan Hankuk University of Foreign Studies</li>

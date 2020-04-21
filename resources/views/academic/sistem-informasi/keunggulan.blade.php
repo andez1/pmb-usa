@@ -5,7 +5,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Keunggulan Sistem Informasi</h1>
+            <h1 class="text-white text-uppercase">Keunggulan Sistem Informasi</h1>
         </div>
     </div>
 </div>
@@ -13,7 +13,7 @@
 <div class="breadcrumb-row">
     <div class="container">
         <ul class="list-inline">
-            <li><a href="#">Beranda</a></li>
+            <li><a href="/">Beranda</a></li>
             <li>Program Studi</li>
             <li>Sistem Informasi</li>
             <li>Keunggulan</li>
@@ -31,14 +31,17 @@
                     <div class="feature-container">
                         <ul class="nav nav-tabs mb-4">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi') }}">Profil</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi') }}">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url('/sistem-informasi/profil') }}">Profil Program
+                                    Studi</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/sistem-informasi/kurikulum') }}">Kurikulum</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active"
-                                    href="{{ url('/sistem-informasi/keunggulan') }}">Keunggulan</a>
+                                <a class="nav-link active" href="{{ url('/sistem-informasi/keunggulan') }}">Keunggulan</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/sistem-informasi/prospek-karir') }}">Prospek
@@ -46,6 +49,15 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/sistem-informasi/dosen') }}">Dosen</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url('/sistem-informasi/profil-lulusan') }}">Profil
+                                    Lulusan</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link"
+                                    href="{{ route('sistem-informasi.capaian_pembelajaran_lulusan') }}">Capaian
+                                    Pembelajaran Lulusan</a>
                             </li>
                         </ul>
                         <div class="icon-content mb-2">

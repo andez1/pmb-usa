@@ -7,7 +7,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Peraturan Akademik</h1>
+            <h1 class="text-white text-uppercase">Peraturan Akademik</h1>
         </div>
     </div>
 </div>

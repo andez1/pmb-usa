@@ -71,7 +71,7 @@
                             <ul>
                                 <li><a href="{{ url('/faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a>
                                 </li>
-                                <li><a href="javascript:;"><i class="fa fa-envelope-o"></i>bak@usa.edu</a></li>
+                                <li><a href="javascript:;"><i class="fa fa-envelope-o"></i>asiacyberuni@gmail.com</a></li>
                             </ul>
                         </div>
                         <div class="topbar-right">
@@ -137,12 +137,12 @@
                                 <li class="active">
                                     <a href="/">Beranda</a>
                                 </li>
-                                <li><a href="javascript:;">Tentang USA <i class="fa fa-chevron-down"></i></a>
+                                <li><a href="javascript:;">Tentang UNSIA <i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu">
-                                        <li><a href="{{ route('landing.greetings_rector') }}">Salam Rektor</i></a></li>
-                                        <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa USA?</i></a></li>
-                                        <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan USA</i></a></li>
-                                        <li><a href="{{ route('landing.sejarah') }}">Sejarah USA</i></a></li>
+                                        <li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
+                                        <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa UNSIA?</i></a></li>
+                                        <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan UNSIA</i></a></li>
+                                        <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
                                         <li><a href="{{ route('landing.struktur_organisasi') }}">Struktur
                                                 Organisasi</i></a></li>
@@ -1036,28 +1036,6 @@
                 <div class="item">
                     <div class="recent-news">
                         <div class="action-box">
-                            <img src="{{ asset('homepages/images/blog/latest-blog/mpr-unas.jpg') }}" alt="">
-                        </div>
-                        <div class="info-bx">
-                            <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Agustus 26 2019</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
-                            </ul>
-                            <h5 class="post-title"><a
-                                    href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/">YMIK
-                                    Terima Izin Pendirian Universitas Siber Pertama di Indonesia</a></h5>
-                            <p>BALI (YMIK) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menerima izin prinsip
-                                pendirian Universitas Siber Asia dari Menteri</p>
-                            <div class="post-extra">
-                                <a href="#" class="btn-link">READ MORE</a>
-                                <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>19 Comment</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="recent-news">
-                        <div class="action-box">
                             <img src="{{ asset('homepages/images/blog/latest-blog/blog-1.jpg') }}" alt="">
                         </div>
                         <div class="info-bx">
@@ -1219,7 +1197,7 @@
                         <div class="row">
                             <div class="col-4 col-lg-4 col-md-4 col-sm-4">
                                 <div class="widget footer_widget">
-                                    <h5 class="footer-title">USA</h5>
+                                    <h5 class="footer-title">UNSIA</h5>
                                     <ul>
                                         <li><a href="/">Beranda</a></li>
                                         <li><a href="{{ route('landing.about') }}">Tentang Kami</a></li>

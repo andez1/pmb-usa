@@ -5,7 +5,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Dosen Manajemen Kontemporer</h1>
+            <h1 class="text-white text-uppercase">Dosen Manajemen Kontemporer</h1>
         </div>
     </div>
 </div>
@@ -13,7 +13,7 @@
 <div class="breadcrumb-row">
     <div class="container">
         <ul class="list-inline">
-            <li><a href="#">Beranda</a></li>
+            <li><a href="/">Beranda</a></li>
             <li>Program Studi</li>
             <li>Manajemen Kontemporer</li>
             <li>Dosen</li>
@@ -31,7 +31,10 @@
                     <div class="feature-container">
                         <ul class="nav nav-tabs mb-4">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer') }}">Profil</a>
+                                <a class="nav-link" href="{{ url('/manajemen-kontemporer') }}">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/profil') }}">Profil Program Studi</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/manajemen-kontemporer/kurikulum') }}">Kurikulum</a>
@@ -44,6 +47,12 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active" href="{{ url('/manajemen-kontemporer/dosen') }}">Dosen</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/profil-lulusan') }}">Profil Lulusan</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ route('manajemen-kontemporer.capaian_pembelajaran_lulusan') }}">Capaian Pembelajaran Lulusan</a>
                             </li>
                         </ul>
                         <div class="icon-content mb-2">

@@ -5,7 +5,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Sistem Informasi</h1>
+            <h1 class="text-white text-uppercase">Sistem Informasi</h1>
         </div>
     </div>
 </div>
@@ -13,7 +13,7 @@
 <div class="breadcrumb-row">
     <div class="container">
         <ul class="list-inline">
-            <li><a href="#">Beranda</a></li>
+            <li><a href="/">Beranda</a></li>
             <li>Program Studi</li>
             <li>Sistem Informasi</li>
         </ul>
@@ -30,7 +30,10 @@
                     <div class="feature-container">
                         <ul class="nav nav-tabs mb-4">
                             <li class="nav-item">
-                                <a class="nav-link active" href="{{ url('/sistem-informasi') }}">Profil</a>
+                                <a class="nav-link active" href="{{ url('/sistem-informasi') }}">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url('/sistem-informasi/profil') }}">Profil Program Studi</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/sistem-informasi/kurikulum') }}">Kurikulum</a>
@@ -39,114 +42,20 @@
                                 <a class="nav-link" href="{{ url('/sistem-informasi/keunggulan') }}">Keunggulan</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/sistem-informasi/prospek-karir') }}">Prospek
-                                    Karir</a>
+                                <a class="nav-link" href="{{ url('/sistem-informasi/prospek-karir') }}">Prospek Karir</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/sistem-informasi/dosen') }}">Dosen</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url('/sistem-informasi/profil-lulusan') }}">Profil Lulusan</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ route('sistem-informasi.capaian_pembelajaran_lulusan') }}">Capaian Pembelajaran Lulusan</a>
+                            </li>
                         </ul>
                         <div class="icon-content mb-2">
-                            <h4>Gambaran Umum Program</h4>
-                            <table class="table table-bordered">
-                                <tr>
-                                    <th>Program Studi</th>
-                                    <td>Sistem Informasi</td>
-                                </tr>
-                                <tr>
-                                    <th>Website</th>
-                                    <td><a
-                                            href="https://pmb.lms-usa.site/sistem-informasi">https://pmb.lms-usa.site/sistem-informasi</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <th>Jenjang</th>
-                                    <td>Strata 1</td>
-                                </tr>
-                                <tr>
-                                    <th>Gelar</th>
-                                    <td>Sarjana Sistem Informasi (S.SI)</td>
-                                </tr>
-                                <tr>
-                                    <th>Syarat Pendidikan</th>
-                                    <td>Lulus Sekolah Menengah Tingkat Atas (SMTA) dan Lulus Seleksi Mahasiswa Baru</td>
-                                </tr>
-                                <tr>
-                                    <th>Lama Studi</th>
-                                    <td>8 Semester</td>
-                                </tr>
-                                <tr>
-                                    <th>Info Admisi</th>
-                                    <td><a href="#">Jadwal</a>, <a href="#">Syarat</a>, <a href="#">Prosedur
-                                            Pendaftaran</a>, <a href="#">Biaya Kuliah</a></td>
-                                </tr>
-                                <tr>
-                                    <th>Pendaftaran</th>
-                                    <td><a href="#">Daftar Online</a></td>
-                                </tr>
-                            </table>
-                            <h4>Profil</h4>
-                            <p style="text-align: justify">Prodi Sistem Informasi merupakan disiplin ilmu yang
-                                berhubungan dengan teknologi informasi dan komunikasi guna menyelesaikan masalah?masalah
-                                bisnis dan teknologi dalam perusahaan. Lulusan sistem informasi mempunyai kesempatan
-                                karir di bidang bisnis dan teknologi informasi.
-                            </p>
-                            <p style="text-align: justify">Program ini bertujuan membekali mahasiswa dengan wawasan
-                                pengetahuan dan keterampilan dalam pengembangan sistem informasi, tren penggunaan dan
-                                kebutuhan sistem informasi strategis bagi perusahaan (corporate information systems),
-                                penggunaan sistem informasi yang berbasis e-business, serta pengetahuan teknologi dan
-                                bisnis yang dapat diaplikasikan dalam dunia usaha dan dunia industri (DUDI). Mahasiswa
-                                akan diarahkan menjadi seorang pakar di dalam perencanaan strategi dan pemanfaatan SI/TI
-                                guna mendukung kinerja bisnis sebuah organisasi.
-                            </p>
-                            <h4>Tujuan Program</h4>
-                            <ul class="ml-4">
-                                <li>Menghasilkan lulusan yang ahli di bidang sistem informasi E-Business berbasis
-                                    capaian Pembelajaran Lulusan sesuai dengan Standar Nasional Pendidikan Tinggi dan
-                                    memiliki kemampuan untuk mengembangkan keilmuan sistem informasi secara lebih maju,
-                                    berkarakter profesional dan memiliki budi pekerti yang luhur.
-                                </li>
-                                <li>Menghasilkan topik-topik penelitian dibidang sistem informasi yang berorientasi pada
-                                    kontribusi pengembangan IPTEK untuk revolusi industry 4.0 di Indonesia serta
-                                    menghasilkan luaran publikasi nasional dan internasional bereputasi dan HAKI.</li>
-                                <li>Menghasilkan kegiatan-kegiatan pengabdian masyarakat yang berorientasi pada
-                                    kontribusi IPTEK pada masyarakat.
-                                </li>
-                                <li>Menghasilkan dosen tetap Prodi Sistem Informasi yang memiliki kepakaran di bidang
-                                    sistem informasi E-Business mengacu pada perkembangan revolusi industry 4.0.
-                                </li>
-                                <li>Menciptakan budaya akademik yang unggul dengan menerapkan standar dan peraturan
-                                    nasional perguruan tinggi yang mampu mengikuti perkembangan iptek di bidang sistem
-                                    informasi.
-                                </li>
-                            </ul>
-                            <h4>Visi Program Studi</h4>
-                            <p style="text-align: justify">Menjadi Program Studi Sistem Informasi On-line yang unggul
-                                pada tataran global dibidang E-Bisnis dan masuk dalam tujuh besar Program Studi Sistem
-                                Informasi On-line unggulan di Indonesia</p>
-
-                            <h4>Misi Program Studi</h4>
-                            <ol type="a" class="ml-4">
-                                <li>Menyelenggarakan pendidikan tinggi di bidang sistem informasi yang mengacu pada
-                                    standar mutu nasional BAN PT dan mengikuti trend perkembangan TIK di tingkat
-                                    internasional yakni revolusi industry 4.0.
-                                </li>
-                                <li>Menyelenggarakan penelitian di bidang ilmu sistem informasi yang berfokus pada
-                                    pengembangan E-Bisnis untuk mendukung pengembangan revolusi industry 4.0 di
-                                    Indonesia.
-                                </li>
-                                <li>Menyelenggarakan pengabdian kepada masyarakat yang berbasis ilmu pengetahuan dan
-                                    teknologi dengan memanfaatkan hasil penelitian.
-                                </li>
-                                <li>Membangun kompetensi dosen sesuai standar nasional untuk menunjang pengembangan
-                                    kurikulum yang fokus pada pengembangan E-Bisnis berdasarkan Standar Nasional
-                                    Pendidikan Tinggi.
-                                </li>
-                                <li>Membangun budaya akademik yang menerapkan standar dan peraturan nasional perguruan
-                                    tinggi yang mampu mengikuti perkembangan iptek di bidang sistem informasi pendidikan
-                                    secara on-line secara global.
-                                </li>
-                            </ol>
+                            <p style="text-align: justify">Kurikulum pendidikan tinggi Prodi Sistem Informasi (Prodi SI) merupakan body knowledge of information system yang tersusun atas perencanaan learning outcome sebagai bagian proses utama dalam menghasilkan outcome program dalam berupaya intensif untuk semakin mengokohkan jati dirinya dalam menghasilkan lulusan yang bermutu di bidang information system dan diserap oleh stakeholder/user dan rekomendasi program outcome dan learning outcome dari APTIKOM (Asosiasi Pendidikan Tinggi Informatika dan Komputer). Selanjutnya profil lulusan tersebut didefinisikan dan diturunkan menjadi rumusan capaian pembelajaran atau learning outcome sebagaimana referensi APTIKOM. Learning Outcome tersebut memperhatikan program outcome dari Prodi SI sebagaimana dikhususkan pada bidang ilmu information system mengacu pada deskripsi di IEEE dan ACM. Sebagai uniqueness Prodi dan Universitas, sistem informasi bisnis dan pendidikan berbasis karakter,integritas dan soft skill dipilih oleh Prodi SI sebagai penciri khas kurikulum. Dengan demikian, penyusunan KPT-KKNI level 6 oleh Prodi SI telah memperhatikan prosedur atau langkah-langkah standar yang telah ditetapkan oleh Belmawa Dikti. Prodi SI berupaya intensif untuk menerapkan KPT-KKNI tersebut dengan Sistem Penjaminan Mutu, yakni RPS (Rencana Pembelajaran Semester) dan Peta Program  oleh dosen pengampu yang merupakan ujung tombak implementasi akan senantiasa dimonitoring dan dievaluasi dalam realisasinya. Dengan penerapan KPT-KKNI level 6, Prodi SI telah merancang SKPI (Surat Keterangan Pendamping Ijazah) yang menerangkan jenjang pencapaian learning outcome lulusan. Selain itu, SKPI dirancang sebagai recognition of competence outside the running curricula, artinya kompetensi yang dicapai oleh peserta didik akan diakui oleh Universitas Nasional sebagai pelengkap pencapaian learning outcome. Sistem recognition atau pengakuan kompetensi yang dicapai oleh peserta didik adalah meliputi 3 komponen utama yakni kompetensi pendukung professional, kompetensi pendukung soft skill, dan kompetensi pendukung talenta. Dengan demikian, Prodi SI dengan penerapan KPT-KKNI level 6 berupaya konsisten dalam membangun mutu lulusan di bidang sistem informasi.</p>
                         </div>
                     </div>
                 </div>

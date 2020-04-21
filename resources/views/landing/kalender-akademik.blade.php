@@ -7,7 +7,7 @@
         <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
             <div class="container">
                 <div class="page-banner-entry">
-                    <h1 class="text-white">KALENDER AKADEMIK</h1>
+                    <h1 class="text-white text-uppercase">KALENDER AKADEMIK</h1>
 				 </div>
             </div>
         </div>
@@ -37,8 +37,8 @@
 										Kegiatan akademik Semester Ganjil 2020/2021:
 										<h6>1. Pengenalan Sistem Akademik (PSA) Universitas Siber Asia</h6>
 										<div class="ml-4">
-											Kegiatan PSA diberikan untuk setiap mahasiswa baru dalam rangka memberikan pemahaman kuliah online di USA meliputi: </br>
-											a. Pengenalan sistem dan tata kelola USA online </br>
+											Kegiatan PSA diberikan untuk setiap mahasiswa baru dalam rangka memberikan pemahaman kuliah online di UNSIA meliputi: </br>
+											a. Pengenalan sistem dan tata kelola UNSIA online </br>
 											b. Pengenalan LMS (Learning Management System) </br>
 											c. Pengenalan Bimbingan Online </br>
 											d. Pengenalan Metode Pembelajaran Online </br>
@@ -60,7 +60,7 @@
 												<tbody>
 													<tr class="text-left">
 														<td>1</td>
-														<td>Pengenalan Sistem Akademik (PSA) USA</td>
+														<td>Pengenalan Sistem Akademik (PSA) UNSIA</td>
 														<td>Minggu ke-3 Agustus 2020</td>
 													</tr>
 												</tbody>
@@ -68,7 +68,7 @@
 										</div>
 										<div class="col-md-2"></div>
 									</div>
-									<div class="ml-4"><a href="#">Klik link berikut untuk PSA USA Online</a></div>
+									<div class="ml-4"><a href="#">Klik link berikut untuk PSA UNSIA Online</a></div>
 									<p style="text-align: justify">
 										<h6>2. Jadwal Akademik Semester Ganjil 2020/2021</h6>
                                     </p>
@@ -127,7 +127,7 @@
 									<p style="text-align: justify">
 										<h6>3. Kegiatan Pelatihan</h6>
 										<div class="ml-4">
-											Setiap semester USA menyelenggarakan pelatihan Online, pelatian tersebut bersertifikat dan setiap mahasiswa diwajibkan mengikuti:
+											Setiap semester UNSIA menyelenggarakan pelatihan Online, pelatian tersebut bersertifikat dan setiap mahasiswa diwajibkan mengikuti:
 										</div>
                                     </p>
 									<div class="row">

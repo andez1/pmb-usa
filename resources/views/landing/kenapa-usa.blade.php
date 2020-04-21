@@ -7,7 +7,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Kenapa USA?</h1>
+            <h1 class="text-white text-uppercase">Kenapa UNSIA?</h1>
         </div>
     </div>
 </div>
@@ -15,8 +15,8 @@
     <div class="container">
         <ul class="list-inline">
             <li><a href="#">Beranda</a></li>
-            <li>Tentang USA</li>
-            <li>Kenapa USA?</li>
+            <li>Tentang UNSIA</li>
+            <li>Kenapa UNSIA?</li>
         </ul>
     </div>
 </div>
@@ -32,8 +32,8 @@
                         <div class="icon-content mb-2">
                             <ol>
                                 <li>
-                                    <p>Kuliah di Universitas Siber Asia (USA) merupakan pilihan yang tepat. Berikut
-                                        adalah alasan mengapa harus berkuliah di Universutas Siber Asia</p>
+                                    <p>Kuliah di Universitas Siber Asia (UNSIA) merupakan pilihan yang tepat. Berikut
+                                        adalah alasan mengapa harus berkuliah di Universitas Siber Asia</p>
                                     <table class="table table-borderless">
                                         <tr>
                                             <th scope="row">1</th>

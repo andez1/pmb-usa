@@ -5,7 +5,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Keunggulan Penyiaran dan Komunikasi Digital</h1>
+            <h1 class="text-white text-uppercase">Keunggulan Penyiaran dan Komunikasi Digital</h1>
         </div>
     </div>
 </div>
@@ -13,7 +13,7 @@
 <div class="breadcrumb-row">
     <div class="container">
         <ul class="list-inline">
-            <li><a href="#">Beranda</a></li>
+            <li><a href="/">Beranda</a></li>
             <li>Program Studi</li>
             <li>Penyiaran dan Komunikasi Digital</li>
             <li>Keunggulan</li>

@@ -7,7 +7,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Keunggulan USA</h1>
+            <h1 class="text-white text-uppercase">Keunggulan UNSIA</h1>
         </div>
     </div>
 </div>
@@ -15,8 +15,8 @@
     <div class="container">
         <ul class="list-inline">
             <li><a href="#">Beranda</a></li>
-            <li>Tentang USA</li>
-            <li>Keunggulan USA</li>
+            <li>Tentang UNSIA</li>
+            <li>Keunggulan UNSIA</li>
         </ul>
     </div>
 </div>
@@ -31,7 +31,7 @@
                     <div class="feature-container">
                         <div class="icon-content mb-2">
                             <h3 class="text-center">Manfaat kuliah di Universitas Siber Asia</h3>
-                            <p>Kuliah di Universitas SIber Asia pasti tidak akan menyesal. Berikut adalah manfaat kuliah di Universitas Siber Asia:</p>
+                            <p>Kuliah di Universitas Siber Asia pasti tidak akan menyesal. Berikut adalah manfaat kuliah di Universitas Siber Asia:</p>
                             <table class="table table-borderless">
                                 <tr>
                                     <th scope="row">1</th>

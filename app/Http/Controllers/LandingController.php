@@ -116,8 +116,8 @@ class LandingController extends Controller
         return view('landing.visi-misi');
     }
 
-    public function greetings_rector()
+    public function salam_rektor()
     {
-        return view('landing.greetings-rector');
+        return view('landing.salam-rektor');
     }
 }
