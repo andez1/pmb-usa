@@ -7,7 +7,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">FAQ</h1>
+            <h1 class="text-white text-uppercase">FAQ</h1>
         </div>
     </div>
 </div>
@@ -15,7 +15,7 @@
     <div class="container">
         <ul class="list-inline">
             <li><a href="#">Beranda</a></li>
-            <li>Tentang USA</li>
+            <li>Tentang UNSIA</li>
             <li>FAQ</li>
         </ul>
     </div>
@@ -120,8 +120,8 @@
                                         menyeluruh</p>
                                 </li>
                                 <li class="mb-4">
-                                    <b>Apakah Universitas Siber Asia (USA)?</b>
-                                    <p style="text-align: justify">Universitas Siber Asia (USA/ Asia Cyber University)
+                                    <b>Apakah Universitas Siber Asia (UNSIA)?</b>
+                                    <p style="text-align: justify">Universitas Siber Asia (UNSIA/ Asia Cyber University)
                                         merupakan kampus atau perguruan tinggi berbasis full online learning yang
                                         mendapatkan izin prinsip pendirian dari Kemenristek DIKTI pada 26 Agustus 2019
                                         pada Hari Kebangkitan Teknologi Nasional, di Bali. Universitas Siber Asia ini
@@ -265,8 +265,8 @@
                                     </table>
                                 </li>
                                 <li class="mb-4">
-                                    <b>Program studi apa saja yang ditawarkan di USA?</b>
-                                    <p>USA akan membuka 5 (lima) program pendidikan Sarjana Strata Satu, meliputi:</p>
+                                    <b>Program studi apa saja yang ditawarkan di UNSIA?</b>
+                                    <p>UNSIA akan membuka 5 (lima) program pendidikan Sarjana Strata Satu, meliputi:</p>
                                     <table class="table table-borderless">
                                         <tr>
                                             <th scope="row">1</th>
@@ -315,7 +315,7 @@
                                 </li>
                                 <li class="mb-4">
                                     <b>Kemana saya setelah lulus?</b>
-                                    <p style="text-align: justify">USA bekerjasama dan memiliki jaringan yang luas untuk
+                                    <p style="text-align: justify">UNSIA bekerjasama dan memiliki jaringan yang luas untuk
                                         menjalin kemitraan strategis dengan pemangku kepentingan (Stakeholders) meliputi
                                         Academic, Business, Company, and Government. Selain itu, dengan penandatanganan
                                         Nota Kesepahaman dengan sejumlah dunia industri di Indonesia dan memiliki pusat

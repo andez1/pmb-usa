@@ -7,7 +7,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Beasiswa</h1>
+            <h1 class="text-white text-uppercase">Beasiswa</h1>
         </div>
     </div>
 </div>
@@ -30,7 +30,7 @@
                 <div class="col-lg-12 col-md-12 col-sm-12 m-b30">
                     <div class="feature-container">
                         <div class="icon-content mb-2">
-                            <h4>Alasan Harus Mengikuti Beasiswa Universitas SIber Asia:</h4>
+                            <h4>Alasan Harus Mengikuti Beasiswa Universitas Siber Asia:</h4>
                             <ul class="ml-4">
                                 <li>Jalur ini tidak membutuhkan tes dan keputusan penilaian dilakukan berdasarkan evaluasi terhadap nilai rapor SMA/ SMK dan se-derajat serta dokumen persyaratan yang diajukan</li>
                                 <li>Tidak perlu menunggu selesai Ujian Nasional dan Ujian Sekolah bisa langsung mendaftar.</li>

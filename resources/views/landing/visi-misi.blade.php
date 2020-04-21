@@ -7,7 +7,7 @@
         <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
             <div class="container">
                 <div class="page-banner-entry">
-                    <h1 class="text-white">Visi Misi</h1>
+                    <h1 class="text-white text-uppercase">Visi Misi</h1>
 				 </div>
             </div>
         </div>
@@ -15,7 +15,7 @@
 			<div class="container">
 				<ul class="list-inline">
 					<li><a href="#">Beranda</a></li>
-					<li>Tentang USA</li>
+					<li>Tentang UNSIA</li>
 					<li>Visi Misi</li>
 				</ul>
 			</div>
@@ -65,6 +65,9 @@
 											</ol>
 										</li>
 									</ol>
+									<div class="text-center mb-5">
+										<img src="{{ asset('homepages/images/visi-misi.png') }}" alt="">
+									</div>
 								</div>
 							</div>
 						</div>

@@ -70,7 +70,7 @@
 					<div class="topbar-left">
 						<ul>
 							<li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a></li>
-							<li><a href="javascript:;"><i class="fa fa-envelope-o"></i>bak@usa.edu</a></li>
+							<li><a href="javascript:;"><i class="fa fa-envelope-o"></i>asiacyberuni@gmail.com</a></li>
 						</ul>
 					</div>
 					<div class="topbar-right">
@@ -131,12 +131,12 @@
 							<li>
 								<a href="/">Beranda</a>
 							</li>
-							<li class="@yield('active-about')"><a href="javascript:;">Tentang USA <i class="fa fa-chevron-down"></i></a>
+							<li class="@yield('active-about')"><a href="javascript:;">Tentang UNSIA <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
-									<li><a href="{{ route('landing.greetings_rector') }}">Salam Rektor</i></a></li>
-                                        <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa USA?</i></a></li>
-                                        <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan USA</i></a></li>
-                                        <li><a href="{{ route('landing.sejarah') }}">Sejarah USA</i></a></li>
+									<li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
+                                        <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa UNSIA?</i></a></li>
+                                        <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan UNSIA</i></a></li>
+                                        <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
                                         <li><a href="{{ route('landing.struktur_organisasi') }}">Struktur Organisasi</i></a></li>
                                         <li><a href="{{ route('landing.faq') }}">FAQ</a></li>
@@ -265,7 +265,7 @@
 						<div class="row">
 							<div class="col-4 col-lg-4 col-md-4 col-sm-4">
 								<div class="widget footer_widget">
-									<h5 class="footer-title">USA</h5>
+									<h5 class="footer-title">UNSIA</h5>
 									<ul>
 										<li><a href="/">Beranda</a></li>
 										<li><a href="{{ route('landing.about') }}">Tentang Kami</a></li>

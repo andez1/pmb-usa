@@ -7,7 +7,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white">Keunggulan Lulusan UNSIA</h1>
+            <h1 class="text-white text-uppercase">Keunggulan Lulusan UNSIA</h1>
 			</div>
     </div>
 </div>
@@ -15,7 +15,7 @@
 	<div class="container">
 		<ul class="list-inline">
 			<li><a href="#">Beranda</a></li>
-			<li>Tentang USA</li>
+			<li>Tentang UNSIA</li>
 			<li>Keunggulan Lulusan UNSIA</li>
 		</ul>
 	</div>
