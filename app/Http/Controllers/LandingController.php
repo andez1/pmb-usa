@@ -16,6 +16,16 @@ class LandingController extends Controller
         return view('landing.teaser-video-pembelajaran');
     }
 
+    public function panduan_pembelajaran_online()
+    {
+        return view('landing.panduan-pembelajaran-online');
+    }
+
+    public function list_of_partner()
+    {
+        return view('landing.list-of-partner');
+    }
+
     public function teaser_video_pelatihan()
     {
         return view('landing.teaser-video-pelatihan');

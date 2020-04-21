@@ -142,6 +142,7 @@
                                         <li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
                                         <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa UNSIA?</i></a></li>
                                         <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan UNSIA</i></a></li>
+                                        <li><a href="#">List of Partner</i></a></li>
                                         <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
                                         <li><a href="{{ route('landing.struktur_organisasi') }}">Struktur
@@ -187,13 +188,13 @@
                                     </li>
                                     <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
-                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
-                                            </li>
+                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
                                             <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan Akademik</a></li>
                                             <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a>
                                             </li>
                                         </ul>
                                     </li>
+                                    <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan Pembelajaran Online</a></li>
                                     <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran Online</a>
                                     </li>
                                     <li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi
@@ -655,10 +656,10 @@
                         <div class="cours-bx">
                             <div class="action-box">
                                 <img src="{{ asset('homepages/images/courses/img4.jpg') }}" alt="">
-                                <a href="#" class="btn">Read More</a>
+                                <a href="{{ url('/manajemen-kontemporer') }}" class="btn">Read More</a>
                             </div>
                             <div class="info-bx text-center">
-                                <h5><a href="#">Manajemen Kontemporer</a></h5>
+                                <h5>Manajemen Kontemporer</h5>
                                 <!-- <span>Programming</span> -->
                             </div>
                             <!-- <div class="cours-more-info">
@@ -683,10 +684,10 @@
                         <div class="cours-bx">
                             <div class="action-box">
                                 <img src="{{ asset('homepages/images/courses/img2.jpg') }}" alt="">
-                                <a href="#" class="btn">Read More</a>
+                                <a href="{{ url('/sistem-informasi') }}" class="btn">Read More</a>
                             </div>
                             <div class="info-bx text-center">
-                                <h5><a href="#">Sistem Informasi</a></h5>
+                                <h5>Sistem Informasi</h5>
                                 <!-- <span>Programming</span> -->
                             </div>
                             <!-- <div class="cours-more-info">
@@ -711,10 +712,10 @@
                         <div class="cours-bx">
                             <div class="action-box">
                                 <img src="{{ asset('homepages/images/courses/img5.jpg') }}" alt="">
-                                <a href="#" class="btn">Read More</a>
+                                <a href="{{ url('/teknologi-informasi') }}" class="btn">Read More</a>
                             </div>
                             <div class="info-bx text-center">
-                                <h5><a href="#">Teknologi Informasi</a></h5>
+                                <h5>Teknologi Informasi</h5>
                                 <!-- <span>Programming</span> -->
                             </div>
                             <!-- <div class="cours-more-info">
@@ -739,10 +740,10 @@
                         <div class="cours-bx">
                             <div class="action-box">
                                 <img src="{{ asset('homepages/images/courses/img1.jpg') }}" alt="">
-                                <a href="#" class="btn">Read More</a>
+                                <a href="{{ url('/akuntansi-dan-perpajakan') }}" class="btn">Read More</a>
                             </div>
                             <div class="info-bx text-center">
-                                <h5><a href="#">Akuntansi dan Perpajakan</a></h5>
+                                <h5>Akuntansi dan Perpajakan</h5>
                                 <!-- <span>Programming</span> -->
                             </div>
                             <!-- <div class="cours-more-info">
@@ -767,10 +768,10 @@
                         <div class="cours-bx">
                             <div class="action-box">
                                 <img src="{{ asset('homepages/images/courses/img3.jpg') }}" alt="">
-                                <a href="#" class="btn">Read More</a>
+                                <a href="{{ url('/penyiaran-dan-komunikasi-digital') }}" class="btn">Read More</a>
                             </div>
                             <div class="info-bx text-center">
-                                <h5><a href="#">Penyiaran dan Komunikasi Digital</a></h5>
+                                <h5>Penyiaran dan Komunikasi Digital</h5>
                                 <!-- <span>Programming</span> -->
                             </div>
                             <!-- <div class="cours-more-info">
