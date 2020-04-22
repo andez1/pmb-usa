@@ -142,8 +142,8 @@
                                 <li><a href="javascript:;">Tentang UNSIA <i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu">
                                         <li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
-                                        <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa UNSIA?</i></a></li>
-                                        <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan UNSIA</i></a>
+                                        <li><a href="{{ route('landing.kenapa_unsia') }}">Kenapa UNSIA?</i></a></li>
+                                        <li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan UNSIA</i></a>
                                         </li>
                                         <li><a href="#">List of Partner</i></a></li>
                                         <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
@@ -192,6 +192,8 @@
                                     <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
                                             <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
+                                            </li>
+                                            <li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a>
                                             </li>
                                             <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan
                                                     Akademik</a></li>
@@ -654,7 +656,7 @@
             <div class="row">
                 <div class="col-md-12 heading-bx left">
                     <h2 class="title-head">Program <span>Studi</span></h2>
-                    <p>Macam-macam program studi terbaik yang bisa membantu mengembangkan pengetahuanmu</p>
+                    <p>Universitas Siber Asia telah mempersiapkan dua Program Studi Strata 1 (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan Sistem Informasi. Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik Informatika, Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
                 </div>
             </div>
             <div class="row">
@@ -761,7 +763,7 @@
                 </div>
                 <div class="row">
                     <div class="col d-flex justify-content-center" style="background-color : white; padding : 24px;">
-                        <div class="row">
+                        <div class="row d-flex justify-content-center">
                             <div class="link-web">
                                 <a href="http://portal.koreaswt.com/portal/login">
                                     <div class="col mr-2 linklms">

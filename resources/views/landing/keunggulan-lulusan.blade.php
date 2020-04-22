@@ -1,6 +1,6 @@
 @extends('layouts.main-page')
 
-@section('active', 'active')
+@section('active-akademik', 'active')
 
 @section('contentBox')
 <!-- Page Heading Box ==== -->
@@ -15,7 +15,8 @@
 	<div class="container">
 		<ul class="list-inline">
 			<li><a href="#">Beranda</a></li>
-			<li>Tentang UNSIA</li>
+			<li>Akademik</li>
+			<li>Proses Akademik</li>
 			<li>Keunggulan Lulusan UNSIA</li>
 		</ul>
 	</div>

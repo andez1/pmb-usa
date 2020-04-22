@@ -33,7 +33,7 @@
 									<ol class="ml-4">
 										<li class="mb-4">
 											<h4>Visi</h4>
-											<p>Menjadi perguruan tinggi online unggulan berbasis Smart Digital Technology pada 2025 yang berkontribusi pada Era Smart Society 5.0.</p>
+											<p>Menjadi perguruan tinggi online yang unggul dalam layanan pendidikan tinggi bereputasi global berbasis Smart Digital Technology pada 2025.</p>
 											{{-- Visi Lama --}}
 											{{-- <p>Visi Universitas adalah menjadi Universitas Siber unggulan di Indonesia dalam tata kelola pendidikan, penelitian, dan pengabdian pada masyarakat pada tahun 2024</p> --}}
 										</li>
@@ -44,7 +44,7 @@
 												<li>Membangun tata kelola kampus online berbasis teknologi informasi yang mendukung layanan pendidikan tinggi secara massive dan online berbasis high-end Smart Digital Technology.</li>
 												<li>Mengembangkan sumber daya dosen dan tenaga kependidikan yang mampu menguasai platform smart digital technology berorientasi pada pengembangan keilmuan dan dan applied skill.</li>
 												<li>Mengembangkan sistem pembelajaran yang berorientasi pada luaran lulusan yang memiliki kemampuan dalam penguasaan applied science dan platform smart digital technology development dan berkarakter mandiri, inovatif, kreatif, mampu bekerja sama dan complex problem solving.</li>
-												<li>Membangun roadmap penelitian dan pengabdian kepada masyarakat berorientasi pada pengembangan Smart Digital Technology untuk mempersiapkan Era Smart Societ 5.0.</li>
+												<li>Membangun roadmap penelitian dan pengabdian kepada masyarakat berorientasi pada pengembangan Smart Digital Technology untuk berkontribusi pengembangan Revolusi Industri 4.0.</li>
 												<li>Menjalin networking dan kerjasama baik nasional dan internasional untuk mengembangkan kampus berbasis layanan online.</li>
 												{{-- Misi Lama --}}
 												{{-- <li>Menyelenggarakan dan mengembangkan pendidikan tinggi berbasis online bertaraf nasional yang dapat bersaing di tataran global</li>
