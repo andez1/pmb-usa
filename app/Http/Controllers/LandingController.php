@@ -116,6 +116,11 @@ class LandingController extends Controller
         return view('landing.keunggulan-lulusan');
     }
 
+    public function teaching_professor()
+    {
+        return view('landing.teaching-professor');
+    }
+
     public function struktur_organisasi()
     {
         return view('landing.struktur-organisasi');

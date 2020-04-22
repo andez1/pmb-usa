@@ -34,74 +34,48 @@
                                 <li class="mb-4">
                                     <b>Apa itu online learning?</b>
                                     <p style="text-align: justify">Online learning disebut juga e-Learning atau Online
-                                        Course adalah konsep pendidikan yang memanfaatkan Teknologi Informasi dan
-                                        Komunikasi dalam proses belajar mengajar. Dalam perkuliahan online atau kuliah
-                                        non tatap muka ini mahasiswa tidak perlu duduk dengan manis di ruang kelas untuk
-                                        menyimak setiap ucapan dari seorang dosen secara langsung. Kuliah Online juga
-                                        merupakan salah satu sarana pembelajaran interaktif, dosen dan mahasiswa dapat
-                                        berkomunikasi dengan menggunakan media internet. Dosen dapat memberikan materi
-                                        kuliah, baik berupa file, video, maupun tulisan (teks). Dengan kuliah online,
-                                        seorang dosen juga bisa mengajar di beberapa tempat secara bersamaan. Mahasiswa
-                                        dapat mengikuti kuliah di mana saja dan kapan saja, selama mereka memiliki
-                                        koneksi Internet.</p>
+                                        Course adalah implementasi pendidikan yang memanfaatkan media Teknologi
+                                        Informasi dan Komunikasi dalam proses belajar mengajar. Dalam perkuliahan online
+                                        atau kuliah non tatap muka ini mahasiswa tidak perlu duduk dengan manis di ruang
+                                        kelas untuk menyimak penjelasan seorang dosen secara langsung. Namun, mahasiswa
+                                        cukup membuka media pembelajaran, yakni Learning Management System (LMS) yang
+                                        telah disediakan oleh UNSIA. Kuliah Online juga merupakan salah satu sarana
+                                        pembelajaran interaktif, dosen dan mahasiswa dapat berkomunikasi anytime,
+                                        anyplace, bahkan pada saat hari libur nasional. Selain itu di LMS dosen dan
+                                        mahasiswa dapat melaksanakan video conference sebagai fasilitas live streaming.
+                                        Dengan cara tersebut, komunikasi dosen dengan mahasiswa akan terjalin interaktif
+                                        dan diskusi bisa menghasilkan produktifitas pengajaran yang bermutu. Dosen dapat
+                                        memberikan materi kuliah, baik berupa file, video, maupun tulisan (teks). Dengan
+                                        kuliah online, seorang dosen juga bisa mengajar di beberapa tempat secara
+                                        bersamaan.</p>
                                 </li>
                                 <li class="mb-4">
                                     <b>Apa keunggulan online learning?</b>
-                                    <table class="table table-borderless">
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Penggunaan E-learning untuk menunjang pelaksanaan proses belajar dapat
-                                                meningkatkan daya serap peserta didik (Mahasiswa) atas materi yang
-                                                diajarkan.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Meningkatkan partisipasi aktif dari peserta didik. Sehingga proses
-                                                pembelajaran menjadi lebih menarik dan tidak monoton.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Menghemat biaya transportasi atau pun tempat tinggal bila universitas
-                                                yang dipilih berada di luar pulau atau luar negeri.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Tanya Jawab dalam perkuliahan bersifat fleksibel karena bisa ditanyakan
-                                                lewat chatinggan baik itu kepada dosen atau teman sekelas.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">5</th>
-                                            <td>Waktu masa perkuliahan lebih singkat dibandingkan perkuliahan yang
-                                                bersifat konvensional.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">6</th>
-                                            <td>Meningkatkan kemampuan belajar mandiri peserta didik. Sehingga peserta
-                                                didik tidak selalu bergatung kepada temannya.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">7</th>
-                                            <td>Mahasiswa bisa melihat kembali materi yang diajarkan karena materi
-                                                biasanya berupa modul yang dapat didownload dan tersimpan dalam PC atau
-                                                komputer.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">8</th>
-                                            <td>Meningkatkan kualitas materi pendidik dan pelatihan. Dimana materi yang
-                                                bisa diberikan oleh pendidik akan meningkat kualitasnya karena bisa
-                                                mengambil dari berbagai sumber yang ada.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">9</th>
-                                            <td>Meningkatkan kemampuan menampilkan informasi dengan perangkat teknologi
-                                                informasi, dimana dengan perangkat biasa sulit dilakukan.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">10</th>
-                                            <td>Melatih mahasiswa untuk lebih bertanggung jawab, kreatif, dan juga
-                                                mandiri. Sehingga membentuk pribadi yang lebih percaya diri.</td>
-                                        </tr>
-                                    </table>
+                                    <ol type="1" class="ml-4">
+                                        <li>Penggunaan E-learning untuk menunjang pelaksanaan proses belajar dapat
+                                            meningkatkan daya serap peserta didik (Mahasiswa) atas materi yang
+                                            diajarkan.</li>
+                                        <li>Meningkatkan partisipasi aktif dari peserta didik. Sehingga proses
+                                            pembelajaran menjadi lebih menarik dan tidak monoton.</li>
+                                        <li>Menghemat biaya transportasi atau pun tempat tinggal bila universitas
+                                            yang dipilih berada di luar pulau atau luar negeri.</li>
+                                        <li>Tanya Jawab dalam perkuliahan bersifat fleksibel karena bisa ditanyakan
+                                            lewat chatinggan baik itu kepada dosen atau teman sekelas.</li>
+                                        <li>Waktu masa perkuliahan lebih singkat dibandingkan perkuliahan yang
+                                            bersifat konvensional.</li>
+                                        <li>Meningkatkan kemampuan belajar mandiri peserta didik. Sehingga peserta
+                                            didik tidak selalu bergatung kepada temannya.</li>
+                                        <li>Mahasiswa bisa melihat kembali materi yang diajarkan karena materi
+                                            biasanya berupa modul yang dapat didownload dan tersimpan dalam PC atau
+                                            komputer.</li>
+                                        <li>Meningkatkan kualitas materi pendidik dan pelatihan. Dimana materi yang
+                                            bisa diberikan oleh pendidik akan meningkat kualitasnya karena bisa
+                                            mengambil dari berbagai sumber yang ada.</li>
+                                        <li>Meningkatkan kemampuan menampilkan informasi dengan perangkat teknologi
+                                            informasi, dimana dengan perangkat biasa sulit dilakukan.</li>
+                                        <li>Melatih mahasiswa untuk lebih bertanggung jawab, kreatif, dan juga
+                                            mandiri. Sehingga membentuk pribadi yang lebih percaya diri.</li>
+                                    </ol>
                                 </li>
                                 <li class="mb-4">
                                     <b>Apa yang dimaksud cyber university?</b>
@@ -165,130 +139,59 @@
                                 <li class="mb-4">
                                     <b>Bagaimana metode pembelajarannya ?</b>
                                     <p>Aktifitas setiap semester:</p>
-                                    <table class="table table-borderless">
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Total aktifitas 1 semester 16 minggu terdiri atas Off-Line dan On-Line
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Kelas Off-Line per MK = 2 minggu terdiri atas 1 minggu diawal semester
-                                                dan 1 minggu di akhir semester</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Kelas On-line per MK = 14 Minggu</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Mode pembelajaran on-line menerapkan metode Singkron dan Asinkron, yakni
-                                                dosen dan mahasiswa bisa berinteraksi di LMS dalam waktu yang bersamaan,
-                                                maupun tidak bersamaan dalam setiap minggu on-line.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">5</th>
-                                            <td>Video conference atau Webinar (Web Seminar) di salah satu minggu
-                                                On-Line.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">6</th>
-                                            <td>UTS On-Line minggu ke-8, bentuk E-paper dan Vlog Presentation</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">7</th>
-                                            <td>UAS Off-Line/On-Site minggu ke-16</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">8</th>
-                                            <td>Aktifitas 1 Minggu on-line untuk reguler mode sinkron dan asinkron (6
-                                                hari kerja, Senin – Sabtu, alokasi waktu 24 jam/hari)</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">9</th>
-                                            <td>Meningkatkan kemampuan menampilkan informasi dengan perangkat teknologi
-                                                informasi, dimana dengan perangkat biasa sulit dilakukan.</td>
-                                        </tr>
-                                    </table>
-                                    <p>Secara singkat aktivitas pembelajaran dalam LMS nanti nya ialah sebagai berikut:
-                                    </p>
-                                    <p>Eksplorasi Materi, Diskusi, Pengerjaan Tugas, Video Conference/Webinar dan
-                                        Assesment & Reviewing.</p>
+                                    <ol type="1" class="ml-4">
+                                        <li>Total aktifitas 1 semester 16 minggu terdiri atas Off-Line dan On-Line</li>
+                                        <li>Kelas Off-Line per MK = 2 minggu terdiri atas 1 minggu diawal semester
+                                            dan 1 minggu di akhir semester</li>
+                                        <li>Kelas On-line per MK = 14 Minggu</li>
+                                        <li>Mode pembelajaran on-line menerapkan metode Singkron dan Asinkron, yakni
+                                            dosen dan mahasiswa bisa berinteraksi di LMS dalam waktu yang bersamaan,
+                                            maupun tidak bersamaan dalam setiap minggu on-line.</li>
+                                        <li>Video conference atau Webinar (Web Seminar) di salah satu minggu
+                                            On-Line.</li>
+                                        <li>UTS On-Line minggu ke-8, bentuk E-paper dan Vlog Presentation</li>
+                                        <li>UAS Off-Line/On-Site minggu ke-16</li>
+                                        <li>Aktifitas 1 Minggu on-line untuk reguler mode sinkron dan asinkron (6
+                                            hari kerja, Senin – Sabtu, alokasi waktu 24 jam/hari)</li>
+                                        <li>Meningkatkan kemampuan menampilkan informasi dengan perangkat teknologi
+                                            informasi, dimana dengan perangkat biasa sulit dilakukan.</li>
+                                    </ol>
+                                    <p class="mt-3">Secara singkat aktivitas pembelajaran dalam LMS nanti nya ialah
+                                        sebagai berikut: <br> Eksplorasi Materi, Diskusi, Pengerjaan Tugas, Video
+                                        Conference/Webinar dan
+                                        Assesment & Reviewing. </p>
                                 </li>
                                 <li class="mb-4">
                                     <b>Apa yang akan saya (mahasiswa) dapatkan ketika belajar online?</b>
-                                    <table class="table table-borderless">
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Video ceramah dan materi pembelajaran disediakan halaman demi halaman
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Materi interaktif akan meningkatkan pengalaman belajar siswa.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Siswa dapat memilih kualitas video dan kecepatan pemutaran sesuai dengan
-                                                lingkungan belajar mereka. (Fungsi bookmark disediakan untuk video)</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Materi tambahan seperti halaman contoh / kuis / ringkasan akan membantu
-                                                proses belajar siswa.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">5</th>
-                                            <td>Video ceramah disediakan dengan materi pembelajaran terstruktur yang
-                                                dimasukkan dalam layar HD.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">6</th>
-                                            <td>Ceramah, materi pembelajaran, dan tulisan di papan tulis dapat diakses
-                                                secara bersamaan.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">7</th>
-                                            <td>Melalui perangkat lunak "e-Stream", penjelasan video/audio dosen dan
-                                                materi pembelajaran disediakan.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">8</th>
-                                            <td>Tulisan di papan tulis menggunakan pena elektronik disediakan untuk
-                                                membantu pengalaman belajar siswa.</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">9</th>
-                                            <td>Lebih banyak interaksi antara mahasiswa dan dosen untuk membawa rasa
-                                                kedekatan dalam perkuliahan.</td>
-                                        </tr>
-                                    </table>
+                                    <ol type="1" class="ml-4">
+                                        <li>Video ceramah dan materi pembelajaran disediakan halaman demi halaman</li>
+                                        <li>Materi interaktif akan meningkatkan pengalaman belajar siswa.</li>
+                                        <li>Siswa dapat memilih kualitas video dan kecepatan pemutaran sesuai dengan
+                                            lingkungan belajar mereka. (Fungsi bookmark disediakan untuk video)</li>
+                                        <li>Materi tambahan seperti halaman contoh / kuis / ringkasan akan membantu
+                                            proses belajar siswa.</li>
+                                        <li>Video ceramah disediakan dengan materi pembelajaran terstruktur yang
+                                            dimasukkan dalam layar HD.</li>
+                                        <li>Ceramah, materi pembelajaran, dan tulisan di papan tulis dapat diakses
+                                            secara bersamaan.</li>
+                                        <li>Melalui perangkat lunak "e-Stream", penjelasan video/audio dosen dan
+                                            materi pembelajaran disediakan.</li>
+                                        <li>Tulisan di papan tulis menggunakan pena elektronik disediakan untuk
+                                            membantu pengalaman belajar siswa.</li>
+                                        <li>Lebih banyak interaksi antara mahasiswa dan dosen untuk membawa rasa
+                                            kedekatan dalam perkuliahan.</li>
+                                    </ol>
                                 </li>
                                 <li class="mb-4">
                                     <b>Program studi apa saja yang ditawarkan di UNSIA?</b>
                                     <p>UNSIA akan membuka 5 (lima) program pendidikan Sarjana Strata Satu, meliputi:</p>
-                                    <table class="table table-borderless">
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Manajemen Kontemporer</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Sistem Informasi</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Teknologi Informasi</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Akuntansi dan Perpajakan</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">5</th>
-                                            <td>Penyiaran dan Komunikasi Digital</td>
-                                        </tr>
-                                    </table>
+                                    <ol type="1" class="ml-4">
+                                        <li>Manajemen Kontemporer</li>
+                                        <li>Sistem Informasi</li>
+                                        <li>Teknologi Informasi</li>
+                                        <li>Akuntansi dan Perpajakan</li>
+                                        <li>Penyiaran dan Komunikasi Digital</li>
+                                    </ol>
                                 </li>
                                 <li class="mb-4">
                                     <b>Berapa lama saya kuliah online di Unsia?</b>
@@ -298,24 +201,20 @@
                                 </li>
                                 <li class="mb-4">
                                     <b>Setelah kuliah apa yang saya dapatkan?</b>
-                                    <table class="table table-borderless">
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Ijazah S1 yang diakui;</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Sertifikasi Kompetensi;</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Pengalaman dan Ilmu Pengetahuan yang berkualitas.</td>
-                                        </tr>
-                                    </table>
+                                    <ol type="1" class="ml-4">
+                                        <li>Ijazah Strata 1 (S1) yang terakreditasi nasional BAN-PT.</li>
+                                        <li>Surat Keterangan Pendamping Ijazah (SKPI) yang menerangkan Capaian
+                                            Pembelajaran Lulusan.</li>
+                                        <li>Sertifikasi Kompetensi Profesional.</li>
+                                        <li>Link dan koneksi pekerjaan.</li>
+                                        <li>Link dan koneksi beasiswa S2 dalam dan luar negeri.</li>
+                                    </ol>
+
                                 </li>
                                 <li class="mb-4">
                                     <b>Kemana saya setelah lulus?</b>
-                                    <p style="text-align: justify">UNSIA bekerjasama dan memiliki jaringan yang luas untuk
+                                    <p style="text-align: justify">UNSIA bekerjasama dan memiliki jaringan yang luas
+                                        untuk
                                         menjalin kemitraan strategis dengan pemangku kepentingan (Stakeholders) meliputi
                                         Academic, Business, Company, and Government. Selain itu, dengan penandatanganan
                                         Nota Kesepahaman dengan sejumlah dunia industri di Indonesia dan memiliki pusat

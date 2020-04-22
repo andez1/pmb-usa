@@ -193,6 +193,8 @@
                                         <ul class="sub-menu">
                                             <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
                                             </li>
+                                            <li><a href="{{ route('landing.teaching_professor') }}">Teaching Professor</a>
+                                            </li>
                                             <li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a>
                                             </li>
                                             <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan
