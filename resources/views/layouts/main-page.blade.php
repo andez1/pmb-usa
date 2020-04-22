@@ -135,7 +135,8 @@
 								<ul class="sub-menu">
 									<li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
                                         <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa UNSIA?</i></a></li>
-                                        <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan UNSIA</i></a></li>
+										<li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan UNSIA</i></a></li>
+										<li><a href="{{-- {{ route('landing.list_of_partner') }} --}}#">List of Partner</i></a></li>
                                         <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
                                         <li><a href="{{ route('landing.struktur_organisasi') }}">Struktur Organisasi</i></a></li>
@@ -168,13 +169,14 @@
                                             <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="javascript:;">Sistem Pembelajaran<i class="fa fa-chevron-down"></i></a>
+                                    <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
                                             <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
                                             <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan Akademik</a></li>
                                             <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a></li>
                                         </ul>
 									</li>
+									<li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan Pembelajaran Online</a></li>
 									<li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran Online</a></li>
 									<li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi Akademik</a></li>
 									<li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>

@@ -86,7 +86,7 @@
 									</tr>
 									<tr>
 										<td>9.</td>
-										<td>Biro Penelitian dan Pengabdian Kepada Masyarakat</td>
+										<td>Biro Inovasi Penelitian dan Pengabdian Kepada Masyarakat</td>
 										<td>:</td>
 										<td>R. Muhammad Firza, S.Pd, M.Kom</td>
 									</tr>

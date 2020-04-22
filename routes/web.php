@@ -40,6 +40,8 @@ Route::get('/arsip/berita', 'LandingController@berita')->name('landing.berita');
 Route::get('/arsip/siaran-pers', 'LandingController@siaran_pers')->name('landing.siaran_pers');
 Route::get('/peraturan-akademik', 'LandingController@peraturan_akademik')->name('landing.peraturan_akademik');
 Route::get('/penerimaan/jenjang-s1/info-pendaftaran', 'LandingController@jenjang_s1')->name('landing.jenjang_s1');
+Route::get('/penerimaan/akademik/panduan-pembelajaran-online', 'LandingController@panduan_pembelajaran_online')->name('landing.panduan_pembelajaran_online');
+Route::get('/penerimaan/tentang-unsia/list-of-partner', 'LandingController@list_of_partner')->name('landing.list_of_partner');
 
 /**
  * Academic
