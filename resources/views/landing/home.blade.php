@@ -71,7 +71,8 @@
                             <ul>
                                 <li><a href="{{ url('/faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a>
                                 </li>
-                                <li><a href="javascript:;"><i class="fa fa-envelope-o"></i>asiacyberuni@gmail.com</a></li>
+                                <li><a href="javascript:;"><i class="fa fa-envelope-o"></i>asiacyberuni@gmail.com</a>
+                                </li>
                             </ul>
                         </div>
                         <div class="topbar-right">
@@ -110,7 +111,8 @@
                             <div class="secondary-inner">
                                 <ul>
                                     <li><a href="javascript:;" class="btn-link"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a>
+                                    <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i
+                                                class="fa fa-instagram"></i></a>
                                     </li>
                                     <li><a href="javascript:;" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
                                     <!-- Search Button ==== -->
@@ -141,7 +143,8 @@
                                     <ul class="sub-menu">
                                         <li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
                                         <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa UNSIA?</i></a></li>
-                                        <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan UNSIA</i></a></li>
+                                        <li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan UNSIA</i></a>
+                                        </li>
                                         <li><a href="#">List of Partner</i></a></li>
                                         <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
@@ -188,13 +191,16 @@
                                     </li>
                                     <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
-                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
-                                            <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan Akademik</a></li>
+                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
+                                            </li>
+                                            <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan
+                                                    Akademik</a></li>
                                             <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a>
                                             </li>
                                         </ul>
                                     </li>
-                                    <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan Pembelajaran Online</a></li>
+                                    <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
+                                            Pembelajaran Online</a></li>
                                     <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran Online</a>
                                     </li>
                                     <li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi
@@ -225,7 +231,8 @@
                             </ul>
                             <div class="nav-social-link">
                                 <a href="javascript:;"><i class="fa fa-facebook"></i></a>
-                                <a href="https://www.instagram.com/asiacyberuniversity/"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/asiacyberuniversity/"><i
+                                        class="fa fa-instagram"></i></a>
                                 <a href="javascript:;"><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div>
@@ -658,26 +665,9 @@
                                 <img src="{{ asset('homepages/images/courses/img4.jpg') }}" alt="">
                                 <a href="{{ url('/manajemen-kontemporer') }}" class="btn">Read More</a>
                             </div>
-                            <div class="info-bx text-center">
+                            <div class="info-bx d-flex justify-content-center" style="height: 80px;">
                                 <h5>Manajemen Kontemporer</h5>
-                                <!-- <span>Programming</span> -->
                             </div>
-                            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
                         </div>
                     </div>
                     <div class="item">
@@ -686,26 +676,9 @@
                                 <img src="{{ asset('homepages/images/courses/img2.jpg') }}" alt="">
                                 <a href="{{ url('/sistem-informasi') }}" class="btn">Read More</a>
                             </div>
-                            <div class="info-bx text-center">
+                            <div class="info-bx d-flex justify-content-center" style="height: 80px;">
                                 <h5>Sistem Informasi</h5>
-                                <!-- <span>Programming</span> -->
                             </div>
-                            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
                         </div>
                     </div>
                     <div class="item">
@@ -714,26 +687,9 @@
                                 <img src="{{ asset('homepages/images/courses/img5.jpg') }}" alt="">
                                 <a href="{{ url('/teknologi-informasi') }}" class="btn">Read More</a>
                             </div>
-                            <div class="info-bx text-center">
+                            <div class="info-bx d-flex justify-content-center" style="height: 80px;">
                                 <h5>Teknologi Informasi</h5>
-                                <!-- <span>Programming</span> -->
                             </div>
-                            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
                         </div>
                     </div>
                     <div class="item">
@@ -742,26 +698,9 @@
                                 <img src="{{ asset('homepages/images/courses/img1.jpg') }}" alt="">
                                 <a href="{{ url('/akuntansi-dan-perpajakan') }}" class="btn">Read More</a>
                             </div>
-                            <div class="info-bx text-center">
+                            <div class="info-bx d-flex justify-content-center" style="height: 80px;">
                                 <h5>Akuntansi dan Perpajakan</h5>
-                                <!-- <span>Programming</span> -->
                             </div>
-                            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
                         </div>
                     </div>
                     <div class="item">
@@ -770,26 +709,9 @@
                                 <img src="{{ asset('homepages/images/courses/img3.jpg') }}" alt="">
                                 <a href="{{ url('/penyiaran-dan-komunikasi-digital') }}" class="btn">Read More</a>
                             </div>
-                            <div class="info-bx text-center">
+                            <div class="info-bx text-center d-flex justify-content-center" style="height: 80px;">
                                 <h5>Penyiaran dan Komunikasi Digital</h5>
-                                <!-- <span>Programming</span> -->
                             </div>
-                            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
                         </div>
                     </div>
                 </div>
@@ -802,20 +724,6 @@
     <div class="section-area section-sp1 ovpr-dark bg-fix online-course"
         style="background-image:url('{{ asset('homepages/images/background/bg1.jpg') }}');">
         <div class="container">
-            <!-- <div class="row">
-						<div class="col-md-12 text-center text-white">
-							<h2>Online Courses To Learn</h2>
-							<h5>Own Your Feature Learning New Skills Online</h5>
-							<form class="cours-search">
-								<div class="input-group">
-									<input type="text" class="form-control" placeholder="What do you want to learn today?	">
-									<div class="input-group-append">
-										<button class="btn" type="submit">Search</button> 
-									</div>
-								</div>
-							</form>
-						</div>
-					</div> -->
             <div class="mw1000 m-auto">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
@@ -848,6 +756,45 @@
                                 <h3><i class="ti-cup"></i><span class="counter">20</span></h3>
                             </div>
                             <span class="cours-search-text">Achievements.</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col d-flex justify-content-center" style="background-color : white; padding : 24px;">
+                        <div class="row">
+                            <div class="link-web">
+                                <a href="http://portal.koreaswt.com/portal/login">
+                                    <div class="col mr-2 linklms">
+                                        <div class="text-center mb-5 imglms">
+                                            <img src="{{ asset('homepages/images/icon/academic.png') }}" width="128px"
+                                                alt="">
+                                        </div>
+                                        Learning Manajemen Sistem
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="link-web">
+                                <a href="http://library.usahakecilmendigital.com/">
+                                    <div class="col mr-2 ml-2 linkdigilib">
+                                        <div class="text-center mb-5 imgdigilib">
+                                            <img src="{{ asset('homepages/images/icon/book.png') }}" width="128px"
+                                                alt="">
+                                        </div>
+                                        Digital Library UNSIA
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="link-web">
+                                <a href="http://asiacyberuniversity.siakadcloud.com/">
+                                    <div class="col ml-2 linkinfo">
+                                        <div class="text-center mb-5 imginfo">
+                                            <img src="{{ asset('homepages/images/icon/information.png') }}"
+                                                width="128px" alt="">
+                                        </div>
+                                        Sistem Informasi Akademik
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1119,29 +1066,35 @@
             </div>
             <div class="row row-cols-1 row-cols-md-2">
                 <div class="col mb-4">
-                  <div class="card">
-                    <video controls src="{{ asset('homepages/images/video/teaservideo1.mp4') }}"></video>
-                    <div class="card-body">
-                      <h5 class="card-title">Video Teaser Pelatihan</h5>
-                      <p class="card-text">Universitas Siber Asia secara regular atau setiap akhir semester menyelenggarakan Pelatihan Profesional Bersertifikasi dengan tujuan untuk mempersiapkan lulusan yang siap berkiprah di dunia kerja dalam Era Smart Digital Economy. Pelatihan secara rutin diumumkan dalam kalender akademik mahasiswa wajib mengikuti pelatihan tersebut secara online.</p>
-                      <a href="{{ route('landing.teaser_video_pelatihan') }}" class="btn btn-primary">Read More</a>
+                    <div class="card">
+                        <video controls src="{{ asset('homepages/images/video/teaservideo1.mp4') }}"></video>
+                        <div class="card-body">
+                            <h5 class="card-title">Video Teaser Pelatihan</h5>
+                            <p class="card-text">Universitas Siber Asia secara regular atau setiap akhir semester
+                                menyelenggarakan Pelatihan Profesional Bersertifikasi dengan tujuan untuk mempersiapkan
+                                lulusan yang siap berkiprah di dunia kerja dalam Era Smart Digital Economy. Pelatihan
+                                secara rutin diumumkan dalam kalender akademik mahasiswa wajib mengikuti pelatihan
+                                tersebut secara online.</p>
+                            <a href="{{ route('landing.teaser_video_pelatihan') }}" class="btn btn-primary">Read
+                                More</a>
+                        </div>
                     </div>
-                  </div>
                 </div>
                 <div class="col mb-4">
-                  <div class="card">
-                    <video controls src="{{ asset('homepages/images/video/teaservideo2.mp4') }}"></video>
-                    <div class="card-body">
-                      <h5 class="card-title">Video Teaser Pembelajaran</h5>
-                      <p class="card-text">Salah satu materi utama pembelajaran online dalam LMS
-                        (Learning Management System) adalah tersedianya video pembelajaran di setiap minggu
-                        perkuliahan. Anda dapat mengaksesnya setiap minggu dengan berulang-ulang untuk dapat
-                        memperjelas pemahaman anda tentang materi yang dirancang setiap minggu.</p>
-                      <a href="{{ route('landing.teaser_video_pembelajaran') }}" class="btn btn-primary">Read More</a>
+                    <div class="card">
+                        <video controls src="{{ asset('homepages/images/video/teaservideo2.mp4') }}"></video>
+                        <div class="card-body">
+                            <h5 class="card-title">Video Teaser Pembelajaran</h5>
+                            <p class="card-text">Salah satu materi utama pembelajaran online dalam LMS
+                                (Learning Management System) adalah tersedianya video pembelajaran di setiap minggu
+                                perkuliahan. Anda dapat mengaksesnya setiap minggu dengan berulang-ulang untuk dapat
+                                memperjelas pemahaman anda tentang materi yang dirancang setiap minggu.</p>
+                            <a href="{{ route('landing.teaser_video_pembelajaran') }}" class="btn btn-primary">Read
+                                More</a>
+                        </div>
                     </div>
-                  </div>
                 </div>
-              </div>
+            </div>
         </div>
     </div>
     <!-- Testimonials END -->
@@ -1164,7 +1117,8 @@
                                 <li><a href="#" class="btn-link"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#" class="btn-link"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i
+                                            class="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>
                         <div class="pt-btn-join">
@@ -1215,8 +1169,9 @@
                                         <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
                                         <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
                                         <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
-                                            Perpajakan</a></li>
-                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan Komunikasi Digital</a></li>
+                                                Perpajakan</a></li>
+                                        <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan
+                                                Komunikasi Digital</a></li>
                                     </ul>
                                 </div>
                             </div>
