@@ -56,14 +56,14 @@ class LandingController extends Controller
         return view('landing.beasiswa');
     }
 
-    public function kenapa_usa()
+    public function kenapa_unsia()
     {
-        return view('landing.kenapa-usa');
+        return view('landing.kenapa-unsia');
     }
 
-    public function keunggulan_usa()
+    public function keunggulan_unsia()
     {
-        return view('landing.keunggulan-usa');
+        return view('landing.keunggulan-unsia');
     }
 
     public function faq()

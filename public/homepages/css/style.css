@@ -564,7 +564,7 @@
     display: block;
     font-size: 14px;
     padding: 8px 20px;
-    text-transform: capitalize;
+    text-transform: none;
     transition: all 0.15s linear;
     -webkit-transition: all 0.15s linear;
     -moz-transition: all 0.15s linear;

@@ -18,14 +18,15 @@
 Route::get('/', 'LandingController@index')->name('landing.index');
 // Tentang UNSIA
 Route::get('/tentang-unsia/salam-rektor', 'LandingController@salam_rektor')->name('landing.salam_rektor');
-Route::get('/tentang-unsia/kenapa-usa', 'LandingController@kenapa_usa')->name('landing.kenapa_usa');
+Route::get('/tentang-unsia/kenapa-unsia', 'LandingController@kenapa_unsia')->name('landing.kenapa_unsia');
+Route::get('/tentang-unsia/keunggulan-unsia', 'LandingController@keunggulan_unsia')->name('landing.keunggulan_unsia');
 
 Route::get('/teaser-video-pelatihan', 'LandingController@teaser_video_pelatihan')->name('landing.teaser_video_pelatihan');
 Route::get('/teaser-video-pembelajaran', 'LandingController@teaser_video_pembelajaran')->name('landing.teaser_video_pembelajaran');
 Route::get('/beasiswa', 'LandingController@beasiswa')->name('landing.beasiswa');
 Route::get('/faq', 'LandingController@faq')->name('landing.faq');
-Route::get('/about-usa', 'LandingController@about')->name('landing.about');
-Route::get('/sejarah-usa', 'LandingController@sejarah')->name('landing.sejarah');
+Route::get('/about-unsia', 'LandingController@about')->name('landing.about');
+Route::get('/sejarah-unsia', 'LandingController@sejarah')->name('landing.sejarah');
 Route::get('/admission-info', 'LandingController@admission_info')->name('landing.admission_info');
 Route::get('/kalender-akademik', 'LandingController@kalender_akademik')->name('landing.kalender_akademik');
 Route::get('/academic-program', 'LandingController@academic_program')->name('landing.academic_program');
@@ -34,7 +35,6 @@ Route::get('/study-guide', 'LandingController@study_guide')->name('landing.study
 Route::get('/keunggulan-lulusan', 'LandingController@keunggulan_lulusan')->name('landing.keunggulan_lulusan');
 Route::get('/visi-misi', 'LandingController@visi_misi')->name('landing.visi_misi');
 Route::get('/struktur-organisasi', 'LandingController@struktur_organisasi')->name('landing.struktur_organisasi');
-Route::get('/keunggulan-usa', 'LandingController@keunggulan_usa')->name('landing.keunggulan_usa');
 Route::get('/kontak', 'LandingController@kontak')->name('landing.kontak');
 Route::get('/arsip/berita', 'LandingController@berita')->name('landing.berita');
 Route::get('/arsip/siaran-pers', 'LandingController@siaran_pers')->name('landing.siaran_pers');

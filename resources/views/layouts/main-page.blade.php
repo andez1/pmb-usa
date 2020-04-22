@@ -134,8 +134,8 @@
 							<li class="@yield('active-about')"><a href="javascript:;">Tentang UNSIA <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
-                                        <li><a href="{{ route('landing.kenapa_usa') }}">Kenapa UNSIA?</i></a></li>
-										<li><a href="{{ route('landing.keunggulan_usa') }}">Keunggulan UNSIA</i></a></li>
+                                        <li><a href="{{ route('landing.kenapa_unsia') }}">Kenapa UNSIA?</i></a></li>
+										<li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan UNSIA</i></a></li>
 										<li><a href="{{-- {{ route('landing.list_of_partner') }} --}}#">List of Partner</i></a></li>
                                         <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
@@ -171,7 +171,9 @@
                                     </li>
                                     <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
-                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
+											<li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a></li>
+											<li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a>
+                                            </li>
                                             <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan Akademik</a></li>
                                             <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a></li>
                                         </ul>
