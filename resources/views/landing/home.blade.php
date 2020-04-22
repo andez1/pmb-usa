@@ -761,7 +761,7 @@
                 </div>
                 <div class="row">
                     <div class="col d-flex justify-content-center" style="background-color : white; padding : 24px;">
-                        <div class="row">
+                        <div class="row d-flex justify-content-center">
                             <div class="link-web">
                                 <a href="http://portal.koreaswt.com/portal/login">
                                     <div class="col mr-2 linklms">
