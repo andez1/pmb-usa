@@ -29,7 +29,7 @@
 					 <div class="row">
 						<div class="col-lg-12 col-md-12 col-sm-12 m-b30">
 							<div class="feature-container">
-								<div class="icon-content mb-2 rector">
+								<div class="icon-content mb-4 rector">
 									<img src="{{ asset('homepages/images/dr-cho.jpg') }}" class="img-fluid" alt="Responsive image">
 									<p style="text-align: justify;">
 										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selamat datang di Universitas Siber pertama di Indonesia, Universitas Siber Asia / Asia Cyber University. Universitas kami didirikan sejak 2019 untuk memenuhi kebutuhan abad ke 21, pemimpin professional dalam masyarakat digital yang cerdas dalam era revolusi industri ke 4.
@@ -45,6 +45,7 @@
 									</p>
                                     <p>Hormat kami, <br> Rektor, <br> Prof. Cho, Jang Youn  Ph.D., CPA </p>
 								</div>
+								
 								<p>BA. Hankuk Univ of Foreign Studies, Korea <br>
 									Master of  Accounting, Univ. Of Texas, U.S.A. <br>
 									Ph.D. (Accounting) Univ. Of Florida, U.S.A. <br>
