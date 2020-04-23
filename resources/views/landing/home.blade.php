@@ -71,7 +71,7 @@
                             <ul>
                                 <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a>
                                 </li>
-                                <li><a href="javascript:;"><i class="fa fa-envelope-o"></i>asiacyberuni@gmail.com</a>
+                                <li><a href="javascript:;"><i class="fa fa-envelope-o"></i>asiacyberuniv@lms-usa.site</a>
                                 </li>
                             </ul>
                         </div>
@@ -1221,9 +1221,7 @@
         <div class="footer-bottom">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <a target="_blank"
-                            href="https://www.templateshub.net"><?php echo date("Y"); ?> | Copyright © Universitas Siber
-                            Asia</a></div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <?php echo date("Y"); ?> | Copyright © Universitas Siber Asia <br> Tema oleh  <a target="_blank" href="https://www.templateshub.net">templateshub.net</a></div>
                 </div>
             </div>
         </div>
