@@ -62,6 +62,7 @@
                                     <th rowspan="2">Nama Dosen Tetap</th>
                                     <th colspan="2">S2</th>
                                     <th colspan="3">S3</th>
+                                    <th rowspan="2">CV</th>
                                   </tr>
                                   <tr class="bg-success">
                                     <th>Universitas</th>
@@ -78,6 +79,7 @@
                                     <td>Universitas Brawijaya</td>
                                     <td>Manajemen SDM</td>
                                     <td>2018</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>2</th>
@@ -86,7 +88,8 @@
                                     <td>Manajemen</td>
                                     <td>Universitas Indonesia</td>
                                     <td>Manajemen Strategik</td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>3</th>
@@ -95,7 +98,8 @@
                                     <td>Manajemen</td>
                                     <td>Universitas Gajah Mada</td>
                                     <td>Manajemen Keuangan</td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>4</th>
@@ -104,7 +108,8 @@
                                     <td>Manajemen</td>
                                     <td>Unhas</td>
                                     <td>Manajemen Pemasaran</td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>5</th>
@@ -114,24 +119,27 @@
                                     <td>Warwick University England</td>
                                     <td>Manajemen</td>
                                     <td>2019</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>6</th>
                                     <td>Mufidah Sahid SE., MM.</td>
                                     <td>Universitas Nasional</td>
                                     <td>Manajemen</td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td>2016</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>7</th>
                                     <td>Dr. Sukusen Soemarinda, DipTech., MBA.</td>
                                     <td>Universitas Indonesia</td>
                                     <td>Ekonomi Manajemen</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                               </table>
                         </div>

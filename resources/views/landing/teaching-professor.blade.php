@@ -41,39 +41,42 @@
                                 </tr>
                                 <tr>
                                     <th>1</th>
-                                    <th>Prof. Dr. Muhammad Zarlis, M.Kom</th>
-                                    <th>
+                                    <td>Prof. Dr. Muhammad Zarlis, M.Kom</td>
+                                    <td>
                                         <div class="text-center mb-5">
-                                            <img src="{{ asset('homepages/images/profesor/muhammad-zarlis.jpg') }}" alt="">
+                                            <img src="{{ asset('homepages/images/profesor/muhammad-zarlis.jpg') }}" width="150px" alt="">
                                         </div>
-                                    </th>
-                                    <th>Universitas Sumatra Utara (USU)</th>
-                                    <th>Sistem Pakar, Teknologi Komputasi Cerdas, dan Metode Riset Teknologi Informasi</th>
+                                    </td>
+                                    <td>Universitas Sumatra Utara (USU)</td>
+                                    <td>Sistem Pakar, Teknologi Komputasi Cerdas, dan Metode Riset Teknologi Informasi</td>
                                 </tr>
                                 <tr>
                                     <th>2</th>
-                                    <th>Dr. Ali Ahmad </th>
-                                    <th>
+                                    <td>Dr. Ali Ahmad </td>
+                                    <td>
                                         <div class="text-center mb-5">
-                                            <img src="{{ asset('homepages/images/profesor/ali-ahmad.jpg') }}" alt="">
+                                            <img src="{{ asset('homepages/images/profesor/ali-ahmad.jpg') }}" width="150px" alt="">
                                         </div>
-                                    </th>
-                                    <th>Warwick University (UK)</th>
-                                    <th>Entrepreneurship and Innovation</th>
+                                    </td>
+                                    <td>Warwick University (UK)</td>
+                                    <td>Entrepreneurship and Innovation</td>
                                 </tr>
                                 <tr>
                                     <th>3</th>
-                                    <th>Prof. Ir. Rudy C. Tarumingkeng Ph.D</th>
-                                    <th>
+                                    <td>Prof. Ir. Rudy C. Tarumingkeng Ph.D</td>
+                                    <td>
                                         <div class="text-center mb-5">
-                                            <img src="{{ asset('homepages/images/profesor/rudy.jpg') }}" alt="">
+                                            <img src="{{ asset('homepages/images/profesor/rudy.jpg') }}" width="150px" alt="">
                                         </div>
-                                    </th>
-                                    <th>Professor (Emeritus)  Institut Pertanian Bogor (IPB)</th>
-                                    <th>Manajemen Strategik.</th>
+                                    </td>
+                                    <td>Professor (Emeritus)  Institut Pertanian Bogor (IPB)</td>
+                                    <td>Manajemen Strategik.</td>
                                 </tr>
                             </table>
                             <p>Berikut contoh Video Teaser Teaching Professor:</p>
+                            <div class="text-center">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/_Gpz7EUi9YU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
                         </div>
                     </div>
                 </div>

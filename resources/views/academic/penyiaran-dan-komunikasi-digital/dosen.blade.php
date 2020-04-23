@@ -53,6 +53,7 @@
                                     <th rowspan="2">Nama Dosen Tetap</th>
                                     <th colspan="2">S2</th>
                                     <th colspan="3">S3</th>
+                                    <th rowspan="2">CV</th>
                                   </tr>
                                   <tr class="bg-success">
                                     <th>Universitas</th>
@@ -66,90 +67,100 @@
                                     <td>Dian Metha Ariyanti, S.Sos., M.Si</td>
                                     <td>Univervsitas Indonesia</td>
                                     <td>Manajemen Komunikasi/ Manajemen Media</td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td>2011</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>2</th>
                                     <td>Adi Prakoso, M.Si</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>3</th>
                                     <td>Romika Junaidi</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>4</th>
                                     <td>Daniel Wisnu W</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>5</th>
                                     <td>Yayu Sriwartini, S.Sos., M.Si</td>
                                     <td>Universitas Indonesia</td>
                                     <td>Komunikasi</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>6</th>
                                     <td>Dr. Dwi Kartika</td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td>Universitas Indonesia</td>
                                     <td>Komunikasi</td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>7</th>
                                     <td>Dr Nurhasanah</td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td>Universitas Sahid</td>
                                     <td>Komunikasi</td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>8</th>
                                     <td>Rosanah, M.Si</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>9</th>
                                     <td>Nursatyo, M.Si</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>10</th>
                                     <td>Siska Fitria</td>
                                     <td>Universitas Islam Negeri</td>
                                     <td>Komunikasi Dahwah</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                               </table>
                         </div>
