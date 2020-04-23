@@ -69,7 +69,7 @@
                     <div class="row d-flex justify-content-between">
                         <div class="topbar-left">
                             <ul>
-                                <li><a href="{{ url('/faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a>
+                                <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a>
                                 </li>
                                 <li><a href="javascript:;"><i class="fa fa-envelope-o"></i>asiacyberuni@gmail.com</a>
                                 </li>
@@ -145,20 +145,12 @@
                                         <li><a href="{{ route('landing.kenapa_unsia') }}">Kenapa UNSIA?</i></a></li>
                                         <li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan UNSIA</i></a>
                                         </li>
-                                        <li><a href="#">List of Partner</i></a></li>
+                                        <li><a href="{{ route('landing.list_of_partner') }}">List of Partner</i></a></li>
                                         <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
                                         <li><a href="{{ route('landing.struktur_organisasi') }}">Struktur
                                                 Organisasi</i></a></li>
                                         <li><a href="{{ route('landing.faq') }}">FAQ</a></li>
-                                        {{-- <li><a href="{{ route('landing.about') }}">Tentang USA</i></a>
-                                </li> --}}
-                                {{-- <li><a href="{{ route('landing.pelatihan_bersertifikasi') }}">Pelatihan
-                                Bersertifikasi</a></li>
-                                <li><a href="{{ route('landing.teaser_video_pembelajaran') }}">Teaser Video
-                                        Pembelajaran</a></li>
-                                <li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a>
-                                </li> --}}
                             </ul>
                             </li>
                             <li><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
@@ -192,6 +184,8 @@
                                     <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
                                             <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
+                                            </li>
+                                            <li><a href="{{ route('landing.teaching_professor') }}">Teaching Professor</a>
                                             </li>
                                             <li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a>
                                             </li>
@@ -656,7 +650,7 @@
             <div class="row">
                 <div class="col-md-12 heading-bx left">
                     <h2 class="title-head">Program <span>Studi</span></h2>
-                    <p>Universitas Siber Asia telah mempersiapkan dua Program Studi Strata 1 (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan Sistem Informasi. Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik Informatika, Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
+                    <p style="text-align: justify">Universitas Siber Asia telah mempersiapkan dua Program Studi Strata 1 (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan Sistem Informasi. Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik Informatika, Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
                 </div>
             </div>
             <div class="row">
@@ -1158,8 +1152,8 @@
                                     <ul>
                                         <li><a href="/">Beranda</a></li>
                                         <li><a href="{{ route('landing.about') }}">Tentang Kami</a></li>
-                                        <li><a href="#">Tanya Jawab</a></li>
-                                        <li><a href="#">Kontak</a></li>
+                                        <li><a href="{{ route('landing.faq') }}">Tanya Jawab</a></li>
+                                        <li><a href="{{ route('landing.kontak') }}">Kontak</a></li>
                                     </ul>
                                 </div>
                             </div>
