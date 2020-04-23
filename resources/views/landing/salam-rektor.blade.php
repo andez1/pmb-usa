@@ -45,6 +45,19 @@
 									</p>
                                     <p>Hormat kami, <br> Rektor, <br> Prof. Cho, Jang Youn  Ph.D., CPA </p>
 								</div>
+								<p>BA. Hankuk Univ of Foreign Studies, Korea <br>
+									Master of  Accounting, Univ. Of Texas, U.S.A. <br>
+									Ph.D. (Accounting) Univ. Of Florida, U.S.A. <br>
+									CPA  Florida 1983 <br>
+									1987-1997 Professor  University of Nebraska-Lincoln, U.S.A. <br>
+									1993 became a tenured professor <br>
+									1997-2017 professor, Hankuk Univ of Foreign Studies-Seoul, Korea <br>
+									Dean, College of Business.  Dean, Graduate School of Business <br>
+									2014-17 Vice President  of Univ.  & Operating Rector, Cyber  Univ of Foreign Studies <br>
+									1999 Founding vice chairman of Korea Accounting Standards Board <br>
+									Since 2000, served as a  board member (commissioner) for various organizations such as S-Oil(Aramco), Korea United Pham and Uhak Foundation, etc and editor in chief of Korean Accounting Review, top journal in Korea. <br>
+									2017, established Cyber Edu Inkor to practice online education in Indonesia and prepare the cyber university. <br>
+									Special research area includes valuation of companies and future education field through cyber education and machine learning.  Published over 50 articles in leading journals in U. S. , U. K., and Korea and wrote several books such as 'Valuation of Firms' and "Restructuring of Business'.  Also was a coauthor of 'Encyclopedia  of Accounying' with Prof. Abdel Kalik.</p>
 							</div>
 						</div>
 					</div>

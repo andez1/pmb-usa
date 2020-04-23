@@ -332,7 +332,8 @@
 </div>
 
 <!-- External JavaScripts -->
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+<script src="{{ asset('homepages/js/jquery.min.js') }}"></script>
+{{-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script> --}}
 <script src="{{ asset('homepages/vendors/bootstrap/js/popper.min.js') }}"></script>
 <script src="{{ asset('homepages/vendors/bootstrap/js/bootstrap.min.js') }}"></script>
 <script src="{{ asset('homepages/vendors/bootstrap-select/bootstrap-select.min.js') }}"></script>
