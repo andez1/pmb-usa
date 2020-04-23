@@ -67,6 +67,7 @@
                                     <th rowspan="2">Nama Dosen Tetap</th>
                                     <th colspan="2">S2</th>
                                     <th colspan="3">S3</th>
+                                    <th rowspan="2">cv</th>
                                   </tr>
                                   <tr class="bg-success">
                                     <th>Universitas</th>
@@ -83,6 +84,7 @@
                                     <td></td>
                                     <td></td>
                                     <td></td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>2</th>
@@ -92,6 +94,7 @@
                                     <td>Universitas Gunadarma</td>
                                     <td>Artifical Intelligent</td>
                                     <td>2018</td>
+                                    <td><a href="{{ asset('homepages/documents/cv/CV Dr. Fauziah, S.Kom, MMSI.pdf') }}">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>3</th>
@@ -101,6 +104,7 @@
                                     <td></td>
                                     <td></td>
                                     <td></td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>4</th>
@@ -110,6 +114,7 @@
                                     <td></td>
                                     <td></td>
                                     <td></td>
+                                    <td><a href="{{ asset('homepages/documents/cv/CV Ir. Endah Tri Esthi Handajani, MMSI.pdf') }}">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>5</th>
@@ -119,6 +124,7 @@
                                     <td></td>
                                     <td></td>
                                     <td></td>
+                                    <td><a href="{{ asset('homepages/documents/cv/CV Yunan Fauzi Wijaya, SKom, MMSI.pdf') }}">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>6</th>
@@ -128,6 +134,7 @@
                                     <td></td>
                                     <td></td>
                                     <td></td>
+                                    <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>7</th>
@@ -137,6 +144,7 @@
                                     <td></td>
                                     <td></td>
                                     <td></td>
+                                    <td><a href="{{ asset('homepages/documents/cv/CV Arie Gunawan.pdf') }}">Download</a></td>
                                   </tr>
                               </table>
                         </div>
