@@ -67,7 +67,7 @@
                                     <th rowspan="2">Nama Dosen Tetap</th>
                                     <th colspan="2">S2</th>
                                     <th colspan="3">S3</th>
-                                    <th rowspan="2">cv</th>
+                                    <th rowspan="2">CV</th>
                                   </tr>
                                   <tr class="bg-success">
                                     <th>Universitas</th>
@@ -81,9 +81,9 @@
                                     <td>Andrianingsih, S.Kom., MMSI</td>
                                     <td>Universitas Gunadarma</td>
                                     <td>Sistem Informasi</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
@@ -101,9 +101,9 @@
                                     <td>Ira Diana Sholihati, S.Kom., MMSI</td>
                                     <td>Universitas Gunadarma</td>
                                     <td>sistem Informasi Bisnis</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
@@ -111,9 +111,9 @@
                                     <td>Ir. Endah Tri Esthi, MMSI</td>
                                     <td>Universitas Gunadarma</td>
                                     <td>Sistem Informasi</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td><a href="{{ asset('homepages/documents/cv/CV Ir. Endah Tri Esthi Handajani, MMSI.pdf') }}">Download</a></td>
                                   </tr>
                                   <tr>
@@ -121,9 +121,9 @@
                                     <td>Yunan Fauzi Wijaya, S.Kom., MMSI</td>
                                     <td>Universitas Gunadarma</td>
                                     <td>Data Science</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td><a href="{{ asset('homepages/documents/cv/CV Yunan Fauzi Wijaya, SKom, MMSI.pdf') }}">Download</a></td>
                                   </tr>
                                   <tr>
@@ -131,9 +131,9 @@
                                     <td>Gatot Supriyono, MMSI</td>
                                     <td>Universitas Gunadarma</td>
                                     <td>Sistem Informasi Bisnis</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
@@ -141,9 +141,9 @@
                                     <td>Ari Gunawan, MMSI</td>
                                     <td>Universitas Gunadarma</td>
                                     <td>Data Science</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
                                     <td><a href="{{ asset('homepages/documents/cv/CV Arie Gunawan.pdf') }}">Download</a></td>
                                   </tr>
                               </table>

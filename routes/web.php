@@ -31,7 +31,7 @@ Route::get('/sejarah-unsia', 'LandingController@sejarah')->name('landing.sejarah
 Route::get('/admission-info', 'LandingController@admission_info')->name('landing.admission_info');
 Route::get('/kalender-akademik', 'LandingController@kalender_akademik')->name('landing.kalender_akademik');
 Route::get('/academic-program', 'LandingController@academic_program')->name('landing.academic_program');
-Route::get('/academic-guide', 'LandingController@academic_guide')->name('landing.academic_guide');
+Route::get('/panduan-akademik', 'LandingController@academic_guide')->name('landing.academic_guide');
 Route::get('/study-guide', 'LandingController@study_guide')->name('landing.study_guide');
 Route::get('/keunggulan-lulusan', 'LandingController@keunggulan_lulusan')->name('landing.keunggulan_lulusan');
 Route::get('/visi-misi', 'LandingController@visi_misi')->name('landing.visi_misi');
