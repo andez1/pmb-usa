@@ -960,13 +960,23 @@
         display: block;
     }
 
-    .side-nav .nav.navbar-nav li a i.fa-chevron-down:before,
+    .side-nav .nav li a i.fa-chevron-down:before,
     .nav.navbar-nav li a i.fa-chevron-down:before {
         content: "\f078";
     }
 
-    .side-nav .nav.navbar-nav li.open a i.fa-chevron-down:before,
-    .nav.navbar-nav li.open a i.fa-chevron-down:before {
+    .side-nav .nav.navbar-nav .menu-sub .sub li a i.fa-chevron-down:before,
+    .nav .menu-sub .sub li a i.fa-chevron-down:before {
+        content: "\f078";
+    }
+
+    .side-nav .nav li.open a i.fa-chevron-down:before,
+    .nav li.open a i.fa-chevron-down:before {
+        content: "\f054";
+    }
+
+    .side-nav .nav.navbar-nav .menu-sub .sub li.open a i.fa-chevron-down:before,
+    .nav.navbar-nav .menu-sub .sub li.open a i.fa-chevron-down:before {
         content: "\f054";
     }
 

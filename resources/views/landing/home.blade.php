@@ -69,9 +69,11 @@
                     <div class="row d-flex justify-content-between">
                         <div class="topbar-left">
                             <ul>
-                                <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a>
+                                <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a
+                                        Question</a>
                                 </li>
-                                <li><a href="javascript:;"><i class="fa fa-envelope-o"></i>asiacyberuniv@lms-usa.site</a>
+                                <li><a href="javascript:;"><i
+                                            class="fa fa-envelope-o"></i>asiacyberuniv@lms-usa.site</a>
                                 </li>
                             </ul>
                         </div>
@@ -81,7 +83,6 @@
                                     <select class="header-lang-bx">
                                         <option data-icon="flag flag-id">Indonesia</option>
                                         <option data-icon="flag flag-us">English US</option>
-                                        <!-- <option data-icon="flag flag-uk">English UK</option> -->
                                     </select>
                                 </li>
                                 <!-- <li><a href="{{ route('login') }}">Login</a></li>
@@ -139,91 +140,89 @@
                                 <li class="active">
                                     <a href="/">Beranda</a>
                                 </li>
-                                <li><a href="javascript:;">Tentang UNSIA <i class="fa fa-chevron-down"></i></a>
+                                <li><a href="javascript:;">Tentang UNSIA<i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu">
                                         <li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
                                         <li><a href="{{ route('landing.kenapa_unsia') }}">Kenapa UNSIA?</i></a></li>
                                         <li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan UNSIA</i></a>
                                         </li>
-                                        <li><a href="{{ route('landing.list_of_partner') }}">List of Partner</i></a></li>
+                                        <li><a href="{{ route('landing.list_of_partner') }}">List of Partner</i></a>
+                                        </li>
                                         <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
                                         <li><a href="{{ route('landing.struktur_organisasi') }}">Struktur
                                                 Organisasi</i></a></li>
                                         <li><a href="{{ route('landing.faq') }}">FAQ</a></li>
-                            </ul>
-                            </li>
-                            <li><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#">Info Pendaftaran</a></li>
-                                            <li><a href="{{ route('landing.admission_info') }}">Persyaratan
-                                                    Pendaftaran</a></li>
-                                            <li><a href="#">Periode Pendaftaran</a></li>
-                                            <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a>
-                                            </li>
-                                            <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
-                                            <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
-                                            <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
-                                                    Perpajakan</a></li>
-                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan
-                                                    Komunikasi Digital</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
-                                            </li>
-                                            <li><a href="{{ route('landing.teaching_professor') }}">Teaching Professor</a>
-                                            </li>
-                                            <li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a>
-                                            </li>
-                                            <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan
-                                                    Akademik</a></li>
-                                            <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
-                                            Pembelajaran Online</a></li>
-                                    <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran Online</a>
-                                    </li>
-                                    <li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi
-                                            Akademik</a></li>
-                                    <li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
-                                    {{-- 
-                            <li><a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a></li>
-                            <li><a href="#">Kalender Akademik</a></li> --}}
-                                    {{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a>
-                            </li>
-                            <li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
-                            <li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
-                            </ul>
-                            </li>
-                            {{-- <li>
-								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
-							</li> --}}
-                            <li><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="{{ route('landing.berita') }}">Berita</a></li>
-                                    <li><a href="#">Kegiatan</a></li>
-                                    <li><a href="{{ route('landing.siaran_pers') }}">Siaran Pers</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="{{ route('landing.kontak') }}">Kontak</a>
-                            </li>
+                                    </ul>
+                                </li>
+                                <li class="menu-sub"><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
+                                    <ul class="sub-menu sub">
+                                        <li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="#">Info Pendaftaran</a></li>
+                                                <li><a href="{{ route('landing.admission_info') }}">Persyaratan
+                                                        Pendaftaran</a></li>
+                                                <li><a href="#">Periode Pendaftaran</a></li>
+                                                <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-sub"><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
+                                    <ul class="sub-menu sub">
+                                        <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen
+                                                        Kontemporer</a>
+                                                </li>
+                                                <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
+                                                <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a>
+                                                </li>
+                                                <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
+                                                        Perpajakan</a></li>
+                                                <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran
+                                                        dan
+                                                        Komunikasi Digital</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
+                                                </li>
+                                                <li><a href="{{ route('landing.teaching_professor') }}">Teaching
+                                                        Professor</a>
+                                                </li>
+                                                <li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan
+                                                        Lulusan UNSIA</a>
+                                                </li>
+                                                <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan
+                                                        Akademik</a></li>
+                                                <li><a href="{{ route('landing.kalender_akademik') }}">Kalender
+                                                        Akademik</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
+                                                Pembelajaran Online</a></li>
+                                        <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran
+                                                Online</a>
+                                        </li>
+                                        <li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi
+                                                Akademik</a></li>
+                                        <li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
+                                    <ul class="sub-menu">
+                                        <li><a href="{{ route('landing.berita') }}">Berita</a></li>
+                                        <li><a href="#">Kegiatan</a></li>
+                                        <li><a href="{{ route('landing.siaran_pers') }}">Siaran Pers</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="{{ route('landing.kontak') }}">Kontak</a>
+                                </li>
                             </ul>
                             <div class="nav-social-link">
                                 <a href="javascript:;"><i class="fa fa-facebook"></i></a>
@@ -650,7 +649,10 @@
             <div class="row">
                 <div class="col-md-12 heading-bx left">
                     <h2 class="title-head">Program <span>Studi</span></h2>
-                    <p style="text-align: justify">Universitas Siber Asia telah mempersiapkan dua Program Studi Strata 1 (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan Sistem Informasi. Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik Informatika, Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
+                    <p style="text-align: justify">Universitas Siber Asia telah mempersiapkan dua Program Studi Strata 1
+                        (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan Sistem Informasi.
+                        Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik Informatika,
+                        Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
                 </div>
             </div>
             <div class="row">
@@ -1221,7 +1223,9 @@
         <div class="footer-bottom">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <?php echo date("Y"); ?> | Copyright © Universitas Siber Asia <br> Tema oleh  <a target="_blank" href="https://www.templateshub.net">templateshub.net</a></div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <?php echo date("Y"); ?> | Copyright ©
+                        Universitas Siber Asia <br> Tema oleh <a target="_blank"
+                            href="https://www.templateshub.net">templateshub.net</a></div>
                 </div>
             </div>
         </div>

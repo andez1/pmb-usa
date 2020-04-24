@@ -143,8 +143,8 @@
                                         <li><a href="{{ route('landing.faq') }}">FAQ</a></li>
 								</ul>
 							</li>
-							<li class="@yield('active-penerimaan')"><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
-								<ul class="sub-menu">
+							<li class="menu-sub @yield('active-penerimaan')"><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu sub">
 									<li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
                                             <li><a href="{{ route('landing.jenjang_s1') }}">Info Pendaftaran</a></li>
@@ -154,8 +154,8 @@
                                     <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
 								</ul>
 							</li>
-							<li class="@yield('active-akademik')"><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
-								<ul class="sub-menu">
+							<li class="menu-sub @yield('active-akademik')"><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu sub">
 									<li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
                                         <ul class="sub-menu">
                                             <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
