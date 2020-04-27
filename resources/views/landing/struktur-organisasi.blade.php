@@ -58,7 +58,7 @@
 										<td>:</td>
 										<td>Dr. Ucuk Darusalam, S.T., M.T.</td>
 										<td>ucuk.darusalam@lms-usa.site</td>
-										<td><a href="{{ asset('homepages/documents/cv/CV Ucuk Darusalam.pdf') }}" class="btn btn-primary">Download CV</a></td>
+										<td><a href="{{ asset('homepages/documents/cv/CV Dr. Ucuk Darusalam, ST, MT.pdf') }}" class="btn btn-primary">Download CV</a></td>
 									</tr>
 									<tr>
 										<td>4.</td>

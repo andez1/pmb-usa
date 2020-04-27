@@ -70,8 +70,8 @@
                                     <h4>SEBARAN MATA KULIAH PROGRAM STUDI SISTEM INFORMASI 2020</h4>
                                     <p>Jumlah sks Program Studi (minimum untuk kelulusan) :  144 sks yang tersusun sebagai berikut:</p>
                                     <P>- Download File</P>
-                                    <a href="{{ asset('homepages/documents/kurikulum-sistem-informasi.pdf') }}" class="btn btn-primary">KURIKULUM</a>
-                                    <a href="{{ asset('homepages/documents/deskripsi-sistem-informasi.pdf') }}" class="btn btn-primary">DESKRIPSI MATA KULIAH</a>
+                                    <a href="{{ asset('homepages/documents/Kurikulum Program Studi Sistem Informasi.pdf') }}" class="btn btn-primary">KURIKULUM</a>
+                                    <a href="{{ asset('homepages/documents/Deskripsi Mata Kuliah Sistem Informasi.pdf') }}" class="btn btn-primary">DESKRIPSI MATA KULIAH</a>
                                 </li>
                             </ul>
                         </div>

@@ -37,8 +37,7 @@
                                     <ul class="media-post">
                                         <li><a href="#"><i class="fa fa-calendar"></i>Agustus 26, 2019</a></li>
                                     </ul>
-                                    <h5 class="post-title">YMIK
-                                        Terima Izin Pendirian Universitas Siber Pertama di Indonesia
+                                    <h5 class="post-title">YMIK Terima Izin Pendirian Universitas Siber Pertama di Indonesia
                                     </h5>
                                     <p>BALI (YMIK) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menerima izin prinsip pendirian Universitas Siber Asia dari Menteri Riset, Teknologi dan Pendidikan Tinggi, Prof.  Mohamad Nasir, Ph.D., Ak, dalam acara Hari Kebangkitan Teknologi Nasional (HAKTEKNAS) ke 24 di Sanur, Bali, Senin (26/8). Unsiber merupakan universitas swasta berbasis full online learning pertama di Indonesia yang mendapatkan lisensi dari pemerintah.</p>
                                     <div class="post-extra">

@@ -5,7 +5,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white text-uppercase">Dosen Penyiaran dan Komunikasi Digital</h1>
+            <h1 class="text-white text-uppercase">Dosen Teknologi Informasi</h1>
         </div>
     </div>
 </div>
@@ -15,7 +15,7 @@
         <ul class="list-inline">
             <li><a href="/">Beranda</a></li>
             <li>Program Studi</li>
-            <li>Penyiaran dan Komunikasi Digital</li>
+            <li>Teknologi Informasi</li>
             <li>Dosen</li>
         </ul>
     </div>
@@ -31,19 +31,19 @@
                     <div class="feature-container">
                         <ul class="nav nav-tabs mb-4">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Profil</a>
+                                <a class="nav-link" href="{{ url('/teknologi-informasi') }}">Profil</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital/kurikulum') }}">Kurikulum</a>
+                                <a class="nav-link" href="{{ url('/teknologi-informasi/kurikulum') }}">Kurikulum</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital/keunggulan') }}">Keunggulan</a>
+                                <a class="nav-link" href="{{ url('/teknologi-informasi/keunggulan') }}">Keunggulan</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/penyiaran-dan-komunikasi-digital/prospek-karir') }}">Prospek Karir</a>
+                                <a class="nav-link" href="{{ url('/teknologi-informasi/prospek-karir') }}">Prospek Karir</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="{{ url('/penyiaran-dan-komunikasi-digital/dosen') }}">Dosen</a>
+                                <a class="nav-link active" href="{{ url('/teknologi-informasi/dosen') }}">Dosen</a>
                             </li>
                         </ul>
                         <div class="icon-content mb-2">
@@ -64,49 +64,49 @@
                                   </tr>
                                   <tr>
                                     <th>1</th>
-                                    <td>Dian Metha Ariyanti, S.Sos., M.Si</td>
-                                    <td>Univervsitas Indonesia</td>
-                                    <td>Manajemen Komunikasi/ Manajemen Media</td>
+                                    <td>Eri Mardiani, S.Kom,M.Kom</td>
+                                    <td>STMIK Nusamandiri</td>
+                                    <td>e-Business</td>
                                     <td>-</td>
                                     <td>-</td>
-                                    <td>2011</td>
+                                    <td>-</td>
                                     <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>2</th>
-                                    <td>Adi Prakoso, M.Si</td>
+                                    <td>Dr.Iskandar Fitri, ST,MT</td>
                                     <td>-</td>
                                     <td>-</td>
+                                    <td>Universitas Indonesia</td>
                                     <td>-</td>
-                                    <td>-</td>
-                                    <td>-</td>
+                                    <td>2009</td>
                                     <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>3</th>
-                                    <td>Romika Junaidi</td>
+                                    <td>Dr.Ucuk Darusalam, ST, MT.</td>
+                                    <td>Universitas Indonesia</td>
                                     <td>-</td>
+                                    <td>Universitas Indonesia</td>
                                     <td>-</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td><a href="#">Download</a></td>
+                                    <td>2015</td>
+                                    <td><a href="{{ asset('homepages/documents/cv/CV Dr. Ucuk Darusalam, ST, MT.pdf') }}">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>4</th>
-                                    <td>Daniel Wisnu W</td>
+                                    <td>Rima Tamara Aldisa, S.Kom, M.Kom</td>
+                                    <td>Universitas Budi Luhur</td>
+                                    <td>Teknologi Informasi</td>
                                     <td>-</td>
                                     <td>-</td>
                                     <td>-</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td><a href="#">Download</a></td>
+                                    <td><a href="{{ asset('homepages/documents/cv/CV Rima Tamara Aldisa.pdf') }}">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>5</th>
-                                    <td>Yayu Sriwartini, S.Sos., M.Si</td>
+                                    <td>Albaar Rubhasy,S.Si,MTI</td>
                                     <td>Universitas Indonesia</td>
-                                    <td>Komunikasi</td>
+                                    <td>Teknologi Informasi</td>
                                     <td>-</td>
                                     <td>-</td>
                                     <td>-</td>
@@ -114,53 +114,33 @@
                                   </tr>
                                   <tr>
                                     <th>6</th>
-                                    <td>Dr. Dwi Kartika</td>
+                                    <td>Raden Muhamad Firzatullah, S.Pd, M.Kom</td>
+                                    <td>Institut Pertanian Bogor</td>
+                                    <td>Ilmu Komputer</td>
                                     <td>-</td>
                                     <td>-</td>
-                                    <td>Universitas Indonesia</td>
-                                    <td>Komunikasi</td>
                                     <td>-</td>
                                     <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>7</th>
-                                    <td>Dr Nurhasanah</td>
+                                    <td>Riad Sahara, S.SI, MT</td>
+                                    <td>Universitas Mercu Buana</td>
+                                    <td>ICT</td>
                                     <td>-</td>
                                     <td>-</td>
-                                    <td>Universitas Sahid</td>
-                                    <td>Komunikasi</td>
                                     <td>-</td>
                                     <td><a href="#">Download</a></td>
                                   </tr>
                                   <tr>
                                     <th>8</th>
-                                    <td>Rosanah, M.Si</td>
+                                    <td>Sigit Wijanarko, ST, M.Kom</td>
+                                    <td>Universitas Indonesia</td>
+                                    <td>Teknologi Informasi</td>
                                     <td>-</td>
                                     <td>-</td>
                                     <td>-</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td><a href="#">Download</a></td>
-                                  </tr>
-                                  <tr>
-                                    <th>9</th>
-                                    <td>Nursatyo, M.Si</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td><a href="#">Download</a></td>
-                                  </tr>
-                                  <tr>
-                                    <th>10</th>
-                                    <td>Siska Fitria</td>
-                                    <td>Universitas Islam Negeri</td>
-                                    <td>Komunikasi Dahwah</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td>-</td>
-                                    <td><a href="#">Download</a></td>
+                                    <td><a href="{{ asset('homepages/documents/cv/CV Sigit Wijanarko.pdf') }}">Download</a></td>
                                   </tr>
                               </table>
                         </div>

@@ -74,8 +74,20 @@ Route::get('/penyiaran-dan-komunikasi-digital/keunggulan', 'AcademicController@p
 Route::get('/penyiaran-dan-komunikasi-digital/prospek-karir', 'AcademicController@penyiarandankomunikasidigital_prospek');
 Route::get('/penyiaran-dan-komunikasi-digital/dosen', 'AcademicController@penyiarandankomunikasidigital_dosen');
 
-Route::get('/akuntansi-dan-perpajakan', 'AcademicController@akuntansi');
+// Teknologi Informasi
 Route::get('/teknologi-informasi', 'AcademicController@teknologiInformasi');
+Route::get('/teknologi-informasi/kurikulum', 'AcademicController@teknologiInformasi_kurikulum');
+Route::get('/teknologi-informasi/keunggulan', 'AcademicController@teknologiInformasi_keunggulan');
+Route::get('/teknologi-informasi/prospek-karir', 'AcademicController@teknologiInformasi_prospek');
+Route::get('/teknologi-informasi/dosen', 'AcademicController@teknologiInformasi_dosen');
+
+// Akuntansi dan Perpajakan
+Route::get('/akuntansi-dan-perpajakan', 'AcademicController@akuntansidanperpajakan');
+Route::get('/akuntansi-dan-perpajakan/kurikulum', 'AcademicController@akuntansidanperpajakan_kurikulum');
+Route::get('/akuntansi-dan-perpajakan/keunggulan', 'AcademicController@akuntansidanperpajakan_keunggulan');
+Route::get('/akuntansi-dan-perpajakan/prospek-karir', 'AcademicController@akuntansidanperpajakan_prospek');
+Route::get('/akuntansi-dan-perpajakan/dosen', 'AcademicController@akuntansidanperpajakan_dosen');
+
 
 /**
  * Student Registrant

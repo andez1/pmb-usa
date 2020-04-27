@@ -155,7 +155,8 @@
                                         <li><a href="{{ route('landing.faq') }}">FAQ</a></li>
                                     </ul>
                                 </li>
-                                <li class="menu-sub"><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
+                                <li class="menu-sub"><a href="javascript:;">Penerimaan<i
+                                            class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu sub">
                                         <li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
                                             <ul class="sub-menu">
@@ -169,7 +170,8 @@
                                         <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
                                     </ul>
                                 </li>
-                                <li class="menu-sub"><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
+                                <li class="menu-sub"><a href="javascript:;">Akademik <i
+                                            class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu sub">
                                         <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
                                             <ul class="sub-menu">
@@ -258,7 +260,7 @@
                                 data-param7="" data-param8="" data-param9="" data-param10=""
                                 data-description="Science says that Women are generally happier">
                                 <!-- MAIN IMAGE -->
-                                <img src="{{ asset('homepages/images/slider/slider4.jpg') }}" alt=""
+                                <img src="{{ asset('homepages/images/slider/slider5.jpg') }}" alt=""
                                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                                     data-bgparallax="10" class="rev-slidebg" data-no-retina />
 
@@ -982,21 +984,22 @@
                 <div class="item">
                     <div class="recent-news">
                         <div class="action-box">
-                            <img src="{{ asset('homepages/images/blog/latest-blog/blog-1.jpg') }}" alt="">
+                            <img src="{{ asset('homepages/images/berita/beranda/satu.jpg') }}" alt="">
                         </div>
                         <div class="info-bx">
                             <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Feb 28 2019</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By Ristekdikti</a></li>
+                                <li><a href="#"><i class="fa fa-calendar"></i>Agustus 26, 2019</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
                             </ul>
                             <h5 class="post-title"><a
-                                    href="https://www.ristekdikti.go.id/kabar/indonesia-korea-selatan-menjajaki-kerja-sama-cyber-university/">Indonesia-Korea
-                                    Selatan Menjajaki Kerja Sama Cyber University.</a></h5>
-                            <p>Jakarta – Pendidikan dengan teknologi cyber university harus dipandang sebagai alat untuk
-                                meningkatkan kualitas pembelajaran.</p>
+                                    href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/">YMIK
+                                    Terima Izin Pendirian Universitas Siber Pertama di Indonesia</a></h5>
+                            <p>BALI (YMIK) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menerima izin prinsip
+                                pendirian Universitas Siber Asia dari ...</p>
                             <div class="post-extra">
-                                <a href="#" class="btn-link">READ MORE</a>
-                                <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>20 Comment</a>
+                                <a href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/"
+                                    class="btn-link">READ MORE</a>
+                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>20 Comment</a> --}}
                             </div>
                         </div>
                     </div>
@@ -1004,44 +1007,44 @@
                 <div class="item">
                     <div class="recent-news">
                         <div class="action-box">
-                            <img src="{{ asset('homepages/images/blog/latest-blog/blog-2.jpg') }}" alt="">
+                            <img src="{{ asset('homepages/images/berita/beranda/tiga.jpg') }}" alt="">
                         </div>
                         <div class="info-bx">
                             <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Sep 27 2018</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By Jawapos</a></li>
+                                <li><a href="#"><i class="fa fa-calendar"></i>September 4, 2016</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
                             </ul>
-                            <h5 class="post-title"><a
-                                    href="https://www.jawapos.com/nasional/pendidikan/27/09/2018/indonesia-cyber-university-siap-dibentuk-ini-peranannya/">Indonesia
-                                    Cyber University Siap Dibentuk, Ini Peranannya</a></h5>
-                            <p>Regulasi baru tentang pendidikan jarak jauh (PJJ) atau distance learning telah
-                                diterbitkan Menristekdikti Mohamad Nasir.</p>
+                            <h5 class="post-title"><a href="https://www.unas.ac.id/berita/4665/">Rintis Cyber University
+                                    dengan Universitas Korea Selatan</a></h5>
+                            <p>JAKARTA (UNAS) – Yayasan Memajukan Ilmu dan Kebudayaan, melalui Universitas Nasional
+                                kembali meningkatkan kerjasama dengan ...</p>
                             <div class="post-extra">
-                                <a href="#" class="btn-link">READ MORE</a>
-                                <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>14 Comment</a>
+                                <a href="https://www.unas.ac.id/berita/4665/" class="btn-link">READ MORE</a>
+                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>23 Comment</a> --}}
                             </div>
+
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="recent-news">
                         <div class="action-box">
-                            <img src="{{ asset('homepages/images/blog/latest-blog/blog-3.jpg') }}" alt="">
+                            <img src="{{ asset('homepages/images/berita/beranda/dua.jpg') }}" alt="">
                         </div>
                         <div class="info-bx">
                             <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Maret 28 2018</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By Mediaindonesia</a></li>
+                                <li><a href="#"><i class="fa fa-calendar"></i>Februari 28, 2019</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
                             </ul>
                             <h5 class="post-title"><a
-                                    href="https://mediaindonesia.com/read/detail/151977-menristekditi-cyber-university-awasi-sistem-perkuliahan-online">Cyber
-                                    University Awasi Sistem Perkuliahan Online.</a></h5>
-                            <p>MENTERI Riset Teknologi dan Pendidikan Tinggi M Nasir menyebutkan keberadaan 'cyber
-                                university' bakal mengawasi sistem perkuliahan daring (online) yang dilakukan perguruan
-                                tinggi.</p>
+                                    href="https://www.unas.ac.id/berita/kunjungi-korea-selatan-menristek-dikti-antusias-terapkan-pembelajaran-berbasis-cyber-di-indonesia/">Kunjungi
+                                    Korea Selatan, Menristek Dikti Antusias Terapkan Pembelajaran Berbasis Cyber Di
+                                    Indonesia</a></h5>
+                            <p>JAKARTA (UNAS) – Menteri Riset Teknologi dan Pendidikan Tinggi (MENRISTEK DIKTI), ...</p>
                             <div class="post-extra">
-                                <a href="#" class="btn-link">READ MORE</a>
-                                <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>23 Comment</a>
+                                <a href="https://www.unas.ac.id/berita/kunjungi-korea-selatan-menristek-dikti-antusias-terapkan-pembelajaran-berbasis-cyber-di-indonesia/"
+                                    class="btn-link">READ MORE</a>
+                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>14 Comment</a> --}}
                             </div>
                         </div>
                     </div>
