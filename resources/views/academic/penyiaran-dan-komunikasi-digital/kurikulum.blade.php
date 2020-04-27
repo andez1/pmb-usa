@@ -58,8 +58,8 @@
                                     <p>Jumlah sks Program Studi (minimum untuk kelulusan) :  144 sks yang tersusun sebagai berikut:</p>
                                     <p>Secara keseluruhan, terdapat 42 mata kuliah di Prodi Penyiaran dan Komunikasi Digital yang terdistribusi ke dalam 7 semester. Berikut perinciannya:</p>
                                     <P>- Download File</P>
-                                    <a href="{{ asset('homepages/documents/kurikulum-penyiaran-dan-komunikasi-digital.pdf') }}" class="btn btn-primary">KURIKULUM</a>
-                                    <a href="{{ asset('homepages/documents/distribusi-mata-kuliah-pkd.xlsx') }}" class="btn btn-success">DISTRIBUSI MATA KULIAH</a>
+                                    <a href="{{ asset('homepages/documents/Kurikulum Prodi Penyiaran dan Komunikasi Digital.pdf') }}" class="btn btn-primary">KURIKULUM</a>
+                                    <a href="{{ asset('homepages/documents/Distribusi Mata Kuliah Penyiaran dan Komunikasi Digital.xlsx') }}" class="btn btn-success">DISTRIBUSI MATA KULIAH</a>
                                 </li>
                             </ul>
                         </div>

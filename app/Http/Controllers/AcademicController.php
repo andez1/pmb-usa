@@ -119,13 +119,55 @@ class AcademicController extends Controller
 
     // Teknologi Informasi
 
-    public function akuntansi()
-    {
-        return view('academic.akuntansi');
-    }
-
     public function teknologiInformasi()
     {
-        return view('academic.teknologi-informasi');
+        return view('academic.teknologi-informasi.home');
+    }
+
+    public function teknologiInformasi_kurikulum()
+    {
+        return view('academic.teknologi-informasi.kurikulum');
+    }
+
+    public function teknologiInformasi_prospek()
+    {
+        return view('academic.teknologi-informasi.prospek-karir');
+    }
+
+    public function teknologiInformasi_dosen()
+    {
+        return view('academic.teknologi-informasi.dosen');
+    }
+
+    public function teknologiInformasi_keunggulan()
+    {
+        return view('academic.teknologi-informasi.keunggulan');
+    }
+
+    // Akuntansi dan Perpajakan
+
+    public function akuntansidanperpajakan()
+    {
+        return view('academic.akuntansi-dan-perpajakan.home');
+    }
+
+    public function akuntansidanperpajakan_kurikulum()
+    {
+        return view('academic.akuntansi-dan-perpajakan.kurikulum');
+    }
+
+    public function akuntansidanperpajakan_prospek()
+    {
+        return view('academic.akuntansi-dan-perpajakan.prospek-karir');
+    }
+
+    public function akuntansidanperpajakan_dosen()
+    {
+        return view('academic.akuntansi-dan-perpajakan.dosen');
+    }
+
+    public function akuntansidanperpajakan_keunggulan()
+    {
+        return view('academic.akuntansi-dan-perpajakan.keunggulan');
     }
 }

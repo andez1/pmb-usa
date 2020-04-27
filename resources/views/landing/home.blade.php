@@ -69,9 +69,11 @@
                     <div class="row d-flex justify-content-between">
                         <div class="topbar-left">
                             <ul>
-                                <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a Question</a>
+                                <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a
+                                        Question</a>
                                 </li>
-                                <li><a href="javascript:;"><i class="fa fa-envelope-o"></i>asiacyberuniv@lms-usa.site</a>
+                                <li><a href="javascript:;"><i
+                                            class="fa fa-envelope-o"></i>asiacyberuniv@lms-usa.site</a>
                                 </li>
                             </ul>
                         </div>
@@ -81,7 +83,6 @@
                                     <select class="header-lang-bx">
                                         <option data-icon="flag flag-id">Indonesia</option>
                                         <option data-icon="flag flag-us">English US</option>
-                                        <!-- <option data-icon="flag flag-uk">English UK</option> -->
                                     </select>
                                 </li>
                                 <!-- <li><a href="{{ route('login') }}">Login</a></li>
@@ -139,91 +140,91 @@
                                 <li class="active">
                                     <a href="/">Beranda</a>
                                 </li>
-                                <li><a href="javascript:;">Tentang UNSIA <i class="fa fa-chevron-down"></i></a>
+                                <li><a href="javascript:;">Tentang UNSIA<i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu">
                                         <li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
                                         <li><a href="{{ route('landing.kenapa_unsia') }}">Kenapa UNSIA?</i></a></li>
                                         <li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan UNSIA</i></a>
                                         </li>
-                                        <li><a href="{{ route('landing.list_of_partner') }}">List of Partner</i></a></li>
+                                        <li><a href="{{ route('landing.list_of_partner') }}">List of Partner</i></a>
+                                        </li>
                                         <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
                                         <li><a href="{{ route('landing.struktur_organisasi') }}">Struktur
                                                 Organisasi</i></a></li>
                                         <li><a href="{{ route('landing.faq') }}">FAQ</a></li>
-                            </ul>
-                            </li>
-                            <li><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#">Info Pendaftaran</a></li>
-                                            <li><a href="{{ route('landing.admission_info') }}">Persyaratan
-                                                    Pendaftaran</a></li>
-                                            <li><a href="#">Periode Pendaftaran</a></li>
-                                            <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a>
-                                            </li>
-                                            <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
-                                            <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
-                                            <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
-                                                    Perpajakan</a></li>
-                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan
-                                                    Komunikasi Digital</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
-                                            </li>
-                                            <li><a href="{{ route('landing.teaching_professor') }}">Teaching Professor</a>
-                                            </li>
-                                            <li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan Lulusan UNSIA</a>
-                                            </li>
-                                            <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan
-                                                    Akademik</a></li>
-                                            <li><a href="{{ route('landing.kalender_akademik') }}">Kalender Akademik</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
-                                            Pembelajaran Online</a></li>
-                                    <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran Online</a>
-                                    </li>
-                                    <li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi
-                                            Akademik</a></li>
-                                    <li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
-                                    {{-- 
-                            <li><a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a></li>
-                            <li><a href="#">Kalender Akademik</a></li> --}}
-                                    {{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a>
-                            </li>
-                            <li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
-                            <li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
-                            </ul>
-                            </li>
-                            {{-- <li>
-								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
-							</li> --}}
-                            <li><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="{{ route('landing.berita') }}">Berita</a></li>
-                                    <li><a href="#">Kegiatan</a></li>
-                                    <li><a href="{{ route('landing.siaran_pers') }}">Siaran Pers</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="{{ route('landing.kontak') }}">Kontak</a>
-                            </li>
+                                    </ul>
+                                </li>
+                                <li class="menu-sub"><a href="javascript:;">Penerimaan<i
+                                            class="fa fa-chevron-down"></i></a>
+                                    <ul class="sub-menu sub">
+                                        <li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="#">Info Pendaftaran</a></li>
+                                                <li><a href="{{ route('landing.admission_info') }}">Persyaratan
+                                                        Pendaftaran</a></li>
+                                                <li><a href="#">Periode Pendaftaran</a></li>
+                                                <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-sub"><a href="javascript:;">Akademik <i
+                                            class="fa fa-chevron-down"></i></a>
+                                    <ul class="sub-menu sub">
+                                        <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen
+                                                        Kontemporer</a>
+                                                </li>
+                                                <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
+                                                <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a>
+                                                </li>
+                                                <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
+                                                        Perpajakan</a></li>
+                                                <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran
+                                                        dan
+                                                        Komunikasi Digital</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="{{ route('landing.academic_guide') }}">Panduan Akademik</a>
+                                                </li>
+                                                <li><a href="{{ route('landing.teaching_professor') }}">Teaching
+                                                        Professor</a>
+                                                </li>
+                                                <li><a href="{{ route('landing.keunggulan_lulusan') }}">Keunggulan
+                                                        Lulusan UNSIA</a>
+                                                </li>
+                                                <li><a href="{{ route('landing.peraturan_akademik') }}">Peraturan
+                                                        Akademik</a></li>
+                                                <li><a href="{{ route('landing.kalender_akademik') }}">Kalender
+                                                        Akademik</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
+                                                Pembelajaran Online</a></li>
+                                        <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran
+                                                Online</a>
+                                        </li>
+                                        <li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi
+                                                Akademik</a></li>
+                                        <li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
+                                    <ul class="sub-menu">
+                                        <li><a href="{{ route('landing.berita') }}">Berita</a></li>
+                                        <li><a href="#">Kegiatan</a></li>
+                                        <li><a href="{{ route('landing.siaran_pers') }}">Siaran Pers</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="{{ route('landing.kontak') }}">Kontak</a>
+                                </li>
                             </ul>
                             <div class="nav-social-link">
                                 <a href="javascript:;"><i class="fa fa-facebook"></i></a>
@@ -259,7 +260,7 @@
                                 data-param7="" data-param8="" data-param9="" data-param10=""
                                 data-description="Science says that Women are generally happier">
                                 <!-- MAIN IMAGE -->
-                                <img src="{{ asset('homepages/images/slider/slider4.jpg') }}" alt=""
+                                <img src="{{ asset('homepages/images/slider/slider5.jpg') }}" alt=""
                                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                                     data-bgparallax="10" class="rev-slidebg" data-no-retina />
 
@@ -650,7 +651,10 @@
             <div class="row">
                 <div class="col-md-12 heading-bx left">
                     <h2 class="title-head">Program <span>Studi</span></h2>
-                    <p style="text-align: justify">Universitas Siber Asia telah mempersiapkan dua Program Studi Strata 1 (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan Sistem Informasi. Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik Informatika, Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
+                    <p style="text-align: justify">Universitas Siber Asia telah mempersiapkan dua Program Studi Strata 1
+                        (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan Sistem Informasi.
+                        Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik Informatika,
+                        Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
                 </div>
             </div>
             <div class="row">
@@ -980,21 +984,22 @@
                 <div class="item">
                     <div class="recent-news">
                         <div class="action-box">
-                            <img src="{{ asset('homepages/images/blog/latest-blog/blog-1.jpg') }}" alt="">
+                            <img src="{{ asset('homepages/images/berita/beranda/satu.jpg') }}" alt="">
                         </div>
                         <div class="info-bx">
                             <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Feb 28 2019</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By Ristekdikti</a></li>
+                                <li><a href="#"><i class="fa fa-calendar"></i>Agustus 26, 2019</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
                             </ul>
                             <h5 class="post-title"><a
-                                    href="https://www.ristekdikti.go.id/kabar/indonesia-korea-selatan-menjajaki-kerja-sama-cyber-university/">Indonesia-Korea
-                                    Selatan Menjajaki Kerja Sama Cyber University.</a></h5>
-                            <p>Jakarta – Pendidikan dengan teknologi cyber university harus dipandang sebagai alat untuk
-                                meningkatkan kualitas pembelajaran.</p>
+                                    href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/">YMIK
+                                    Terima Izin Pendirian Universitas Siber Pertama di Indonesia</a></h5>
+                            <p>BALI (YMIK) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menerima izin prinsip
+                                pendirian Universitas Siber Asia dari ...</p>
                             <div class="post-extra">
-                                <a href="#" class="btn-link">READ MORE</a>
-                                <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>20 Comment</a>
+                                <a href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/"
+                                    class="btn-link">READ MORE</a>
+                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>20 Comment</a> --}}
                             </div>
                         </div>
                     </div>
@@ -1002,44 +1007,44 @@
                 <div class="item">
                     <div class="recent-news">
                         <div class="action-box">
-                            <img src="{{ asset('homepages/images/blog/latest-blog/blog-2.jpg') }}" alt="">
+                            <img src="{{ asset('homepages/images/berita/beranda/tiga.jpg') }}" alt="">
                         </div>
                         <div class="info-bx">
                             <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Sep 27 2018</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By Jawapos</a></li>
+                                <li><a href="#"><i class="fa fa-calendar"></i>September 4, 2016</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
                             </ul>
-                            <h5 class="post-title"><a
-                                    href="https://www.jawapos.com/nasional/pendidikan/27/09/2018/indonesia-cyber-university-siap-dibentuk-ini-peranannya/">Indonesia
-                                    Cyber University Siap Dibentuk, Ini Peranannya</a></h5>
-                            <p>Regulasi baru tentang pendidikan jarak jauh (PJJ) atau distance learning telah
-                                diterbitkan Menristekdikti Mohamad Nasir.</p>
+                            <h5 class="post-title"><a href="https://www.unas.ac.id/berita/4665/">Rintis Cyber University
+                                    dengan Universitas Korea Selatan</a></h5>
+                            <p>JAKARTA (UNAS) – Yayasan Memajukan Ilmu dan Kebudayaan, melalui Universitas Nasional
+                                kembali meningkatkan kerjasama dengan ...</p>
                             <div class="post-extra">
-                                <a href="#" class="btn-link">READ MORE</a>
-                                <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>14 Comment</a>
+                                <a href="https://www.unas.ac.id/berita/4665/" class="btn-link">READ MORE</a>
+                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>23 Comment</a> --}}
                             </div>
+
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="recent-news">
                         <div class="action-box">
-                            <img src="{{ asset('homepages/images/blog/latest-blog/blog-3.jpg') }}" alt="">
+                            <img src="{{ asset('homepages/images/berita/beranda/dua.jpg') }}" alt="">
                         </div>
                         <div class="info-bx">
                             <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Maret 28 2018</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By Mediaindonesia</a></li>
+                                <li><a href="#"><i class="fa fa-calendar"></i>Februari 28, 2019</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
                             </ul>
                             <h5 class="post-title"><a
-                                    href="https://mediaindonesia.com/read/detail/151977-menristekditi-cyber-university-awasi-sistem-perkuliahan-online">Cyber
-                                    University Awasi Sistem Perkuliahan Online.</a></h5>
-                            <p>MENTERI Riset Teknologi dan Pendidikan Tinggi M Nasir menyebutkan keberadaan 'cyber
-                                university' bakal mengawasi sistem perkuliahan daring (online) yang dilakukan perguruan
-                                tinggi.</p>
+                                    href="https://www.unas.ac.id/berita/kunjungi-korea-selatan-menristek-dikti-antusias-terapkan-pembelajaran-berbasis-cyber-di-indonesia/">Kunjungi
+                                    Korea Selatan, Menristek Dikti Antusias Terapkan Pembelajaran Berbasis Cyber Di
+                                    Indonesia</a></h5>
+                            <p>JAKARTA (UNAS) – Menteri Riset Teknologi dan Pendidikan Tinggi (MENRISTEK DIKTI), ...</p>
                             <div class="post-extra">
-                                <a href="#" class="btn-link">READ MORE</a>
-                                <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>23 Comment</a>
+                                <a href="https://www.unas.ac.id/berita/kunjungi-korea-selatan-menristek-dikti-antusias-terapkan-pembelajaran-berbasis-cyber-di-indonesia/"
+                                    class="btn-link">READ MORE</a>
+                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>14 Comment</a> --}}
                             </div>
                         </div>
                     </div>
@@ -1221,7 +1226,9 @@
         <div class="footer-bottom">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <?php echo date("Y"); ?> | Copyright © Universitas Siber Asia <br> Tema oleh  <a target="_blank" href="https://www.templateshub.net">templateshub.net</a></div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <?php echo date("Y"); ?> | Copyright ©
+                        Universitas Siber Asia <br> Tema oleh <a target="_blank"
+                            href="https://www.templateshub.net">templateshub.net</a></div>
                 </div>
             </div>
         </div>

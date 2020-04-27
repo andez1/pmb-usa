@@ -84,8 +84,8 @@
                                     <p>Jumlah sks Program Studi (minimum untuk kelulusan) : 144 sks yang tersusun
                                         sebagai berikut:</p>
                                         <P>- Download File</P>
-                                        <a href="{{ asset('homepages/documents/kurikulum-manajemen-kontemporer.pdf') }}" class="btn btn-primary">KURIKULUM</a>
-                                    <a href="{{ asset('homepages/documents/deskripsi-mata-kuliah-manajemen-kontemporer.pdf') }}" class="btn btn-primary">DESKRIPSI MATA KULIAH</a>
+                                        <a href="{{ asset('homepages/documents/Kurikulum Program Studi Manajemen Kontemporer.pdf') }}" class="btn btn-primary">KURIKULUM</a>
+                                    <a href="{{ asset('homepages/documents/Deskripsi Mata Kuliah Manajemen Kontemporer.pdf') }}" class="btn btn-primary">DESKRIPSI MATA KULIAH</a>
                                 </li>
                             </ul>
                         </div>
