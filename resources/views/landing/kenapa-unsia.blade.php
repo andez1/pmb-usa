@@ -56,7 +56,7 @@
                                         </tr>
                                         <tr>
                                             <th scope="row">5</th>
-                                            <td>Materi perkuliahan yang up to date dan menarik.</td>
+                                            <td>Materi perkuliahan yang up-to-date dan menarik.</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">6</th>

@@ -135,7 +135,7 @@
 								<ul class="sub-menu">
 									<li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
                                         <li><a href="{{ route('landing.kenapa_unsia') }}">Kenapa UNSIA?</i></a></li>
-										<li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan UNSIA</i></a></li>
+										<li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan dan Manfaat UNSIA</i></a></li>
 										<li><a href="{{ route('landing.list_of_partner') }}">List of Partner</i></a></li>
                                         <li><a href="{{ route('landing.sejarah') }}">Sejarah UNSIA</i></a></li>
                                         <li><a href="{{ route('landing.visi_misi') }}">Visi Misi</i></a></li>
@@ -185,9 +185,9 @@
 									<li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
 								</ul>
 							</li>
-							{{-- <li>
-								<a href="http://portal.koreaswt.com/apply/index.jsp">Pendaftaran</a>
-							</li> --}}
+							<li>
+								<a href="#">Fasilitas</a>
+							</li>
 							<li class="@yield('active-arsip')"><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li><a href="{{ route('landing.berita') }}">Berita</a></li>

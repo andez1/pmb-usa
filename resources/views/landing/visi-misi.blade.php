@@ -33,9 +33,7 @@
 									<ol class="ml-4">
 										<li class="mb-4">
 											<h4>Visi</h4>
-											<p>Menjadi perguruan tinggi online yang unggul dalam layanan pendidikan tinggi bereputasi global berbasis Smart Digital Technology pada 2025.</p>
-											{{-- Visi Lama --}}
-											{{-- <p>Visi Universitas adalah menjadi Universitas Siber unggulan di Indonesia dalam tata kelola pendidikan, penelitian, dan pengabdian pada masyarakat pada tahun 2024</p> --}}
+											<p>Menjadi perguruan tinggi online unggulan yang masuk dalam peringkat 5 besar di tingkat nasional dalam layanan pendidikan tinggi yang bermutu global dan masal berbasis Smart Digital Technology pada 2025.</p>
 										</li>
 										<li class="mb-4">
 											<h4>Misi</h4>
