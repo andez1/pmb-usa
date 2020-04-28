@@ -30,80 +30,111 @@
 						<div class="col-lg-12 col-md-12 col-sm-12 m-b30">
 							<div class="feature-container">
                                 <div class="icon-content mb-2">
-									<p>The followings are the names of companies and universities that have agreed to collaborate with Asia Cyber University (ACU):</p>
+									<p>Berikut ini adalah nama-nama perusahaan dan universitas yang telah sepakat untuk bekerja sama dengan Asia Cyber University (ACU):</p>
 									<ol type="A" class="ml-4">
 										<li class="mb-3">
-											<p>Companies in Indonesia</p>
+											<p>Perusahaan di Indonesia</p>
 											<ol type="1" class="ml-4">
-												<li>
-													<b>Accentuates</b>
-													<p style="text-align: justify">Korean Human Resources Company in Indonesia hires about 6.000 new employees every year, mostly for Samsung Group. President Seo Kyum Kim and Asia Cyber University Rector (to be) Prof. Cho agreed that Accentuates would hire Asia Cyber University graduates actively if they are qualified.</p>
+												<li class="mb-3">
+													Accentuates
+													<p style="text-align: justify">Perusahaan Sumber Daya Manusia Korea di Indonesia mempekerjakan sekitar 6.000 karyawan baru setiap tahun, sebagian besar untuk Samsung Group. Presiden Seo Kyum Kim dan Rektor Universitas Cyber Asia (untuk menjadi) Prof. Cho setuju bahwa Accentuates akan mempekerjakan lulusan Universitas Cyber Asia secara aktif jika mereka memenuhi syarat.</p>
 												</li>
-												<li>
-													<b>Mahnwan Kita Culture</b>
-													<p style="text-align: justify">The leader in webtoon industry in Indonesia. President Seok Kim agreed to hire actively graduates from Asia Cyber University if qualified.</p>
+												<li class="mb-3">
+													Mahnwan Kita Culture
+													<p style="text-align: justify">Pemimpin dalam industri webtoon di Indonesia. Presiden Seok Kim setuju untuk merekrut lulusan aktif dari Asia Cyber University jika memenuhi syarat.</p>
 												</li>
-												<li>
-													<b>Nonghyup Bank</b>
-													<p style="text-align: justify">The number one bank for farmers in Korea has agreed that Asia Cyber University graduates who fulfill the requirements can work in the company in Indonesia.</p>
+												<li class="mb-3">
+													Bank Nonghyup
+													<p style="text-align: justify">Bank nomor satu untuk petani di Korea telah sepakat bahwa lulusan Asia Cyber University yang memenuhi persyaratan dapat bekerja di perusahaan di Indonesia.</p>
 												</li>
-												<li>
-													<b>Shinhan Bank Indonesia</b>
-													<p style="text-align: justify">A subsidiary of the #1 Bank in Korea with a market value about $30 billion. Mr. Hwang Dae Geu, the President Director of Shinhan Bank Indonesia, also agreed not only to provide internship but also hire Asia Cyber University graduates if they are qualified.</p>
+												<li class="mb-3">
+													Shinhan Bank Indonesia
+													<p style="text-align: justify">Anak perusahaan Bank nomor 1 di Korea dengan nilai pasar sekitar $ 30 miliar. Hwang Dae Geu, Presiden Direktur Shinhan Bank Indonesia, juga setuju tidak hanya untuk memberikan magang tetapi juga merekrut lulusan Asia Cyber University jika mereka memenuhi syarat.</p>
 												</li>
-												<li>
-													<b>KOGA / Korean Garment Manufacturing Association</b>
-													<p style="text-align: justify">Korean Association of Garment Industry in Indonesia currently hires over 600,000 employees. President of KOGA, Mr. Ahn Chang Sub, and Prof. Cho agreed to work together and will provide an opportunity for workers to study in Asia Cyber University and later will hire graduates as managerial staffs if they are qualified.</p>
+												<li class="mb-3">
+													KOGA / Asosiasi Produsen Garmen Korea
+													<p style="text-align: justify">Asosiasi Industri Garmen Korea di Indonesia saat ini mempekerjakan lebih dari 600.000 karyawan. Presiden KOGA, Bapak Ahn Chang Sub, dan Prof. Cho setuju untuk bekerja bersama dan akan memberikan kesempatan bagi pekerja untuk belajar di Asia Cyber University dan kemudian akan merekrut lulusan sebagai staf manajerial jika mereka memenuhi syarat.</p>
 												</li>
-												<li><b>DaGo</b></li>
-												<li><b>Biz Insight</b></li>
-												<li><b>Hankuk Bowon Bio</b></li>
+												<li class="mb-3">
+													ASOSIASI UKM KOREA
+													<p style="text-align: justify">Didirikan untuk tujuan membangun sistem kerja sama timbal balik, menyediakan informasi khusus, dan mempromosikan partisipasi bersama usaha kecil dan menengah dan perusahaan pemula.</p>
+													Keanggotaan Perusahaan: <br>
+													PT. HARINDO <br>
+													PT. SAMICK <br>
+													PT. TEKNOLOGI YUBI <br>
+													PT. INDONESIA INDOMEDIK <br>
+													PT. DAE IN TECH INDONESIA <br>
+													SOLUSI TOTAL PT MDT <br>
+													PT YUNEX GLOBAL INDONESIA <br>
+													PT BHP GRUP INDONESIA <br>
+													PT SOLENO SATING INDONESIA <br>
+													PT FREIGHT CARGO LOGISTICS <br>
+													PT SAMINDO ELECTRONICS
+												</li>
+												<li class="mb-3"><p>DaGo</p></li>
+												<li class="mb-3"><p>Biz Insight</p></li>
+												<li class="mb-3"><p>Hankuk Bowon Bio</p></li>
 											</ol>
-											<p>Asia Cyber University also have several MOU’s from other companies to provide students and then hire as employees.</p>
+											<p>Universitas Cyber Asia juga memiliki beberapa MOU dari perusahaan lain untuk menyediakan mahasiswa
+												dan kemudian mempekerjakan sebagai karyawan.</p>
 										</li>
 										<li class="mb-3">
-											<p>Cooperation Agreements with High-Tech Companies</p>
+											<p>Perjanjian Kerjasama dengan Perusahaan Teknologi Tinggi</p>
 											<ol type="1" class="ml-4">
-												<li>
-													<b>Korea Software Tech</b>
-													<p style="text-align: justify">President Park J.S recently has developed the Asia Cyber University system similar to Korea Cyber University while still meet the to Indonesian regulations and standard.</p>
+												<li class="mb-3">
+													Korea Software Tech
+													<p style="text-align: justify">President Park J.S baru-baru ini telah mengembangkan sistem Universitas Cyber Asia mirip
+														dengan Universitas Cyber Korea yang tetap memenuhi peraturan dan standar Indonesia.</p>
 												</li>
-												<li>
-													<b>Live Edu</b>
-													<p style="text-align: justify">Real-time interactive video tele-education system. Recently President Woo visited Indonesia and agreed to corporate with Asia Cyber University.</p>
+												<li class="mb-3">
+													LiveEdu
+													<p style="text-align: justify">Sistem tele-edukasi video interaktif real-time. Baru-baru ini Presiden Woo mengunjungi
+														Indonesia dan setuju untuk bekerja sama dengan Asia Cyber University.</p>
 												</li>
-												<li>
-													<b>Sawwave</b>
-													<p style="text-align: justify">Sawwave’s unique technologies and systems are the core wireless communication technologies for smart city construction and public Wi-Fi with the world’s No.1 competitiveness They agreed to work together with Asia Cyber University.</p>
+												<li class="mb-3">
+													Sawwave
+													<p style="text-align: justify">Teknologi dan sistem unik Sawwave adalah teknologi komunikasi nirkabel inti untuk
+														pembangunan kota pintar dan Wi-Fi publik dengan daya saing No.1 di dunia. Mereka sepakat
+														untuk bekerja sama dengan Asia Cyber University.</p>
 												</li>
 											</ol>
 										</li>
 										<li class="mb-3">
-											<p>Contents Cooperation Agreement with Higher Education</p>
+											<p>Isi Perjanjian Kerjasama dengan Pendidikan Tinggi</p>
 											<ol type="1" class="ml-4">
-											<li>
-												<b>Hanyang Cyber University, Korea.</b>
-												<p style="text-align: justify">Sister University of Hanyang University (QS World Ranking 150). Hanyang Cyber Univesity as #1 Cyber University in Asia agreed to provide contents and necessary technologies to Asia Cyber University.</p>
+											<li class="mb-3">
+												Universitas Hanyang Cyber, Korea.
+												<p style="text-align: justify">Sister University dari Universitas Hanyang (QS World Ranking 150). Hanyang Cyber Univesity
+													sebagai Universitas Cyber No.1 di Asia setuju untuk menyediakan konten dan teknologi yang
+													diperlukan untuk Universitas Cyber Asia.</p>
 											</li>
-											<li>
-												<b>Multicampus, Korea.</b>
-												<p style="text-align: justify">Multicampus, education company of Samsung Group (biggest business group in Korea) agreed to provide the content and the technologies to Asia Cyber University. Samsung group has a Sungkyunkwan University (QS World Ranking 95), Asia Cyber University also can use the content of Sungkyunkwan University through Multicampus.</p>
+											<li class="mb-3">
+												Multicampus, Korea.
+												<p style="text-align: justify">Multicampus, perusahaan pendidikan Samsung Group (grup bisnis terbesar di Korea) sepakat
+													untuk menyediakan konten dan teknologi untuk Asia Cyber University. Grup Samsung
+													memiliki Universitas Sungkyunkwan (QS World Ranking 95), Asia Cyber University juga dapat
+													menggunakan konten Universitas Sungkyunkwan melalui Multicampus.</p>
 											</li>
-											<li>
-												<b>Bina Darma University (UBD)</b>
-												<p style="text-align: justify">The purpose of this collaboration is to foster academic partnerships with the University of Bina Darma (UBD).</p>
+											<li class="mb-3">
+												Universitas Bina Darma (UBD)
+												<p style="text-align: justify">Tujuan kolaborasi ini adalah untuk menumbuhkan kemitraan akademik dengan Universitas
+													Bina Darma (UBD).</p>
 											</li>
-											<li>
-												<b>Fajar Makasar University </b>
-												<p style="text-align: justify">Cooperation in the academic field to develop learning systems, implementing online-based education by providing facilities and infrastructure, instructors, students, and learning content.</p>
+											<li class="mb-3">
+												Universitas Fajar Makasar
+												<p style="text-align: justify">Kerjasama di bidang akademik untuk mengembangkan sistem pembelajaran, menerapkan
+													pendidikan berbasis online dengan menyediakan fasilitas dan infrastruktur, instruktur, siswa,
+													dan konten pembelajaran.</p>
 											</li>
-											<li>
-												<b>The MOU with LLDIKTI Region IX Sulawesi and Gorontalo </b>
-												<p style="text-align: justify">Agreement to collaborate in online-based learning systems and mobilize human resources for online-based learning systems.</p>
+											<li class="mb-3">
+												MOU dengan LLDIKTI Wilayah IX Sulawesi dan Gorontalo
+												<p style="text-align: justify">Perjanjian untuk berkolaborasi dalam sistem pembelajaran berbasis online dan memobilisasi
+													sumber daya manusia untuk sistem pembelajaran berbasis online.</p>
 											</li>
-											<li><b>Simalungun Foundation</b></li>
-											<li><b>Del Institute of Technology</b></li>
-											<li><b>Warwick University UK (QS World Ranking 95); currently under discussion with details of using contents of Business School.</b></li>
+											<li class="mb-3">Yayasan Simalungun</li>
+											<li class="mb-3">Del Institute of Technology</li>
+											<li class="mb-3">Warwick University UK (QS World Ranking 95); saat ini sedang dalam diskusi dengan
+												perincian penggunaan konten Business School.</li>
 										</ol>
 										</li>
 									</ol>
