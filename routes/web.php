@@ -19,7 +19,7 @@ Route::get('/', 'LandingController@index')->name('landing.index');
 // Tentang UNSIA
 Route::get('/tentang-unsia/salam-rektor', 'LandingController@salam_rektor')->name('landing.salam_rektor');
 Route::get('/tentang-unsia/kenapa-unsia', 'LandingController@kenapa_unsia')->name('landing.kenapa_unsia');
-Route::get('/tentang-unsia/keunggulan-unsia', 'LandingController@keunggulan_unsia')->name('landing.keunggulan_unsia');
+Route::get('/tentang-unsia/keunggulan-dan-manfaat-unsia', 'LandingController@keunggulan_unsia')->name('landing.keunggulan_unsia');
 
 Route::get('/teaser-video-pelatihan', 'LandingController@teaser_video_pelatihan')->name('landing.teaser_video_pelatihan');
 Route::get('/teaser-video-pembelajaran', 'LandingController@teaser_video_pembelajaran')->name('landing.teaser_video_pembelajaran');

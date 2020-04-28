@@ -144,7 +144,7 @@
                                     <ul class="sub-menu">
                                         <li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
                                         <li><a href="{{ route('landing.kenapa_unsia') }}">Kenapa UNSIA?</i></a></li>
-                                        <li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan UNSIA</i></a>
+                                        <li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan dan Manfaat UNSIA</i></a>
                                         </li>
                                         <li><a href="{{ route('landing.list_of_partner') }}">List of Partner</i></a>
                                         </li>
@@ -214,6 +214,9 @@
                                                 Akademik</a></li>
                                         <li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
                                     </ul>
+                                </li>
+                                <li>
+                                    <a href="#">Fasilitas</a>
                                 </li>
                                 <li><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu">
@@ -1004,6 +1007,28 @@
                         </div>
                     </div>
                 </div>
+                
+                <div class="item">
+                    <div class="recent-news">
+                        <div class="action-box">
+                            <img src="{{ asset('homepages/images/berita/beranda/dua.jpg') }}" alt="">
+                        </div>
+                        <div class="info-bx">
+                            <ul class="media-post">
+                                <li><a href="#"><i class="fa fa-calendar"></i>Februari 13, 2017</a></li>
+                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
+                            </ul>
+                            <h5 class="post-title"><a
+                                    href="https://www.unas.ac.id/berita/universitas-nasional-resmikan-gedung-kuliah-baru/">YMIK RESMIKAN GEDUNG KULIAH BARU</a></h5>
+                            <p>JAKARTA (UNAS) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menambah fasilitas baru untuk perkuliahan, dengan meresmikan Gedung baru di kawasan Jakarta Selatan. Gedung ...</p>
+                            <div class="post-extra">
+                                <a href="https://www.unas.ac.id/berita/universitas-nasional-resmikan-gedung-kuliah-baru/"
+                                    class="btn-link">READ MORE</a>
+                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>14 Comment</a> --}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="item">
                     <div class="recent-news">
                         <div class="action-box">
@@ -1023,29 +1048,6 @@
                                 {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>23 Comment</a> --}}
                             </div>
 
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="recent-news">
-                        <div class="action-box">
-                            <img src="{{ asset('homepages/images/berita/beranda/dua.jpg') }}" alt="">
-                        </div>
-                        <div class="info-bx">
-                            <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Februari 28, 2019</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
-                            </ul>
-                            <h5 class="post-title"><a
-                                    href="https://www.unas.ac.id/berita/kunjungi-korea-selatan-menristek-dikti-antusias-terapkan-pembelajaran-berbasis-cyber-di-indonesia/">Kunjungi
-                                    Korea Selatan, Menristek Dikti Antusias Terapkan Pembelajaran Berbasis Cyber Di
-                                    Indonesia</a></h5>
-                            <p>JAKARTA (UNAS) – Menteri Riset Teknologi dan Pendidikan Tinggi (MENRISTEK DIKTI), ...</p>
-                            <div class="post-extra">
-                                <a href="https://www.unas.ac.id/berita/kunjungi-korea-selatan-menristek-dikti-antusias-terapkan-pembelajaran-berbasis-cyber-di-indonesia/"
-                                    class="btn-link">READ MORE</a>
-                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>14 Comment</a> --}}
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -1195,28 +1197,28 @@
                             <ul class="magnific-image">
                                 <li><a href="{{ asset('homepages/images/gallery/pic1.jpg') }}"
                                         class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/pic1.jpg') }}" alt=""></a></li>
+                                            src="{{ asset('homepages/images/gallery/thumbnail1.jpg') }}" alt=""></a></li>
                                 <li><a href="{{ asset('homepages/images/gallery/pic2.jpg') }}"
                                         class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/pic2.jpg') }}" alt=""></a></li>
+                                            src="{{ asset('homepages/images/gallery/thumbnail2.jpg') }}" alt=""></a></li>
                                 <li><a href="{{ asset('homepages/images/gallery/pic3.jpg') }}"
                                         class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/pic3.jpg') }}" alt=""></a></li>
+                                            src="{{ asset('homepages/images/gallery/thumbnail3.jpg') }}" alt=""></a></li>
                                 <li><a href="{{ asset('homepages/images/gallery/pic4.jpg') }}"
                                         class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/pic4.jpg') }}" alt=""></a></li>
+                                            src="{{ asset('homepages/images/gallery/thumbnail4.jpg') }}" alt=""></a></li>
                                 <li><a href="{{ asset('homepages/images/gallery/pic5.jpg') }}"
                                         class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/pic5.jpg') }}" alt=""></a></li>
+                                            src="{{ asset('homepages/images/gallery/thumbnail5.jpg') }}" alt=""></a></li>
                                 <li><a href="{{ asset('homepages/images/gallery/pic6.jpg') }}"
                                         class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/pic6.jpg') }}" alt=""></a></li>
+                                            src="{{ asset('homepages/images/gallery/thumbnail6.jpg') }}" alt=""></a></li>
                                 <li><a href="{{ asset('homepages/images/gallery/pic7.jpg') }}"
                                         class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/pic7.jpg') }}" alt=""></a></li>
+                                            src="{{ asset('homepages/images/gallery/thumbnail7.jpg') }}" alt=""></a></li>
                                 <li><a href="{{ asset('homepages/images/gallery/pic8.jpg') }}"
                                         class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/pic8.jpg') }}" alt=""></a></li>
+                                            src="{{ asset('homepages/images/gallery/thumbnail8.jpg') }}" alt=""></a></li>
                             </ul>
                         </div>
                     </div>
