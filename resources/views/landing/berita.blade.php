@@ -162,6 +162,25 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-6 mb-4">
+                                    <div class="card">
+                                        <img src="{{ asset('homepages/images/berita/beranda/dua.jpg') }}"
+                                            class="card-img-top" alt="...">
+                                        <div class="card-body">
+                                            <ul class="media-post">
+                                                <li><a href="#"><i class="fa fa-calendar"></i>Februari 13, 2017</a>
+                                                </li>
+                                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
+                                            </ul>
+                                            <h5 class="card-title">YMIK RESMIKAN GEDUNG KULIAH BARU</h5>
+                                            <p class="card-text">JAKARTA (UNAS) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menambah fasilitas baru untuk perkuliahan, dengan meresmikan Gedung baru di kawasan Jakarta Selatan.</p>
+                                            <div class="post-extra">
+                                                <a href="https://www.unas.ac.id/berita/universitas-nasional-resmikan-gedung-kuliah-baru/"
+                                                    class="btn-link">READ MORE</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
