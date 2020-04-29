@@ -20,10 +20,16 @@ Route::get('/', 'LandingController@index')->name('landing.index');
 Route::get('/tentang-unsia/salam-rektor', 'LandingController@salam_rektor')->name('landing.salam_rektor');
 Route::get('/tentang-unsia/kenapa-unsia', 'LandingController@kenapa_unsia')->name('landing.kenapa_unsia');
 Route::get('/tentang-unsia/keunggulan-dan-manfaat-unsia', 'LandingController@keunggulan_unsia')->name('landing.keunggulan_unsia');
+// Fasilitas
+Route::get('/fasilitas/learning-community', 'LandingController@learning_community')->name('landing.learning_community');
+Route::get('/fasilitas/laboratorium-virtual', 'LandingController@laboratorium_virtual')->name('landing.laboratorium_virtual');
+Route::get('/fasilitas/studio-multimedia', 'LandingController@studio_multimedia')->name('landing.studio_multimedia');
+// Penerimaan
+Route::get('/penerimaan/standar-biaya-perkuliahan', 'LandingController@standar_biaya_perkuliahan')->name('landing.standar_biaya_perkuliahan');
+Route::get('/penerimaan/beasiswa', 'LandingController@beasiswa')->name('landing.beasiswa');
 
 Route::get('/teaser-video-pelatihan', 'LandingController@teaser_video_pelatihan')->name('landing.teaser_video_pelatihan');
 Route::get('/teaser-video-pembelajaran', 'LandingController@teaser_video_pembelajaran')->name('landing.teaser_video_pembelajaran');
-Route::get('/beasiswa', 'LandingController@beasiswa')->name('landing.beasiswa');
 Route::get('/faq', 'LandingController@faq')->name('landing.faq');
 Route::get('/teaching-professor', 'LandingController@teaching_professor')->name('landing.teaching_professor');
 Route::get('/about-unsia', 'LandingController@about')->name('landing.about');

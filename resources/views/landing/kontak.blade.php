@@ -15,7 +15,6 @@
     <div class="container">
         <ul class="list-inline">
             <li><a href="#">Beranda</a></li>
-            <li>Penerimaan</li>
             <li>Kontak</li>
         </ul>
     </div>

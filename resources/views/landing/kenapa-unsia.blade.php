@@ -43,32 +43,68 @@
                                         </tr>
                                         <tr>
                                             <th scope="row">2</th>
+                                            <td>Universitas Siber Asia membantu mewujudkan target Kementerian Pendidikan
+                                                untuk meningkatkan Aangka Partisipasi Kasar (APK) di Perguruan Tinggi di
+                                                Indonesia yang saat ini masih dibawah 30% artinya belum mencapai
+                                                sepertiga dari populasi usia aktif (19-23 tahun) dan membantu menyiapkan
+                                                mahasiswa untuk memasuki era revolusi industry 4.0;</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>Dibangun dengan kolaborasi pengalaman dari Universitas Nasional yang
+                                                sudah lebih dari 70 tahun berpengalaman dalam mengoperasikan universitas
+                                                dan teknologi Korea Selatan yang sudah berpengalaman hampir 20 tahun
+                                                mengoperasikan Universitas Siber ditambah pengalaman Prof. Cho (Rektor
+                                                UNSIA) yang berpengalaman menjalankan Universitas Siber di Korea
+                                                Selatan;</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>Bekerjasama dengan beberapa Pengajar dan Professor dari seluruh dunia
+                                                sebagai Teaching Professor;</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">5</th>
+                                            <td>Bekerjasama dengan industri-industri di Indonesia sebagai contoh 2
+                                                organisasi seperti KOGA (Asosiasi Perusahaan Garmen Korea) dan KOSA
+                                                (Asosiasi UKM Korea) yang beranggotakan 800 perusahaan yang memungkinkan
+                                                bisa menampung pekerjaan bagi lulusan Universitas Siber Asia;</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">6</th>
+                                            <td>Memberikan dukungan finansial berdasarkan kebutuhan (beasiswa) sebagai
+                                                contoh kepada siswi berprestasi, orang tua tunggal, orang berkebutuhan
+                                                khusus, penduduk daerah pedesaan, anak veteran perang NKRI, hingga 50
+                                                persen potongan biaya kuliah.</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">7</th>
                                             <td>Menghadirkan pengajaran dengan kualitas dunia (world class learning).
                                             </td>
                                         </tr>
                                         <tr>
-                                            <th scope="row">3</th>
+                                            <th scope="row">8</th>
                                             <td>Membawa teknologi terbaik dan terbaru dari Korea.</td>
                                         </tr>
                                         <tr>
-                                            <th scope="row">4</th>
+                                            <th scope="row">9</th>
                                             <td>Didukung oleh pengajar yang kompeten dan ahli di bidangnya.</td>
                                         </tr>
                                         <tr>
-                                            <th scope="row">5</th>
+                                            <th scope="row">10</th>
                                             <td>Materi perkuliahan yang up-to-date dan menarik.</td>
                                         </tr>
                                         <tr>
-                                            <th scope="row">6</th>
+                                            <th scope="row">11</th>
                                             <td>Waktu perkuliahan yang fleksibel dan dapat diakses kapanpun dan
                                                 dimanapun melalui internet.</td>
                                         </tr>
                                         <tr>
-                                            <th scope="row">7</th>
+                                            <th scope="row">12</th>
                                             <td>Biaya perkuliahan yang sangat jangkau dan dapat dicicil.</td>
                                         </tr>
                                         <tr>
-                                            <th scope="row">8</th>
+                                            <th scope="row">13</th>
                                             <td>kuliah berkualitas tinggi melalui pengembangan sistem akademik kuliah
                                                 dan sistem manajemennya.</td>
                                         </tr>
