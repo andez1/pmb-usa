@@ -167,6 +167,7 @@
                                                 <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
                                             </ul>
                                         </li>
+                                        <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya Perkuliahan</a></li>
                                         <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
                                     </ul>
                                 </li>
@@ -215,8 +216,12 @@
                                         <li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
                                     </ul>
                                 </li>
-                                <li>
-                                    <a href="#">Fasilitas</a>
+                                <li><a href="javascript:;">Fasilitas<i class="fa fa-chevron-down"></i></a>
+                                    <ul class="sub-menu">
+                                        <li><a href="{{ route('landing.learning_community') }}">Learning Community</i></a></li>
+                                        <li><a href="{{ route('landing.laboratorium_virtual') }}">Laboratorium Virtual</i></a></li>
+                                        <li><a href="{{ route('landing.studio_multimedia') }}">Studio Multimedia</i></a></li>
+                                    </ul>
                                 </li>
                                 <li><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu">
@@ -1178,17 +1183,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <!-- <div class="col-4 col-lg-4 col-md-4 col-sm-4">
-								<div class="widget footer_widget">
-									<h5 class="footer-title">Courses</h5>
-									<ul>
-										<li><a href="courses.html">Courses</a></li>
-										<li><a href="courses-details.html">Details</a></li>
-										<li><a href="membership.html">Membership</a></li>
-										<li><a href="profile.html">Profile</a></li>
-									</ul>
-								</div>
-							</div> -->
                         </div>
                     </div>
                     <div class="col-12 col-lg-3 col-md-5 col-sm-12 footer-col-4">

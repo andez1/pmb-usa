@@ -11,6 +11,28 @@ class LandingController extends Controller
         return view('landing.home');
     }
 
+    // Fasilitas
+    public function learning_community()
+    {
+        return view('landing.learning-community');
+    }
+
+    public function laboratorium_virtual()
+    {
+        return view('landing.laboratorium-virtual');
+    }
+
+    public function studio_multimedia()
+    {
+        return view('landing.studio-multimedia');
+    }
+
+    // Penerimaan
+    public function standar_biaya_perkuliahan()
+    {
+        return view('landing.standar-biaya-perkuliahan');
+    }
+
     public function teaser_video_pembelajaran()
     {
         return view('landing.teaser-video-pembelajaran');

@@ -151,6 +151,7 @@
                                             <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
                                         </ul>
                                     </li>
+                                    <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya Perkuliahan</a></li>
                                     <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
 								</ul>
 							</li>
@@ -180,13 +181,14 @@
 									<li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran Online</a></li>
 									<li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi Akademik</a></li>
 									<li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
-									{{-- <li><a href="{{ route('landing.admission_info') }}">Info Pendaftaran</a></li>
-									<li><a href="{{ route('landing.academic_program') }}">Program Akademik</a></li>
-									<li><a href="{{ route('landing.study_guide') }}">Panduan Pembelajaran</a></li> --}}
 								</ul>
 							</li>
-							<li>
-								<a href="#">Fasilitas</a>
+							<li><a href="javascript:;">Fasilitas<i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="{{ route('landing.learning_community') }}">Learning Community</i></a></li>
+									<li><a href="{{ route('landing.laboratorium_virtual') }}">Laboratorium Virtual</i></a></li>
+									<li><a href="{{ route('landing.studio_multimedia') }}">Studio Multimedia</i></a></li>
+								</ul>
 							</li>
 							<li class="@yield('active-arsip')"><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
