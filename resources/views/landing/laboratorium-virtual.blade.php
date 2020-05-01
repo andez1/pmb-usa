@@ -35,9 +35,9 @@
                                 <img src="{{ asset('homepages/images/fasilitas/lv1.png') }}" alt="">
                             </div>
                             <p>Berikut adalah contoh video teaser Virtual Lab. Yang mendemontrasikan suatu kegiatan perancangan.</p>
-                            <div class="video-teaser">
+                            <div class="embed-responsive embed-responsive-16by9">
                                 <video controls src="{{ asset('homepages/images/video/lab-virtual.mp4') }}"></video>
-                            </div>
+                              </div>
                         </div>
                     </div>
                 </div>

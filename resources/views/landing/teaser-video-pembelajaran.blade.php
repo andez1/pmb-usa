@@ -63,9 +63,9 @@
                                 <li>Video Seminar Ilmiah (Webinar Ilmiah)</li>
                             </ol>
                             <p>Berikut adalah contoh video pembelajaran (teaser), silahkan mencoba:</p>
-                            <div class="video-teaser">
+                            <div class="embed-responsive embed-responsive-16by9">
                                 <video controls src="{{ asset('homepages/images/video/teaservideo2.mp4') }}"></video>
-                            </div>
+                              </div>
                         </div>
                     </div>
                 </div>
