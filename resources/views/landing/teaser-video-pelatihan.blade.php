@@ -33,9 +33,9 @@
                                     <p style="text-align: justify">Universitas Siber Asia secara regular atau setiap akhir semester menyelenggarakan Pelatihan Profesional Bersertifikasi dengan tujuan untuk mempersiapkan lulusan yang siap berkiprah di dunia kerja dalam Era Smart Digital Economy. Pelatihan secara rutin diumumkan dalam kalender akademik mahasiswa wajib mengikuti pelatihan tersebut secara online.</p>
 									<p>Contoh Pelatihan Berikut ini:</p>
 									<p class="text-center">Sharing Pengalaman Kerja</p>
-									<div class="video-teaser"> 
+									<div class="embed-responsive embed-responsive-16by9">
 										<video controls src="{{ asset('homepages/images/video/teaservideo1.mp4') }}"></video>
-									</div>
+									  </div>
 									<p>Jenis-jenis pelatihan yang disiapkan Universitas Siber Asia:</p>
 									<ol class="ml-5">
 										<li>Leadership Training</li>

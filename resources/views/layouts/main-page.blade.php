@@ -45,7 +45,7 @@
 	
 	<!-- STYLESHEETS ============================================= -->
 	<link rel="stylesheet" type="text/css" href="{{ asset('homepages/css/style.css') }}">
-	<link rel="stylesheet" type="text/css" href="{{ asset('homepages/css/style-greeting-rector.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ asset('homepages/css/menu.css') }}">
 	<link class="skin" rel="stylesheet" type="text/css" href="{{ asset('homepages/css/color/color-1.css') }}">
 	
 	<!-- REVOLUTION SLIDER CSS ============================================= -->

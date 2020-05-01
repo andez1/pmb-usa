@@ -39,7 +39,7 @@
                                     <img src="{{ asset('homepages/images/fasilitas/sm2.jpg') }}" alt="">
                                 </div>
                             </div>
-                            <div class="row">
+                            <div class="row mb-3">
                                 <div class="col-sm-6 mb-3">
                                     <img src="{{ asset('homepages/images/fasilitas/sm3.jpg') }}" alt="">
                                 </div>
@@ -47,6 +47,9 @@
                                     <img src="{{ asset('homepages/images/fasilitas/sm4.jpg') }}" alt="">
                                 </div>
                             </div>
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <video controls src="{{ asset('homepages/images/video/studio-multimedia.mp4') }}"></video>
+                              </div>
                         </div>
                     </div>
                 </div>

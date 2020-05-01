@@ -494,164 +494,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- Our Services END -->
-
-                <!-- Popular Courses -->
-                {{-- <section class="section-area section-sp2 popular-courses-bx page-section" style="padding-bottom: 0em !important;" id="tentang">
-                <div class="container">
-					<div class="row">
-						<div class="col-md-12 heading-bx left">
-							<h2 class="title-head">Fakultas</h2>
-							<p>Macam-macam fakultas terbaik yang bisa membantu mengembangkan pengetahuanmu</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="courses-carousel owl-carousel owl-btn-1 col-12 p-lr0">
-							<div class="item">
-								<div class="cours-bx">
-									<div class="action-box">
-										<img src="{{ asset('homepages/images/courses/img3.jpg') }}" alt="">
-                <a href="#" class="btn">Read More</a>
-            </div>
-            <div class="info-bx text-center">
-                <h5><a href="#">Manajemen<br>dan E-commerce</a></h5>
-                <!-- <span>Programming</span> -->
-            </div>
-            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
-        </div>
-    </div>
-    <div class="item">
-        <div class="cours-bx">
-            <div class="action-box">
-                <img src="{{ asset('homepages/images/courses/img4.jpg') }}" alt="">
-                <a href="#" class="btn">Read More</a>
-            </div>
-            <div class="info-bx text-center">
-                <h5><a href="#">Sistem<br>Informasi</a></h5>
-                <!-- <span>Programming</span> -->
-            </div>
-            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
-        </div>
-    </div>
-    <div class="item">
-        <div class="cours-bx">
-            <div class="action-box">
-                <img src="{{ asset('homepages/images/courses/img1.jpg') }}" alt="">
-                <a href="#" class="btn">Read More</a>
-            </div>
-            <div class="info-bx text-center">
-                <h5><a href="#">Teknik<br>Informatika</a></h5>
-                <!-- <span>Programming</span> -->
-            </div>
-            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
-        </div>
-    </div>
-    <div class="item">
-        <div class="cours-bx">
-            <div class="action-box">
-                <img src="{{ asset('homepages/images/courses/img2.jpg') }}" alt="">
-                <a href="#" class="btn">Read More</a>
-            </div>
-            <div class="info-bx text-center">
-                <h5><a href="#">Akuntansi<br>dan Perpajakan</a></h5>
-                <!-- <span>Programming</span> -->
-            </div>
-            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
-        </div>
-    </div>
-    <div class="item">
-        <div class="cours-bx">
-            <div class="action-box">
-                <img src="{{ asset('homepages/images/courses/img5.jpg') }}" alt="">
-                <a href="#" class="btn">Read More</a>
-            </div>
-            <div class="info-bx text-center">
-                <h5><a href="#">Penyiaran dan<br>Komunikasi Digital</a></h5>
-                <!-- <span>Programming</span> -->
-            </div>
-            <!-- <div class="cours-more-info">
-										<div class="review">
-											<span>3 Review</span>
-											<ul class="cours-star">
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li class="active"><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-												<li><i class="fa fa-star"></i></li>
-											</ul>
-										</div>
-										<div class="price">
-											<del>$190</del>
-											<h5>$120</h5>
-										</div>
-									</div> -->
-        </div>
-    </div>
-    </div>
-    </div>
-    </div>
-    </section> --}}
-    <!-- Popular Courses END -->
 
     <!-- Popular Courses -->
     <section class="section-area section-sp2 popular-courses-bx page-section" style="padding-top:2.5em !important;">
@@ -735,35 +577,35 @@
             <div class="mw1000 m-auto">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
-                        <div class="cours-search-bx m-b30">
+                        <div class="cours-search-bx m-b30 box-icon">
                             <div class="icon-box">
-                                <h3><i class="ti-user"></i><span class="counter">5</span>M</h3>
+                                <h3><i class="ti-user"></i></h3>
                             </div>
-                            <span class="cours-search-text">Over 5 million student</span>
+                            <span class="cours-search-text">LMS bisa menampung jutaan mahasiswa</span>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
-                        <div class="cours-search-bx m-b30">
+                        <div class="cours-search-bx m-b30 box-icon">
                             <div class="icon-box">
-                                <h3><i class="ti-book"></i><span class="counter">30</span>K</h3>
+                                <h3><i class="ti-book"></i></h3>
                             </div>
-                            <span class="cours-search-text">30,000 e-Book.</span>
+                            <span class="cours-search-text">Tersedia koleksi E-Book ribuan file dan free download</span>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-12">
-                        <div class="cours-search-bx m-b30">
+                        <div class="cours-search-bx m-b30 box-icon">
                             <div class="icon-box">
-                                <h3><i class="ti-layout-list-post"></i><span class="counter">20</span>K</h3>
+                                <h3><i class="ti-layout-list-post"></i></h3>
                             </div>
-                            <span class="cours-search-text">Learn Anythink Online.</span>
+                            <span class="cours-search-text">Belajar dan Beraktifitas Online di LMS</span>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-12">
-                        <div class="cours-search-bx m-b30">
+                        <div class="cours-search-bx m-b30 box-icon">
                             <div class="icon-box">
-                                <h3><i class="ti-cup"></i><span class="counter">20</span></h3>
+                                <h3><i class="ti-cup"></i></h3>
                             </div>
-                            <span class="cours-search-text">Achievements.</span>
+                            <span class="cours-search-text">Kuliah Full Online menunjang karir dan cita-cita</span>
                         </div>
                     </div>
                 </div>
