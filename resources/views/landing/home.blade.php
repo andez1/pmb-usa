@@ -357,7 +357,7 @@
                                 data-param7="" data-param8="" data-param9="" data-param10=""
                                 data-description="Science says that Women are generally happier">
                                 <!-- MAIN IMAGE -->
-                                <img src="{{ asset('homepages/images/slider/slider2.jpg') }}" alt=""
+                                <img src="{{ asset('homepages/images/slider/slider6.jpg') }}" alt=""
                                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                                     data-bgparallax="10" class="rev-slidebg" data-no-retina />
 
@@ -458,7 +458,7 @@
                                         <div class="feature-box-sm radius bg-white">
                                             <i class="fa fa-bank text-primary"></i>
                                         </div>
-                                        <h4><a href="#">Pendidikan Online Pertama di Indonesia</a></h4>
+                                        <h4>Perguruan Tinggi berbasis platform siber pertama di Indonesia</h4>
                                         <!-- <a href="#" class="btn radius-xl">View More</a> -->
                                     </div>
                                 </div>
@@ -472,7 +472,7 @@
                                         <div class="feature-box-sm radius bg-white">
                                             <i class="fa fa-book text-primary"></i>
                                         </div>
-                                        <h4><a href="#">Teknologi Edukasi Terbaik dan Terbaru</a></h4>
+                                        <h4>Teknologi Edukasi Terbaik dan Terbaru</h4>
                                         <!-- <a href="#" class="btn radius-xl">View More</a> -->
                                     </div>
                                 </div>
@@ -486,7 +486,7 @@
                                         <div class="feature-box-sm radius bg-white">
                                             <i class="fa fa-file-text-o text-primary"></i>
                                         </div>
-                                        <h4><a href="#">Belajar Mudah, Kapanpun Di Manapun</a></h4>
+                                        <h4>Belajar Mudah, Kapanpun Di Manapun</h4>
                                         <!-- <a href="#" class="btn radius-xl">View More</a> -->
                                     </div>
                                 </div>
