@@ -169,6 +169,7 @@
                                         </li>
                                         <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya Perkuliahan</a></li>
                                         <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
+                                        <li><a href="{{ route('landing.pembiayaan_soft_loan') }}">Pembiayaan Soft Loan</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-sub"><a href="javascript:;">Akademik <i
@@ -206,6 +207,7 @@
                                                 </li>
                                             </ul>
                                         </li>
+                                        <li><a href="{{ route('landing.program_kampus_merdeka') }}">Program Kampus Merdeka</a></li>
                                         <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
                                                 Pembelajaran Online</a></li>
                                         <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran
