@@ -27,6 +27,9 @@ Route::get('/fasilitas/studio-multimedia', 'LandingController@studio_multimedia'
 // Penerimaan
 Route::get('/penerimaan/standar-biaya-perkuliahan', 'LandingController@standar_biaya_perkuliahan')->name('landing.standar_biaya_perkuliahan');
 Route::get('/penerimaan/beasiswa', 'LandingController@beasiswa')->name('landing.beasiswa');
+Route::get('/penerimaan/pembiayaan-soft-loan', 'LandingController@pembiayaan_soft_loan')->name('landing.pembiayaan_soft_loan');
+// Akademik
+Route::get('/akademik/program-kampus-merdeka', 'LandingController@program_kampus_merdeka')->name('landing.program_kampus_merdeka');
 
 Route::get('/teaser-video-pelatihan', 'LandingController@teaser_video_pelatihan')->name('landing.teaser_video_pelatihan');
 Route::get('/teaser-video-pembelajaran', 'LandingController@teaser_video_pembelajaran')->name('landing.teaser_video_pembelajaran');

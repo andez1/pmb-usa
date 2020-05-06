@@ -86,7 +86,7 @@
 									</tr>
 									<tr>
 										<td>7.</td>
-										<td>Biro Pengembangan Teknologi Informasi</td>
+										<td>Unit Pengembangan Teknologi Informasi</td>
 										<td>:</td>
 										<td>Novi Dian, S.Kom, M.M.S.I.</td>
 										<td>novidian@lms-usa.site</td>
@@ -102,7 +102,7 @@
 									</tr>
 									<tr>
 										<td>9.</td>
-										<td>Biro Inovasi Penelitian dan Pengabdian Kepada Masyarakat</td>
+										<td>Biro Penelitian dan Pengabdian Kepada Masyarakat</td>
 										<td>:</td>
 										<td>R. Muhammad Firza, S.Pd, M.Kom</td>
 										<td>m.firza@lms-usa.site</td>
@@ -110,22 +110,6 @@
 									</tr>
 									<tr>
 										<td>10.</td>
-										<td>Unit Multimedia</td>
-										<td>:</td>
-										<td>Andez Apriansyah, S.Kom</td>
-										<td>andez.apriansyah@lms-usa.site</td>
-										<td><a href="#" class="btn btn-primary">Download CV</a></td>
-									</tr>
-									<tr>
-										<td>11.</td>
-										<td>Unit Social Media</td>
-										<td>:</td>
-										<td>Rizky Muhammad Ashri, S.IKom</td>
-										<td>rizky.ashri@lms-usa.site</td>
-										<td><a href="#" class="btn btn-primary">Download CV</a></td>
-									</tr>
-									<tr>
-										<td>12.</td>
 										<td>Biro Kerjasama Nasional dan Internasional</td>
 										<td>:</td>
 										<td>Inez Saptenno, M.A.</td>
@@ -133,15 +117,15 @@
 										<td><a href="#" class="btn btn-primary">Download CV</a></td>
 									</tr>
 									<tr>
-										<td>13.</td>
-										<td>Biro SDM dan Keuangan</td>
+										<td>11.</td>
+										<td>Biro Administrasi Umum, SDM dan Keuangan</td>
 										<td>:</td>
 										<td>Dr. Karyatun, S.E., M.M.</td>
 										<td>karyatun@lms-usa.site</td>
 										<td><a href="#" class="btn btn-primary">Download CV</a></td>
 									</tr>
 									<tr>
-										<td>14.</td>
+										<td>12.</td>
 										<td>Ketua Program Studi Sistem Informasi</td>
 										<td>:</td>
 										<td>Andrianingsih, S.Kom, M.M.S.I</td>
@@ -149,7 +133,7 @@
 										<td><a href="#" class="btn btn-primary">Download CV</a></td>
 									</tr>
 									<tr>
-										<td>15.</td>
+										<td>13.</td>
 										<td>Ketua Program Studi Manajemen</td>
 										<td>:</td>
 										<td>Drs. Suadi, M.M.</td>
@@ -157,7 +141,7 @@
 										<td><a href="#" class="btn btn-primary">Download CV</a></td>
 									</tr>
 									<tr>
-										<td>16.</td>
+										<td>14.</td>
 										<td>Ketua Program Studi Teknik Informatika</td>
 										<td>:</td>
 										<td>Eri Mardiana, S.Kom, M.Kom</td>
@@ -165,7 +149,7 @@
 										<td><a href="#" class="btn btn-primary">Download CV</a></td>
 									</tr>
 									<tr>
-										<td>17.</td>
+										<td>15.</td>
 										<td>Ketua Program Studi Akuntansi</td>
 										<td>:</td>
 										<td>Dr Bambang Sudibyo</td>
@@ -173,7 +157,7 @@
 										<td><a href="#" class="btn btn-primary">Download CV</a></td>
 									</tr>
 									<tr>
-										<td>18.</td>
+										<td>16.</td>
 										<td>Ketua Program Studi Komunikasi</td>
 										<td>:</td>
 										<td>Rosanah, S.S., M.IKom</td>

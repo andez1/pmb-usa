@@ -33,6 +33,11 @@ class LandingController extends Controller
         return view('landing.standar-biaya-perkuliahan');
     }
 
+    public function pembiayaan_soft_loan()
+    {
+        return view('landing.pembiayaan-soft-loan');
+    }
+
     public function teaser_video_pembelajaran()
     {
         return view('landing.teaser-video-pembelajaran');
@@ -61,6 +66,11 @@ class LandingController extends Controller
     public function jenjang_s1()
     {
         return view('landing.info-pendaftaran-s1');
+    }
+
+    public function program_kampus_merdeka()
+    {
+        return view('landing.program-kampus-merdeka');
     }
 
     public function berita()
