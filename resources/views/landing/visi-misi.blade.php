@@ -309,7 +309,8 @@
 									</ol>
 									<div class="text-center mb-5">
 										<img src="{{ asset('homepages/images/visi-misi.jpg') }}" alt="">
-									</div>
+                                    </div>
+                                    <p>Untuk mewujudkan Visi dan Misi UNSIA 2024, telah dirancang Statuta dan Rencana Strategis sebagaimana berikut ini:</p>
 									<div class="row">
 										<div class="col">
 											<div id="pdfjssatu"></div>
