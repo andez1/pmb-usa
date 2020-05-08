@@ -34,7 +34,7 @@
                             <ol class="ml-4">
                                 <li>
                                     <b>Implementasi Program Kampus Merdeka</b>
-                                    <p class="text-justify">Program kampus merdeka merupakan “hak” yang diberikan kepada mahasiswa dalam kerangka meningkatkan Hard-Skill dan Soft-Skill. Mahasiswa boleh memanfaatkannya atau tidak dan mengikuti jenjang kredit semester sebagaimana proses akademik yang standar. Jenis-jenis implementasi program kampus merderka adalah sebagai berikut:</p>
+                                    <p class="text-justify">Program kampus merdeka merupakan “hak” yang diberikan kepada mahasiswa dalam kerangka meningkatkan Hard-Skill dan Soft-Skill. Mahasiswa boleh memanfaatkannya atau tidak atau mengikuti jenjang kredit semester sebagaimana proses akademik yang standar. Jenis-jenis implementasi program kampus merderka adalah sebagai berikut:</p>
                                     <ol class="ml-4 mb-4">
                                         <li>Mahasiswa dapat mengambil kredit semester (SKS) di luar perguruan tinggi sebanyak 2  semester (setara dengan 40 sks)</li>
                                         <li>Ditambah lagi, dapat mengambil SKS di prodi yang  berbeda di PT yang sama sebanyak 1 semester (setara  dengan 20 sks)</li>

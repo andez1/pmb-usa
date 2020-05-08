@@ -155,8 +155,7 @@
                                         <li><a href="{{ route('landing.faq') }}">FAQ</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="javascript:;">Penerimaan<i
-                                            class="fa fa-chevron-down"></i></a>
+                                <li><a href="javascript:;">Penerimaan<i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu sub">
                                         <li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
                                             <ul class="sub-menu">
@@ -168,11 +167,11 @@
                                         <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya
                                                 Perkuliahan</a></li>
                                         <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
-                                        <li><a href="{{ route('landing.pembiayaan_soft_loan') }}">Pembiayaan Soft Loan</a></li>
+                                        <li><a href="{{ route('landing.pembiayaan_soft_loan') }}">Pembiayaan Soft
+                                                Loan</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="javascript:;">Akademik <i
-                                            class="fa fa-chevron-down"></i></a>
+                                <li><a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu sub">
                                         <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
                                             <ul class="sub-menu">
@@ -203,7 +202,8 @@
                                                         Akademik</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="{{ route('landing.program_kampus_merdeka') }}">Program Kampus Merdeka</a></li>
+                                        <li><a href="{{ route('landing.program_kampus_merdeka') }}">Program Kampus
+                                                Merdeka</a></li>
                                         <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
                                                 Pembelajaran Online</a></li>
                                         <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran
@@ -223,8 +223,7 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="javascript:;">Arsip<i
-                                            class="fa fa-chevron-down"></i></a>
+                                <li><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu">
                                         <li><a href="{{ route('landing.berita') }}">Berita</a></li>
                                         <li><a href="#">Kegiatan</a></li>
@@ -254,80 +253,109 @@
         <!-- Inner Content Box ==== -->
         <div class="page-content">
             <!-- Page Heading Box ==== -->
-        <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
-            <div class="container">
-                <div class="page-banner-entry">
-                    <h1 class="text-white text-uppercase">Visi Misi</h1>
-				 </div>
-            </div>
-        </div>
-		<div class="breadcrumb-row">
-			<div class="container">
-				<ul class="list-inline">
-					<li><a href="#">Beranda</a></li>
-					<li>Tentang UNSIA</li>
-					<li>Visi Misi</li>
-				</ul>
-			</div>
-		</div>
-		<!-- Page Heading Box END ==== -->
-		<!-- Page Content Box ==== -->
-		<div class="content-block">
-            <!-- About Us ==== -->
-			<div class="section-area section-sp1">
+            <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
                 <div class="container">
-					 <div class="row">
-						<div class="col-lg-12 col-md-12 col-sm-12 m-b30">
-							<div class="feature-container">
-								<div class="icon-content mb-2">
-									<ol class="ml-4">
-										<li class="mb-4">
-											<h4>Visi</h4>
-											<p>Menjadi perguruan tinggi unggulan berbasis platform siber yang masuk dalam peringkat 3 besar di tingkat nasional dalam layanan pendidikan tinggi yang berkarakteristik online dan masal dengan mutu world class pada 2024.</p>
-										</li>
-										<li class="mb-4">
-											<h4>Misi</h4>
-											<p>Berdasarkan rumusan visi UNSIA, maka yang menjadi misi UNSIA adalah sebagai berikut:</p>
-											<ol type="a" class="ml-5">
-												<li>Membangun tata kelola kampus online berbasis teknologi informasi yang mendukung layanan pendidikan tinggi secara massive dan online berbasis high-end Smart Digital Technology.</li>
-												<li>Mengembangkan sumber daya dosen dan tenaga kependidikan yang mampu menguasai platform smart digital technology berorientasi pada pengembangan keilmuan dan dan applied skill.</li>
-												<li>Mengembangkan sistem pembelajaran yang berorientasi pada luaran lulusan yang memiliki kemampuan dalam penguasaan applied science dan platform smart digital technology development dan berkarakter mandiri, inovatif, kreatif, mampu bekerja sama dan complex problem solving.</li>
-												<li>Membangun roadmap penelitian dan pengabdian kepada masyarakat berorientasi pada pengembangan Smart Digital Technology untuk berkontribusi pengembangan Revolusi Industri 4.0.</li>
-												<li>Menjalin networking dan kerjasama baik nasional dan internasional untuk mengembangkan kampus berbasis layanan online.</li>
-											</ol>
-										</li>
-										<li class="mb-4">
-											<h4>Tujuan</h4>
-											<ol type="a" class="ml-5">
-												<li>Terselenggaranya pendidikan tinggi berbasis online bertaraf nasional yang dapat bersaing di tataran global</li>
-												<li>Dihasilkannya lulusan yang memiliki integritas, kompetensi, serta daya saing nasional dan internasional.</li>
-												<li>Dihasilkannya karya penelitian dan pengabdian pada masyarakat yang berkontribusi terhadap pengembangan ilmu pengetahuan, teknologi dan kebudayaan baik di tingkat nasional maupun internasional</li>
-												<li>Menghasilkan tata kelola Universitas secara transparan, adil, bertanggung jawab dan kredibel yang mengacu kepada kebijakan pendidikan nasional</li>
-												<li>Terbangunnya jejaring nasional dan internasional untuk memperluas dan memperdalam kerja sama dalam pengembangan ilmu pengetahuan, teknologi dan kebudayaan yang bermanfaat bagi kepentingan bangsa dan Negara</li>
-											</ol>
-										</li>
-									</ol>
-									<div class="text-center mb-5">
-										<img src="{{ asset('homepages/images/visi-misi.jpg') }}" alt="">
-                                    </div>
-                                    <p>Untuk mewujudkan Visi dan Misi UNSIA 2024, telah dirancang Statuta dan Rencana Strategis sebagaimana berikut ini:</p>
-									<div class="row">
-										<div class="col">
-											<div id="pdfjssatu"></div>
-										</div>
-										<div class="col">
-											<div id="pdfjsdua"></div>
-									</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+                    <div class="page-banner-entry">
+                        <h1 class="text-white text-uppercase">Visi Misi</h1>
+                    </div>
+                </div>
             </div>
-			<!-- About Us END ==== -->
-		</div>
-		<!-- Page Content Box END ==== -->
+            <div class="breadcrumb-row">
+                <div class="container">
+                    <ul class="list-inline">
+                        <li><a href="#">Beranda</a></li>
+                        <li>Tentang UNSIA</li>
+                        <li>Visi Misi</li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Page Heading Box END ==== -->
+            <!-- Page Content Box ==== -->
+            <div class="content-block">
+                <!-- About Us ==== -->
+                <div class="section-area section-sp1">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12 m-b30">
+                                <div class="feature-container">
+                                    <div class="icon-content mb-2">
+                                        <ol class="ml-4">
+                                            <li class="mb-4">
+                                                <h4>Visi</h4>
+                                                <p>Menjadi perguruan tinggi unggulan berbasis platform siber yang masuk
+                                                    dalam peringkat 3 besar di tingkat nasional dalam layanan pendidikan
+                                                    tinggi yang berkarakteristik online dan masal dengan mutu world
+                                                    class pada 2024.</p>
+                                            </li>
+                                            <li class="mb-4">
+                                                <h4>Misi</h4>
+                                                <p>Berdasarkan rumusan visi UNSIA, maka yang menjadi misi UNSIA adalah
+                                                    sebagai berikut:</p>
+                                                <ol type="a" class="ml-5">
+                                                    <li>Membangun tata kelola kampus online berbasis teknologi informasi
+                                                        yang mendukung layanan pendidikan tinggi secara massive dan
+                                                        online berbasis high-end Smart Digital Technology.</li>
+                                                    <li>Mengembangkan sumber daya dosen dan tenaga kependidikan yang
+                                                        mampu menguasai platform smart digital technology berorientasi
+                                                        pada pengembangan keilmuan dan dan applied skill.</li>
+                                                    <li>Mengembangkan sistem pembelajaran yang berorientasi pada luaran
+                                                        lulusan yang memiliki kemampuan dalam penguasaan applied science
+                                                        dan platform smart digital technology development dan
+                                                        berkarakter mandiri, inovatif, kreatif, mampu bekerja sama dan
+                                                        complex problem solving.</li>
+                                                    <li>Membangun roadmap penelitian dan pengabdian kepada masyarakat
+                                                        berorientasi pada pengembangan Smart Digital Technology untuk
+                                                        berkontribusi pengembangan Revolusi Industri 4.0.</li>
+                                                    <li>Menjalin networking dan kerjasama baik nasional dan
+                                                        internasional untuk mengembangkan kampus berbasis layanan
+                                                        online.</li>
+                                                </ol>
+                                            </li>
+                                            <li class="mb-4">
+                                                <h4>Tujuan</h4>
+                                                <ol type="a" class="ml-5">
+                                                    <li>Terselenggaranya pendidikan tinggi berbasis online bertaraf
+                                                        nasional yang dapat bersaing di tataran global</li>
+                                                    <li>Dihasilkannya lulusan yang memiliki integritas, kompetensi,
+                                                        serta daya saing nasional dan internasional.</li>
+                                                    <li>Dihasilkannya karya penelitian dan pengabdian pada masyarakat
+                                                        yang berkontribusi terhadap pengembangan ilmu pengetahuan,
+                                                        teknologi dan kebudayaan baik di tingkat nasional maupun
+                                                        internasional</li>
+                                                    <li>Menghasilkan tata kelola Universitas secara transparan, adil,
+                                                        bertanggung jawab dan kredibel yang mengacu kepada kebijakan
+                                                        pendidikan nasional</li>
+                                                    <li>Terbangunnya jejaring nasional dan internasional untuk
+                                                        memperluas dan memperdalam kerja sama dalam pengembangan ilmu
+                                                        pengetahuan, teknologi dan kebudayaan yang bermanfaat bagi
+                                                        kepentingan bangsa dan Negara</li>
+                                                </ol>
+                                            </li>
+                                        </ol>
+                                        <div class="text-center mb-5">
+                                            <img src="{{ asset('homepages/images/visi-misi.jpg') }}" alt="">
+                                        </div>
+                                        <p>Untuk mewujudkan Visi dan Misi UNSIA 2024, telah dirancang Statuta dan
+                                            Rencana Strategis sebagaimana berikut ini:</p>
+                                        <div class="row">
+                                            <div class="col">
+                                                <div id="pdfjssatu"></div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col">
+                                                <div id="pdfjsdua"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- About Us END ==== -->
+            </div>
+            <!-- Page Content Box END ==== -->
         </div>
         <!-- Inner Content Box END ==== -->
         <!-- Footer ==== -->
@@ -502,21 +530,21 @@
     </script>
     <script src="{{ asset('homepages/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js') }}">
     </script>
-	<script src="{{ asset('homepages/vendors/revolution/js/extensions/revolution.extension.video.min.js') }}"></script>
-	{{-- pdf js --}}
+    <script src="{{ asset('homepages/vendors/revolution/js/extensions/revolution.extension.video.min.js') }}"></script>
+    {{-- pdf js --}}
     <script src="{{ asset('homepages/pdf-js/jquery-3.5.1.min.js') }}"></script>
-	<script src="{{ asset('homepages/pdf-js/pdfobject.min.js') }}"></script>
+    <script src="{{ asset('homepages/pdf-js/pdfobject.min.js') }}"></script>
     {{-- pdf js end --}}
     {{-- pdf js --}}
-		<script>
-			var viewer = $('#pdfjssatu');
+    <script>
+        var viewer = $('#pdfjssatu');
 			PDFObject.embed('{{ asset('homepages/documents/Rencana Strategis UNSIA 2020-2024.pdf') }}', viewer);
-		</script>
-		<script>
-			var viewer = $('#pdfjsdua');
+    </script>
+    <script>
+        var viewer = $('#pdfjsdua');
 			PDFObject.embed('{{ asset('homepages/documents/Statuta Universitas Siber Asia.pdf') }}', viewer);
-		</script>
-		{{-- pdf js end --}}
+    </script>
+    {{-- pdf js end --}}
     <script>
         jQuery(document).ready(function () {
             var ttrevapi;
@@ -639,7 +667,7 @@
                 }
             });
         }).scroll();
-	</script>
+    </script>
 </body>
 
 </html>

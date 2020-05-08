@@ -34,7 +34,8 @@
                                 <a class="nav-link" href="{{ url('/manajemen-kontemporer') }}">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="{{ url('/manajemen-kontemporer/profil') }}">Profil Program Studi</a>
+                                <a class="nav-link active" href="{{ url('/manajemen-kontemporer/profil') }}">Profil
+                                    Program Studi</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/manajemen-kontemporer/kurikulum') }}">Kurikulum</a>
@@ -43,16 +44,20 @@
                                 <a class="nav-link" href="{{ url('/manajemen-kontemporer/keunggulan') }}">Keunggulan</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/prospek-karir') }}">Prospek Karir</a>
+                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/prospek-karir') }}">Prospek
+                                    Karir</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/manajemen-kontemporer/dosen') }}">Dosen</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/profil-lulusan') }}">Profil Lulusan</a>
+                                <a class="nav-link" href="{{ url('/manajemen-kontemporer/profil-lulusan') }}">Profil
+                                    Lulusan</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('manajemen-kontemporer.capaian_pembelajaran_lulusan') }}">Capaian Pembelajaran Lulusan</a>
+                                <a class="nav-link"
+                                    href="{{ route('manajemen-kontemporer.capaian_pembelajaran_lulusan') }}">Capaian
+                                    Pembelajaran Lulusan</a>
                             </li>
                         </ul>
                         <div class="icon-content mb-2">
@@ -64,7 +69,9 @@
                                 </tr>
                                 <tr>
                                     <th>Website</th>
-                                    <td><a href="https://pmb.lms-usa.site/manajemen-kontemporer">https://pmb.lms-usa.site/manajemen-kontemporer</a></td>
+                                    <td><a
+                                            href="https://pmb.lms-usa.site/manajemen-kontemporer">https://pmb.lms-usa.site/manajemen-kontemporer</a>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <th>Jenjang</th>
@@ -76,20 +83,33 @@
                                 </tr>
                                 <tr>
                                     <th>Syarat Pendidikan</th>
-                                    <td>Lulus Sekolah Menengah Tingkat Atas (SMTA) dan Lulus Seleksi Mahasiswa Baru</td>
+                                    <td>Lulusan SMA/SMK dan Se-derajat, Pindahan, dan Lanjutan</td>
                                 </tr>
                                 <tr>
                                     <th>Lama Studi</th>
                                     <td>8 Semester</td>
                                 </tr>
                                 <tr>
+                                    <th>Kredit Semester</th>
+                                    <td>Minimal 144 SKS</td>
+                                </tr>
+                                <tr>
                                     <th>Info Admisi</th>
-                                    <td><a href="#">Jadwal</a>, <a href="#">Syarat</a>, <a href="#">Prosedur
-                                            Pendaftaran</a>, <a href="#">Biaya Kuliah</a></td>
+                                    <td>
+                                        <ul class="ml-4">
+                                            <li><a href="#">Jadwal</a></li>
+                                            <li><a href="{{ route('landing.jenjang_s1') }}">Syarat</a>
+                                            </li>
+                                            <li><a href="{{ route('landing.jenjang_s1') }}">Prosedur Pendaftaran</a>
+                                            </li>
+                                            <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Biaya
+                                                    Kuliah</a></li>
+                                        </ul>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <th>Pendaftaran</th>
-                                    <td><a href="#">Daftar Online</a></td>
+                                    <td><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar Online</a></td>
                                 </tr>
                             </table>
                             <h4>Profil</h4>
