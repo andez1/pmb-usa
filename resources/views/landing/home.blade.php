@@ -72,8 +72,12 @@
                                 <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a
                                         Question</a>
                                 </li>
-                                <li><a href="javascript:;"><i
+                                <li><a href="mailto:asiacyberuniv@lms-usa.site"><i
                                             class="fa fa-envelope-o"></i>asiacyberuniv@lms-usa.site</a>
+                                </li>
+                                <li><a href="http://lms-usa.site/webmail" target="_blank"><i
+                                            class="fa fa-envelope-open-o"></i>Web
+                                        Mail</a>
                                 </li>
                             </ul>
                         </div>
@@ -144,7 +148,8 @@
                                     <ul class="sub-menu">
                                         <li><a href="{{ route('landing.salam_rektor') }}">Salam Rektor</i></a></li>
                                         <li><a href="{{ route('landing.kenapa_unsia') }}">Kenapa UNSIA?</i></a></li>
-                                        <li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan dan Manfaat UNSIA</i></a>
+                                        <li><a href="{{ route('landing.keunggulan_unsia') }}">Keunggulan dan Manfaat
+                                                UNSIA</i></a>
                                         </li>
                                         <li><a href="{{ route('landing.list_of_partner') }}">List of Partner</i></a>
                                         </li>
@@ -167,9 +172,11 @@
                                                 <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya Perkuliahan</a></li>
+                                        <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya
+                                                Perkuliahan</a></li>
                                         <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
-                                        <li><a href="{{ route('landing.pembiayaan_soft_loan') }}">Pembiayaan Soft Loan</a></li>
+                                        <li><a href="{{ route('landing.pembiayaan_soft_loan') }}">Pembiayaan Soft
+                                                Loan</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-sub"><a href="javascript:;">Akademik <i
@@ -207,7 +214,8 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li><a href="{{ route('landing.program_kampus_merdeka') }}">Program Kampus Merdeka</a></li>
+                                        <li><a href="{{ route('landing.program_kampus_merdeka') }}">Program Kampus
+                                                Merdeka</a></li>
                                         <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
                                                 Pembelajaran Online</a></li>
                                         <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran
@@ -220,9 +228,12 @@
                                 </li>
                                 <li><a href="javascript:;">Fasilitas<i class="fa fa-chevron-down"></i></a>
                                     <ul class="sub-menu">
-                                        <li><a href="{{ route('landing.learning_community') }}">Learning Community</i></a></li>
-                                        <li><a href="{{ route('landing.laboratorium_virtual') }}">Laboratorium Virtual</i></a></li>
-                                        <li><a href="{{ route('landing.studio_multimedia') }}">Studio Multimedia</i></a></li>
+                                        <li><a href="{{ route('landing.learning_community') }}">Learning
+                                                Community</i></a></li>
+                                        <li><a href="{{ route('landing.laboratorium_virtual') }}">Laboratorium
+                                                Virtual</i></a></li>
+                                        <li><a href="{{ route('landing.studio_multimedia') }}">Studio Multimedia</i></a>
+                                        </li>
                                     </ul>
                                 </li>
                                 <li><a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
@@ -497,584 +508,653 @@
                     </div>
                 </div>
 
-    <!-- Popular Courses -->
-    <section class="section-area section-sp2 popular-courses-bx page-section" style="padding-top:2.5em !important;">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 heading-bx left">
-                    <h2 class="title-head">Program <span>Studi</span></h2>
-                    <p style="text-align: justify">Universitas Siber Asia telah mempersiapkan dua Program Studi Strata 1
-                        (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan Sistem Informasi.
-                        Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik Informatika,
-                        Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="courses-carousel owl-carousel owl-btn-1 col-12 p-lr0">
-                    <div class="item">
-                        <div class="cours-bx">
-                            <div class="action-box">
-                                <img src="{{ asset('homepages/images/courses/img4.jpg') }}" alt="">
-                                <a href="{{ url('/manajemen-kontemporer') }}" class="btn">Read More</a>
-                            </div>
-                            <div class="info-bx d-flex justify-content-center" style="height: 80px;">
-                                <h5>Manajemen Kontemporer</h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="cours-bx">
-                            <div class="action-box">
-                                <img src="{{ asset('homepages/images/courses/img2.jpg') }}" alt="">
-                                <a href="{{ url('/sistem-informasi') }}" class="btn">Read More</a>
-                            </div>
-                            <div class="info-bx d-flex justify-content-center" style="height: 80px;">
-                                <h5>Sistem Informasi</h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="cours-bx">
-                            <div class="action-box">
-                                <img src="{{ asset('homepages/images/courses/img5.jpg') }}" alt="">
-                                <a href="{{ url('/teknologi-informasi') }}" class="btn">Read More</a>
-                            </div>
-                            <div class="info-bx d-flex justify-content-center" style="height: 80px;">
-                                <h5>Teknologi Informasi</h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="cours-bx">
-                            <div class="action-box">
-                                <img src="{{ asset('homepages/images/courses/img1.jpg') }}" alt="">
-                                <a href="{{ url('/akuntansi-dan-perpajakan') }}" class="btn">Read More</a>
-                            </div>
-                            <div class="info-bx d-flex justify-content-center" style="height: 80px;">
-                                <h5>Akuntansi dan Perpajakan</h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="cours-bx">
-                            <div class="action-box">
-                                <img src="{{ asset('homepages/images/courses/img3.jpg') }}" alt="">
-                                <a href="{{ url('/penyiaran-dan-komunikasi-digital') }}" class="btn">Read More</a>
-                            </div>
-                            <div class="info-bx text-center d-flex justify-content-center" style="height: 80px;">
-                                <h5>Penyiaran dan Komunikasi Digital</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Popular Courses END -->
-
-    <!-- Form -->
-    <div class="section-area section-sp1 ovpr-dark bg-fix online-course"
-        style="background-image:url('{{ asset('homepages/images/background/bg1.jpg') }}');">
-        <div class="container">
-            <div class="mw1000 m-auto">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6">
-                        <div class="cours-search-bx m-b30 box-icon">
-                            <div class="icon-box">
-                                <h3><i class="ti-user"></i></h3>
-                            </div>
-                            <span class="cours-search-text">LMS bisa menampung jutaan mahasiswa</span>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="cours-search-bx m-b30 box-icon">
-                            <div class="icon-box">
-                                <h3><i class="ti-book"></i></h3>
-                            </div>
-                            <span class="cours-search-text">Tersedia koleksi E-Book ribuan file dan free download</span>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="cours-search-bx m-b30 box-icon">
-                            <div class="icon-box">
-                                <h3><i class="ti-layout-list-post"></i></h3>
-                            </div>
-                            <span class="cours-search-text">Belajar dan Beraktifitas Online di LMS</span>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="cours-search-bx m-b30 box-icon">
-                            <div class="icon-box">
-                                <h3><i class="ti-cup"></i></h3>
-                            </div>
-                            <span class="cours-search-text">Kuliah Full Online menunjang karir dan cita-cita</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col d-flex justify-content-center" style="background-color : white; padding : 24px;">
-                        <div class="row d-flex justify-content-center">
-                            <div class="link-web">
-                                <a href="http://portal.koreaswt.com/portal/login">
-                                    <div class="col mr-2 linklms">
-                                        <div class="text-center mb-5 imglms">
-                                            <img src="{{ asset('homepages/images/icon/academic.png') }}" width="128px"
-                                                alt="">
-                                        </div>
-                                        Learning Manajemen Sistem
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="link-web">
-                                <a href="http://library.usahakecilmendigital.com/">
-                                    <div class="col mr-2 ml-2 linkdigilib">
-                                        <div class="text-center mb-5 imgdigilib">
-                                            <img src="{{ asset('homepages/images/icon/book.png') }}" width="128px"
-                                                alt="">
-                                        </div>
-                                        Digital Library UNSIA
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="link-web">
-                                <a href="http://asiacyberuniversity.siakadcloud.com/">
-                                    <div class="col ml-2 linkinfo">
-                                        <div class="text-center mb-5 imginfo">
-                                            <img src="{{ asset('homepages/images/icon/information.png') }}"
-                                                width="128px" alt="">
-                                        </div>
-                                        Sistem Informasi Akademik
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Form END -->
-    <section class="section-area section-sp2 page-section" id="akademik">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-center heading-bx">
-                    <h2 class="title-head m-b0">Agenda <span>Kampus</span></h2>
-                    <p class="m-b0">Upcoming Education Events To Feed Brain. </p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="upcoming-event-carousel owl-carousel owl-btn-center-lr owl-btn-1 col-12 p-lr0  m-b30">
-                    <div class="item">
-                        <div class="event-bx">
-                            <div class="action-box">
-                                <img src="{{ asset('homepages/images/event/img1.jpg') }}" alt="">
-                            </div>
-                            <div class="info-bx d-flex">
-                                <div>
-                                    <div class="event-time">
-                                        <div class="event-date">20</div>
-                                        <div class="event-month">Agustus</div>
-                                    </div>
-                                </div>
-                                <div class="event-info">
-                                    <h4 class="event-title"><a href="#">Seminar Bisnis Internet Gratis "BOOST"</a></h4>
-                                    <ul class="media-post">
-                                        <li><a href="#"><i class="fa fa-clock-o"></i> 6:30 PM – 8:30 PM WIB</a></li>
-                                        <li><a href="#"><i class="fa fa-map-marker"></i> Tower Central Park, Jakarta</a>
-                                        </li>
-                                    </ul>
-                                    <p>
-                                        Jangan sampai Anda mengalami kesalahan FATAL yang dialami oleh lebih dari 90%
-                                        orang yang TERJUN ke bisnis internet.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="event-bx">
-                            <div class="action-box">
-                                <img src="{{ asset('homepages/images/event/img2.jpg') }}" alt="">
-                            </div>
-                            <div class="info-bx d-flex">
-                                <div>
-                                    <div class="event-time">
-                                        <div class="event-date">4</div>
-                                        <div class="event-month">September</div>
-                                    </div>
-                                </div>
-                                <div class="event-info">
-                                    <h4 class="event-title"><a href="#">Indonesia Fintech Forum 2019</a></h4>
-                                    <ul class="media-post">
-                                        <li><a href="#"><i class="fa fa-clock-o"></i> 8:00 AM – 3:30 PM</a></li>
-                                        <li><a href="#"><i class="fa fa-map-marker"></i> Dhanapala Building, Jakarta</a>
-                                        </li>
-                                    </ul>
-                                    <p>
-                                        We realize networking is a major drawcard for Indonesia Fintech Forum 2019. The
-                                        organizers will be bringing a business matchmaking segment.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="event-bx">
-                            <div class="action-box">
-                                <img src="{{ asset('homepages/images/event/img3.jpg') }}" alt="">
-                            </div>
-                            <div class="info-bx d-flex">
-                                <div>
-                                    <div class="event-time">
-                                        <div class="event-date">9</div>
-                                        <div class="event-month">November</div>
-                                    </div>
-                                </div>
-                                <div class="event-info">
-                                    <h4 class="event-title"><a href="#">Terapi Ngomong Inggris 2019</a></h4>
-                                    <ul class="media-post">
-                                        <li><a href="#"><i class="fa fa-clock-o"></i> 08.00 AM - 5.00 PM</a></li>
-                                        <li><a href="#"><i class="fa fa-map-marker"></i> Kota Tua, Jakarta</a></li>
-                                    </ul>
-                                    <p>
-                                        Terapi Ngomong Inggris is practicing English with native speakers & fun games at
-                                        Jakarta (Kota Tua & Monas) that held by ngomonginggris.com for free.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="text-center">
-                <a href="#" class="btn">View All Event</a>
-            </div>
-        </div>
-    </section>
-
-    <!-- Testimonials -->
-    <div class="section-area section-sp2 bg-fix ovbl-dark"
-        style="background-image:url('{{ asset('homepages/images/background/bg2.jpg') }}');">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-white heading-bx left">
-                    <h2 class="title-head text-uppercase">Salam <span>Rektor</span></h2>
-                    <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page</p> -->
-                </div>
-            </div>
-            <div class="item">
-                <div class="testimonial-bx">
-                    <div class="testimonial-thumb">
-                        <img src="{{ asset('homepages/images/dr-cho.jpg') }}" alt="">
-                    </div>
-                    <div class="testimonial-info">
-                        <h5 class="name">Prof. Cho, Jang Youn Ph.D., CPA</h5>
-                        <p>Rektor</p>
-                    </div>
-                    <div class="testimonial-content">
-                        <p style="padding-bottom: 0.5em; text-align: justify;">
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selamat datang di Universitas Siber pertama di Indonesia,
-                            Universitas Siber Asia / Asia Cyber University. Universitas kami didirikan sejak 2019 untuk
-                            memenuhi kebutuhan abad ke 21, pemimpin professional dalam masyarakat digital yang cerdas
-                            dalam era revolusi industri ke 4.
-                        </p>
-                        <p style="padding-bottom: 0.5em; text-align: justify;">
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indonesia adalah negara kepulauan yang terdiri dari hampir
-                            17.000 pulau dengan populasi sekitar 270 juta penduduk. Maka dari itu, Indonesia memiliki
-                            kesempatan yang strategis untuk menjadi pemain kunci dalam kompetisi global, memimpin pasar
-                            ekonomi digital. Ini membutuhkan pengembangan Sumber Daya Manusia yang memiliki keterampilan
-                            utama dalam hal literasi Teknologi Informasi dan Sains terapan. Untuk memenuhi tujuan ini,
-                            Pendidikan secara massif yang diselenggarakan melalui Sistem Pendidikan tinggi adalah
-                            satu-satunya solusi mengingat perbedaan kondisi geografis di Indonesia sekaligus perbedaan
-                            kualitas.
-                        </p>
-                        <p style="padding-bottom: 0.5em; text-align: justify;">
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setiap tahun, lebih dari 2 juta orang berbakat yang tamat dari
-                            Sekolah Menengah Atas kehilangan kesempatan untuk melanjutkan Pendidikan tinggi, kasus
-                            terbanyak disebabkan oleh masalah ekonomi dan masalah-masalah penting lainnya. Universitas
-                            Siber kami menyediakan solusi yang akan menyediakan layanan pendidikan berkualitas terbaik,
-                            kapanpun, dan dimanapun anda, tanpa bias apapun, dengan biaya Pendidikan yang terjangkau.
-                            Pendidikan Tinggi berbasis daring dapat membawa Anda menuju puncak melalui sebuah sistem
-                            pembelajaran yang dapat di akses dimana saja tanpa perlu berada di kota besar. Sistem
-                            Pembelajaran Online memandu setiap siswa untuk menjadi pembelajar yang aktif dan penuh
-                            kegembiraan melalui aktivitas interaktif dan didukung oleh materi digital dalam Sistem
-                            Manajemen Pembelajaran (Learning Management System).
-                        </p>
-                        <p style="padding-bottom: 0.5em; text-align: justify;">
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anda akan menjadi kelompok pionir untuk mendobrak bias yang
-                            menggambarkan bahwa Pendidikan hanya mungkin dilakukan bila melalui fasilitas fisik. Anda
-                            akan mencapai perkuliahan kelas dunia dengan dukungan teratas dari staf professional dan
-                            teknologi pendidikan kami. Selamat datang dan semoga kita dapat memulai perjalanan bersama
-                            untuk menuliskan cerita sukses Anda, bersama kami.
-                        </p>
-                        <p style="padding-bottom: 0.5em;">
-                            Hormat kami,
-                        </p>
-                        <p style="padding-bottom: 0.5em;">
-                            Rektor,
-                        </p>
-                        <p style="padding-bottom: 0.5em;">
-                            Prof. Cho, Jang Youn Ph.D., CPA.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonials END -->
-
-    <!-- Recent News -->
-    <section class="section-area section-sp2 page-section" id="berita">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 heading-bx left">
-                    <h2 class="title-head">Berita <span>Terbaru</span></h2>
-                    <p>Artikel-artikel terbaru tentang Universitas Siber Asia</p>
-                </div>
-            </div>
-            <div class="recent-news-carousel owl-carousel owl-btn-1 col-12 p-lr0">
-                <div class="item">
-                    <div class="recent-news">
-                        <div class="action-box">
-                            <img src="{{ asset('homepages/images/berita/beranda/satu.jpg') }}" alt="">
-                        </div>
-                        <div class="info-bx">
-                            <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Agustus 26, 2019</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
-                            </ul>
-                            <h5 class="post-title"><a
-                                    href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/">YMIK
-                                    Terima Izin Pendirian Universitas Siber Pertama di Indonesia</a></h5>
-                            <p>BALI (YMIK) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menerima izin prinsip
-                                pendirian Universitas Siber Asia dari ...</p>
-                            <div class="post-extra">
-                                <a href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/"
-                                    class="btn-link">READ MORE</a>
-                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>20 Comment</a> --}}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="item">
-                    <div class="recent-news">
-                        <div class="action-box">
-                            <img src="{{ asset('homepages/images/berita/beranda/dua.jpg') }}" alt="">
-                        </div>
-                        <div class="info-bx">
-                            <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>Februari 13, 2017</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
-                            </ul>
-                            <h5 class="post-title"><a
-                                    href="https://www.unas.ac.id/berita/universitas-nasional-resmikan-gedung-kuliah-baru/">YMIK RESMIKAN GEDUNG KULIAH BARU</a></h5>
-                            <p>JAKARTA (UNAS) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menambah fasilitas baru untuk perkuliahan, dengan meresmikan Gedung baru di kawasan Jakarta Selatan. Gedung ...</p>
-                            <div class="post-extra">
-                                <a href="https://www.unas.ac.id/berita/universitas-nasional-resmikan-gedung-kuliah-baru/"
-                                    class="btn-link">READ MORE</a>
-                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>14 Comment</a> --}}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="recent-news">
-                        <div class="action-box">
-                            <img src="{{ asset('homepages/images/berita/beranda/tiga.jpg') }}" alt="">
-                        </div>
-                        <div class="info-bx">
-                            <ul class="media-post">
-                                <li><a href="#"><i class="fa fa-calendar"></i>September 4, 2016</a></li>
-                                <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
-                            </ul>
-                            <h5 class="post-title"><a href="https://www.unas.ac.id/berita/4665/">Rintis Cyber University
-                                    dengan Universitas Korea Selatan</a></h5>
-                            <p>JAKARTA (UNAS) – Yayasan Memajukan Ilmu dan Kebudayaan, melalui Universitas Nasional
-                                kembali meningkatkan kerjasama dengan ...</p>
-                            <div class="post-extra">
-                                <a href="https://www.unas.ac.id/berita/4665/" class="btn-link">READ MORE</a>
-                                {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>23 Comment</a> --}}
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!-- Recent News End -->
-
-    <!-- Testimonials -->
-    <div class="section-area section-sp2 bg-fix ovbl-dark"
-        style="background-image:url('{{ asset('homepages/images/background/bg2.jpg') }}');">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-white heading-bx left">
-                    <h2 class="title-head text-uppercase">Video Teaser</h2>
-                    <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page</p> -->
-                </div>
-            </div>
-            <div class="row row-cols-1 row-cols-md-2">
-                <div class="col mb-4">
-                    <div class="card">
-                        <video controls src="{{ asset('homepages/images/video/teaservideo1.mp4') }}"></video>
-                        <div class="card-body">
-                            <h5 class="card-title">Video Teaser Pelatihan</h5>
-                            <p class="card-text">Universitas Siber Asia secara regular atau setiap akhir semester
-                                menyelenggarakan Pelatihan Profesional Bersertifikasi dengan tujuan untuk mempersiapkan
-                                lulusan yang siap berkiprah di dunia kerja dalam Era Smart Digital Economy. Pelatihan
-                                secara rutin diumumkan dalam kalender akademik mahasiswa wajib mengikuti pelatihan
-                                tersebut secara online.</p>
-                            <a href="{{ route('landing.teaser_video_pelatihan') }}" class="btn btn-primary">Read
-                                More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col mb-4">
-                    <div class="card">
-                        <video controls src="{{ asset('homepages/images/video/teaservideo2.mp4') }}"></video>
-                        <div class="card-body">
-                            <h5 class="card-title">Video Teaser Pembelajaran</h5>
-                            <p class="card-text">Salah satu materi utama pembelajaran online dalam LMS
-                                (Learning Management System) adalah tersedianya video pembelajaran di setiap minggu
-                                perkuliahan. Anda dapat mengaksesnya setiap minggu dengan berulang-ulang untuk dapat
-                                memperjelas pemahaman anda tentang materi yang dirancang setiap minggu.</p>
-                            <a href="{{ route('landing.teaser_video_pembelajaran') }}" class="btn btn-primary">Read
-                                More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonials END -->
-    </div>
-    <!-- contact area END -->
-    </div>
-    <!-- Content END-->
-    <!-- Footer ==== -->
-    <footer>
-        <div class="footer-top">
-            <div class="pt-exebar">
-                <div class="container">
-                    <div class="d-flex align-items-stretch">
-                        <div class="pt-logo mr-auto">
-                            <a href="/"><img src="{{ asset('homepages/images/logo-usa.png') }}" alt=""
-                                    width="211px" /></a>
-                        </div>
-                        <div class="pt-social-link">
-                            <ul class="list-inline m-a0">
-                                <li><a href="#" class="btn-link"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#" class="btn-link"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i
-                                            class="fa fa-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="pt-btn-join">
-                            <a href="http://portal.koreaswt.com/apply/index.jsp" class="btn ">Daftar Sekarang</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-md-12 col-sm-12 footer-col-4">
-                        <div class="widget">
-                            <h5 class="footer-title">Ikuti Kami</h5>
-                            <p class="m-b20">Masukkan email anda untuk mengetahui info terupdate dari kami</p>
-                            <div class="subscribe-form m-b20">
-                                <form class="subscription-form" action="#" method="post">
-                                    <div class="ajax-message"></div>
-                                    <div class="input-group">
-                                        <input name="email" required="required" class="form-control"
-                                            placeholder="Your Email Address" type="email">
-                                        <span class="input-group-btn">
-                                            <button name="submit" value="Submit" type="submit" class="btn"><i
-                                                    class="fa fa-arrow-right"></i></button>
-                                        </span>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-5 col-md-7 col-sm-12">
+                <!-- Popular Courses -->
+                <section class="section-area section-sp2 popular-courses-bx page-section"
+                    style="padding-top:2.5em !important;">
+                    <div class="container">
                         <div class="row">
-                            <div class="col-4 col-lg-4 col-md-4 col-sm-4">
-                                <div class="widget footer_widget">
-                                    <h5 class="footer-title">UNSIA</h5>
-                                    <ul>
-                                        <li><a href="/">Beranda</a></li>
-                                        <li><a href="{{ route('landing.about') }}">Tentang Kami</a></li>
-                                        <li><a href="{{ route('landing.faq') }}">Tanya Jawab</a></li>
-                                        <li><a href="{{ route('landing.kontak') }}">Kontak</a></li>
-                                    </ul>
-                                </div>
+                            <div class="col-md-12 heading-bx left">
+                                <h2 class="title-head">Program <span>Studi</span></h2>
+                                <p style="text-align: justify">Universitas Siber Asia telah mempersiapkan dua Program
+                                    Studi Strata 1
+                                    (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan
+                                    Sistem Informasi.
+                                    Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik
+                                    Informatika,
+                                    Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
                             </div>
-                            <div class="col-8 col-lg-8 col-md-8 col-sm-8">
-                                <div class="widget footer_widget">
-                                    <h5 class="footer-title">Program Studi</h5>
-                                    <ul>
-                                        <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a></li>
-                                        <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
-                                        <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
-                                        <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
-                                                Perpajakan</a></li>
-                                        <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan
-                                                Komunikasi Digital</a></li>
-                                    </ul>
+                        </div>
+                        <div class="row">
+                            <div class="courses-carousel owl-carousel owl-btn-1 col-12 p-lr0">
+                                <div class="item">
+                                    <div class="cours-bx">
+                                        <div class="action-box">
+                                            <img src="{{ asset('homepages/images/courses/img4.jpg') }}" alt="">
+                                            <a href="{{ url('/manajemen-kontemporer') }}" class="btn">Read More</a>
+                                        </div>
+                                        <div class="info-bx d-flex justify-content-center" style="height: 80px;">
+                                            <h5>Manajemen Kontemporer</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="cours-bx">
+                                        <div class="action-box">
+                                            <img src="{{ asset('homepages/images/courses/img2.jpg') }}" alt="">
+                                            <a href="{{ url('/sistem-informasi') }}" class="btn">Read More</a>
+                                        </div>
+                                        <div class="info-bx d-flex justify-content-center" style="height: 80px;">
+                                            <h5>Sistem Informasi</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="cours-bx">
+                                        <div class="action-box">
+                                            <img src="{{ asset('homepages/images/courses/img5.jpg') }}" alt="">
+                                            <a href="{{ url('/teknologi-informasi') }}" class="btn">Read More</a>
+                                        </div>
+                                        <div class="info-bx d-flex justify-content-center" style="height: 80px;">
+                                            <h5>Teknologi Informasi</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="cours-bx">
+                                        <div class="action-box">
+                                            <img src="{{ asset('homepages/images/courses/img1.jpg') }}" alt="">
+                                            <a href="{{ url('/akuntansi-dan-perpajakan') }}" class="btn">Read More</a>
+                                        </div>
+                                        <div class="info-bx d-flex justify-content-center" style="height: 80px;">
+                                            <h5>Akuntansi dan Perpajakan</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="cours-bx">
+                                        <div class="action-box">
+                                            <img src="{{ asset('homepages/images/courses/img3.jpg') }}" alt="">
+                                            <a href="{{ url('/penyiaran-dan-komunikasi-digital') }}" class="btn">Read
+                                                More</a>
+                                        </div>
+                                        <div class="info-bx text-center d-flex justify-content-center"
+                                            style="height: 80px;">
+                                            <h5>Penyiaran dan Komunikasi Digital</h5>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-3 col-md-5 col-sm-12 footer-col-4">
-                        <div class="widget widget_gallery gallery-grid-4">
-                            <h5 class="footer-title">Galeri Kami</h5>
-                            <ul class="magnific-image">
-                                <li><a href="{{ asset('homepages/images/gallery/pic1.jpg') }}"
-                                        class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/thumbnail1.jpg') }}" alt=""></a></li>
-                                <li><a href="{{ asset('homepages/images/gallery/pic2.jpg') }}"
-                                        class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/thumbnail2.jpg') }}" alt=""></a></li>
-                                <li><a href="{{ asset('homepages/images/gallery/pic3.jpg') }}"
-                                        class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/thumbnail3.jpg') }}" alt=""></a></li>
-                                <li><a href="{{ asset('homepages/images/gallery/pic4.jpg') }}"
-                                        class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/thumbnail4.jpg') }}" alt=""></a></li>
-                                <li><a href="{{ asset('homepages/images/gallery/pic5.jpg') }}"
-                                        class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/thumbnail5.jpg') }}" alt=""></a></li>
-                                <li><a href="{{ asset('homepages/images/gallery/pic6.jpg') }}"
-                                        class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/thumbnail6.jpg') }}" alt=""></a></li>
-                                <li><a href="{{ asset('homepages/images/gallery/pic7.jpg') }}"
-                                        class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/thumbnail7.jpg') }}" alt=""></a></li>
-                                <li><a href="{{ asset('homepages/images/gallery/pic8.jpg') }}"
-                                        class="magnific-anchor"><img
-                                            src="{{ asset('homepages/images/gallery/thumbnail8.jpg') }}" alt=""></a></li>
-                            </ul>
+                </section>
+                <!-- Popular Courses END -->
+
+                <!-- Form -->
+                <div class="section-area section-sp1 ovpr-dark bg-fix online-course"
+                    style="background-image:url('{{ asset('homepages/images/background/bg1.jpg') }}');">
+                    <div class="container">
+                        <div class="mw1000 m-auto">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="cours-search-bx m-b30 box-icon">
+                                        <div class="icon-box">
+                                            <h3><i class="ti-user"></i></h3>
+                                        </div>
+                                        <span class="cours-search-text">LMS bisa menampung jutaan mahasiswa</span>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="cours-search-bx m-b30 box-icon">
+                                        <div class="icon-box">
+                                            <h3><i class="ti-book"></i></h3>
+                                        </div>
+                                        <span class="cours-search-text">Tersedia koleksi E-Book ribuan file dan free
+                                            download</span>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-12">
+                                    <div class="cours-search-bx m-b30 box-icon">
+                                        <div class="icon-box">
+                                            <h3><i class="ti-layout-list-post"></i></h3>
+                                        </div>
+                                        <span class="cours-search-text">Belajar dan Beraktifitas Online di LMS</span>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-12">
+                                    <div class="cours-search-bx m-b30 box-icon">
+                                        <div class="icon-box">
+                                            <h3><i class="ti-cup"></i></h3>
+                                        </div>
+                                        <span class="cours-search-text">Kuliah Full Online menunjang karir dan
+                                            cita-cita</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col d-flex justify-content-center"
+                                    style="background-color : white; padding : 24px;">
+                                    <div class="row d-flex justify-content-center">
+                                        <div class="link-web">
+                                            <a href="http://portal.koreaswt.com/portal/login">
+                                                <div class="col mr-2 linklms">
+                                                    <div class="text-center mb-5 imglms">
+                                                        <img src="{{ asset('homepages/images/icon/academic.png') }}"
+                                                            width="128px" alt="">
+                                                    </div>
+                                                    Learning Manajemen Sistem
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="link-web">
+                                            <a href="http://library.usahakecilmendigital.com/">
+                                                <div class="col mr-2 ml-2 linkdigilib">
+                                                    <div class="text-center mb-5 imgdigilib">
+                                                        <img src="{{ asset('homepages/images/icon/book.png') }}"
+                                                            width="128px" alt="">
+                                                    </div>
+                                                    Digital Library UNSIA
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="link-web">
+                                            <a href="http://asiacyberuniversity.siakadcloud.com/">
+                                                <div class="col ml-2 linkinfo">
+                                                    <div class="text-center mb-5 imginfo">
+                                                        <img src="{{ asset('homepages/images/icon/information.png') }}"
+                                                            width="128px" alt="">
+                                                    </div>
+                                                    Sistem Informasi Akademik
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Form END -->
+                <section class="section-area section-sp2 page-section" id="akademik">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 text-center heading-bx">
+                                <h2 class="title-head m-b0">Agenda <span>Kampus</span></h2>
+                                <p class="m-b0">Upcoming Education Events To Feed Brain. </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div
+                                class="upcoming-event-carousel owl-carousel owl-btn-center-lr owl-btn-1 col-12 p-lr0  m-b30">
+                                <div class="item">
+                                    <div class="event-bx">
+                                        <div class="action-box">
+                                            <img src="{{ asset('homepages/images/event/img1.jpg') }}" alt="">
+                                        </div>
+                                        <div class="info-bx d-flex">
+                                            <div>
+                                                <div class="event-time">
+                                                    <div class="event-date">20</div>
+                                                    <div class="event-month">Agustus</div>
+                                                </div>
+                                            </div>
+                                            <div class="event-info">
+                                                <h4 class="event-title"><a href="#">Seminar Bisnis Internet Gratis
+                                                        "BOOST"</a></h4>
+                                                <ul class="media-post">
+                                                    <li><a href="#"><i class="fa fa-clock-o"></i> 6:30 PM – 8:30 PM
+                                                            WIB</a></li>
+                                                    <li><a href="#"><i class="fa fa-map-marker"></i> Tower Central Park,
+                                                            Jakarta</a>
+                                                    </li>
+                                                </ul>
+                                                <p>
+                                                    Jangan sampai Anda mengalami kesalahan FATAL yang dialami oleh lebih
+                                                    dari 90%
+                                                    orang yang TERJUN ke bisnis internet.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="event-bx">
+                                        <div class="action-box">
+                                            <img src="{{ asset('homepages/images/event/img2.jpg') }}" alt="">
+                                        </div>
+                                        <div class="info-bx d-flex">
+                                            <div>
+                                                <div class="event-time">
+                                                    <div class="event-date">4</div>
+                                                    <div class="event-month">September</div>
+                                                </div>
+                                            </div>
+                                            <div class="event-info">
+                                                <h4 class="event-title"><a href="#">Indonesia Fintech Forum 2019</a>
+                                                </h4>
+                                                <ul class="media-post">
+                                                    <li><a href="#"><i class="fa fa-clock-o"></i> 8:00 AM – 3:30 PM</a>
+                                                    </li>
+                                                    <li><a href="#"><i class="fa fa-map-marker"></i> Dhanapala Building,
+                                                            Jakarta</a>
+                                                    </li>
+                                                </ul>
+                                                <p>
+                                                    We realize networking is a major drawcard for Indonesia Fintech
+                                                    Forum 2019. The
+                                                    organizers will be bringing a business matchmaking segment.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="event-bx">
+                                        <div class="action-box">
+                                            <img src="{{ asset('homepages/images/event/img3.jpg') }}" alt="">
+                                        </div>
+                                        <div class="info-bx d-flex">
+                                            <div>
+                                                <div class="event-time">
+                                                    <div class="event-date">9</div>
+                                                    <div class="event-month">November</div>
+                                                </div>
+                                            </div>
+                                            <div class="event-info">
+                                                <h4 class="event-title"><a href="#">Terapi Ngomong Inggris 2019</a></h4>
+                                                <ul class="media-post">
+                                                    <li><a href="#"><i class="fa fa-clock-o"></i> 08.00 AM - 5.00 PM</a>
+                                                    </li>
+                                                    <li><a href="#"><i class="fa fa-map-marker"></i> Kota Tua,
+                                                            Jakarta</a></li>
+                                                </ul>
+                                                <p>
+                                                    Terapi Ngomong Inggris is practicing English with native speakers &
+                                                    fun games at
+                                                    Jakarta (Kota Tua & Monas) that held by ngomonginggris.com for free.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <a href="#" class="btn">View All Event</a>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Testimonials -->
+                <div class="section-area section-sp2 bg-fix ovbl-dark"
+                    style="background-image:url('{{ asset('homepages/images/background/bg2.jpg') }}');">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 text-white heading-bx left">
+                                <h2 class="title-head text-uppercase">Salam <span>Rektor</span></h2>
+                                <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page</p> -->
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-bx">
+                                <div class="testimonial-thumb">
+                                    <img src="{{ asset('homepages/images/dr-cho.jpg') }}" alt="">
+                                </div>
+                                <div class="testimonial-info">
+                                    <h5 class="name">Prof. Cho, Jang Youn Ph.D., CPA</h5>
+                                    <p>Rektor</p>
+                                </div>
+                                <div class="testimonial-content">
+                                    <p style="padding-bottom: 0.5em; text-align: justify;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selamat datang di Universitas Siber pertama di
+                                        Indonesia,
+                                        Universitas Siber Asia / Asia Cyber University. Universitas kami didirikan sejak
+                                        2019 untuk
+                                        memenuhi kebutuhan abad ke 21, pemimpin professional dalam masyarakat digital
+                                        yang cerdas
+                                        dalam era revolusi industri ke 4.
+                                    </p>
+                                    <p style="padding-bottom: 0.5em; text-align: justify;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indonesia adalah negara kepulauan yang terdiri
+                                        dari hampir
+                                        17.000 pulau dengan populasi sekitar 270 juta penduduk. Maka dari itu, Indonesia
+                                        memiliki
+                                        kesempatan yang strategis untuk menjadi pemain kunci dalam kompetisi global,
+                                        memimpin pasar
+                                        ekonomi digital. Ini membutuhkan pengembangan Sumber Daya Manusia yang memiliki
+                                        keterampilan
+                                        utama dalam hal literasi Teknologi Informasi dan Sains terapan. Untuk memenuhi
+                                        tujuan ini,
+                                        Pendidikan secara massif yang diselenggarakan melalui Sistem Pendidikan tinggi
+                                        adalah
+                                        satu-satunya solusi mengingat perbedaan kondisi geografis di Indonesia sekaligus
+                                        perbedaan
+                                        kualitas.
+                                    </p>
+                                    <p style="padding-bottom: 0.5em; text-align: justify;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setiap tahun, lebih dari 2 juta orang berbakat
+                                        yang tamat dari
+                                        Sekolah Menengah Atas kehilangan kesempatan untuk melanjutkan Pendidikan tinggi,
+                                        kasus
+                                        terbanyak disebabkan oleh masalah ekonomi dan masalah-masalah penting lainnya.
+                                        Universitas
+                                        Siber kami menyediakan solusi yang akan menyediakan layanan pendidikan
+                                        berkualitas terbaik,
+                                        kapanpun, dan dimanapun anda, tanpa bias apapun, dengan biaya Pendidikan yang
+                                        terjangkau.
+                                        Pendidikan Tinggi berbasis daring dapat membawa Anda menuju puncak melalui
+                                        sebuah sistem
+                                        pembelajaran yang dapat di akses dimana saja tanpa perlu berada di kota besar.
+                                        Sistem
+                                        Pembelajaran Online memandu setiap siswa untuk menjadi pembelajar yang aktif dan
+                                        penuh
+                                        kegembiraan melalui aktivitas interaktif dan didukung oleh materi digital dalam
+                                        Sistem
+                                        Manajemen Pembelajaran (Learning Management System).
+                                    </p>
+                                    <p style="padding-bottom: 0.5em; text-align: justify;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anda akan menjadi kelompok pionir untuk mendobrak
+                                        bias yang
+                                        menggambarkan bahwa Pendidikan hanya mungkin dilakukan bila melalui fasilitas
+                                        fisik. Anda
+                                        akan mencapai perkuliahan kelas dunia dengan dukungan teratas dari staf
+                                        professional dan
+                                        teknologi pendidikan kami. Selamat datang dan semoga kita dapat memulai
+                                        perjalanan bersama
+                                        untuk menuliskan cerita sukses Anda, bersama kami.
+                                    </p>
+                                    <p style="padding-bottom: 0.5em;">
+                                        Hormat kami,
+                                    </p>
+                                    <p style="padding-bottom: 0.5em;">
+                                        Rektor,
+                                    </p>
+                                    <p style="padding-bottom: 0.5em;">
+                                        Prof. Cho, Jang Youn Ph.D., CPA.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Testimonials END -->
+
+                <!-- Recent News -->
+                <section class="section-area section-sp2 page-section" id="berita">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 heading-bx left">
+                                <h2 class="title-head">Berita <span>Terbaru</span></h2>
+                                <p>Artikel-artikel terbaru tentang Universitas Siber Asia</p>
+                            </div>
+                        </div>
+                        <div class="recent-news-carousel owl-carousel owl-btn-1 col-12 p-lr0">
+                            <div class="item">
+                                <div class="recent-news">
+                                    <div class="action-box">
+                                        <img src="{{ asset('homepages/images/berita/beranda/satu.jpg') }}" alt="">
+                                    </div>
+                                    <div class="info-bx">
+                                        <ul class="media-post">
+                                            <li><a href="#"><i class="fa fa-calendar"></i>Agustus 26, 2019</a></li>
+                                            <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
+                                        </ul>
+                                        <h5 class="post-title"><a
+                                                href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/">YMIK
+                                                Terima Izin Pendirian Universitas Siber Pertama di Indonesia</a></h5>
+                                        <p>BALI (YMIK) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menerima izin
+                                            prinsip
+                                            pendirian Universitas Siber Asia dari ...</p>
+                                        <div class="post-extra">
+                                            <a href="https://www.unas.ac.id/berita/ymik-terima-izin-pendirian-universitas-siber-pertama-di-indonesia/"
+                                                class="btn-link">READ MORE</a>
+                                            {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>20 Comment</a> --}}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="recent-news">
+                                    <div class="action-box">
+                                        <img src="{{ asset('homepages/images/berita/beranda/dua.jpg') }}" alt="">
+                                    </div>
+                                    <div class="info-bx">
+                                        <ul class="media-post">
+                                            <li><a href="#"><i class="fa fa-calendar"></i>Februari 13, 2017</a></li>
+                                            <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
+                                        </ul>
+                                        <h5 class="post-title"><a
+                                                href="https://www.unas.ac.id/berita/universitas-nasional-resmikan-gedung-kuliah-baru/">YMIK
+                                                RESMIKAN GEDUNG KULIAH BARU</a></h5>
+                                        <p>JAKARTA (UNAS) – Yayasan Memajukan Ilmu dan Kebudayaan (YMIK) menambah
+                                            fasilitas baru untuk perkuliahan, dengan meresmikan Gedung baru di kawasan
+                                            Jakarta Selatan. Gedung ...</p>
+                                        <div class="post-extra">
+                                            <a href="https://www.unas.ac.id/berita/universitas-nasional-resmikan-gedung-kuliah-baru/"
+                                                class="btn-link">READ MORE</a>
+                                            {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>14 Comment</a> --}}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="recent-news">
+                                    <div class="action-box">
+                                        <img src="{{ asset('homepages/images/berita/beranda/tiga.jpg') }}" alt="">
+                                    </div>
+                                    <div class="info-bx">
+                                        <ul class="media-post">
+                                            <li><a href="#"><i class="fa fa-calendar"></i>September 4, 2016</a></li>
+                                            <li><a href="#"><i class="fa fa-user"></i>By MPR UNAS</a></li>
+                                        </ul>
+                                        <h5 class="post-title"><a href="https://www.unas.ac.id/berita/4665/">Rintis
+                                                Cyber University
+                                                dengan Universitas Korea Selatan</a></h5>
+                                        <p>JAKARTA (UNAS) – Yayasan Memajukan Ilmu dan Kebudayaan, melalui Universitas
+                                            Nasional
+                                            kembali meningkatkan kerjasama dengan ...</p>
+                                        <div class="post-extra">
+                                            <a href="https://www.unas.ac.id/berita/4665/" class="btn-link">READ MORE</a>
+                                            {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>23 Comment</a> --}}
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </section>
+                <!-- Recent News End -->
+
+                <!-- Testimonials -->
+                <div class="section-area section-sp2 bg-fix ovbl-dark"
+                    style="background-image:url('{{ asset('homepages/images/background/bg2.jpg') }}');">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 text-white heading-bx left">
+                                <h2 class="title-head text-uppercase">Video Teaser</h2>
+                                <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page</p> -->
+                            </div>
+                        </div>
+                        <div class="row row-cols-1 row-cols-md-2">
+                            <div class="col mb-4">
+                                <div class="card">
+                                    <video controls
+                                        src="{{ asset('homepages/images/video/teaservideo1.mp4') }}"></video>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Video Teaser Pelatihan</h5>
+                                        <p class="card-text">Universitas Siber Asia secara regular atau setiap akhir
+                                            semester
+                                            menyelenggarakan Pelatihan Profesional Bersertifikasi dengan tujuan untuk
+                                            mempersiapkan
+                                            lulusan yang siap berkiprah di dunia kerja dalam Era Smart Digital Economy.
+                                            Pelatihan
+                                            secara rutin diumumkan dalam kalender akademik mahasiswa wajib mengikuti
+                                            pelatihan
+                                            tersebut secara online.</p>
+                                        <a href="{{ route('landing.teaser_video_pelatihan') }}"
+                                            class="btn btn-primary">Read
+                                            More</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col mb-4">
+                                <div class="card">
+                                    <video controls
+                                        src="{{ asset('homepages/images/video/teaservideo2.mp4') }}"></video>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Video Teaser Pembelajaran</h5>
+                                        <p class="card-text">Salah satu materi utama pembelajaran online dalam LMS
+                                            (Learning Management System) adalah tersedianya video pembelajaran di setiap
+                                            minggu
+                                            perkuliahan. Anda dapat mengaksesnya setiap minggu dengan berulang-ulang
+                                            untuk dapat
+                                            memperjelas pemahaman anda tentang materi yang dirancang setiap minggu.</p>
+                                        <a href="{{ route('landing.teaser_video_pembelajaran') }}"
+                                            class="btn btn-primary">Read
+                                            More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Testimonials END -->
+            </div>
+            <!-- contact area END -->
+        </div>
+        <!-- Content END-->
+        <!-- Footer ==== -->
+        <footer>
+            <div class="footer-top">
+                <div class="pt-exebar">
+                    <div class="container">
+                        <div class="d-flex align-items-stretch">
+                            <div class="pt-logo mr-auto">
+                                <a href="/"><img src="{{ asset('homepages/images/logo-usa.png') }}" alt=""
+                                        width="211px" /></a>
+                            </div>
+                            <div class="pt-social-link">
+                                <ul class="list-inline m-a0">
+                                    <li><a href="#" class="btn-link"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#" class="btn-link"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i
+                                                class="fa fa-instagram"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="pt-btn-join">
+                                <a href="http://portal.koreaswt.com/apply/index.jsp" class="btn ">Daftar Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-12 col-sm-12 footer-col-4">
+                            <div class="widget">
+                                <h5 class="footer-title">Ikuti Kami</h5>
+                                <p class="m-b20">Masukkan email anda untuk mengetahui info terupdate dari kami</p>
+                                <div class="subscribe-form m-b20">
+                                    <form class="subscription-form" action="#" method="post">
+                                        <div class="ajax-message"></div>
+                                        <div class="input-group">
+                                            <input name="email" required="required" class="form-control"
+                                                placeholder="Your Email Address" type="email">
+                                            <span class="input-group-btn">
+                                                <button name="submit" value="Submit" type="submit" class="btn"><i
+                                                        class="fa fa-arrow-right"></i></button>
+                                            </span>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-5 col-md-7 col-sm-12">
+                            <div class="row">
+                                <div class="col-4 col-lg-4 col-md-4 col-sm-4">
+                                    <div class="widget footer_widget">
+                                        <h5 class="footer-title">UNSIA</h5>
+                                        <ul>
+                                            <li><a href="/">Beranda</a></li>
+                                            <li><a href="{{ route('landing.about') }}">Tentang Kami</a></li>
+                                            <li><a href="{{ route('landing.faq') }}">Tanya Jawab</a></li>
+                                            <li><a href="{{ route('landing.kontak') }}">Kontak</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-8 col-lg-8 col-md-8 col-sm-8">
+                                    <div class="widget footer_widget">
+                                        <h5 class="footer-title">Program Studi</h5>
+                                        <ul>
+                                            <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a>
+                                            </li>
+                                            <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
+                                            <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
+                                            <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
+                                                    Perpajakan</a></li>
+                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan
+                                                    Komunikasi Digital</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-3 col-md-5 col-sm-12 footer-col-4">
+                            <div class="widget widget_gallery gallery-grid-4">
+                                <h5 class="footer-title">Galeri Kami</h5>
+                                <ul class="magnific-image">
+                                    <li><a href="{{ asset('homepages/images/gallery/pic1.jpg') }}"
+                                            class="magnific-anchor"><img
+                                                src="{{ asset('homepages/images/gallery/thumbnail1.jpg') }}" alt=""></a>
+                                    </li>
+                                    <li><a href="{{ asset('homepages/images/gallery/pic2.jpg') }}"
+                                            class="magnific-anchor"><img
+                                                src="{{ asset('homepages/images/gallery/thumbnail2.jpg') }}" alt=""></a>
+                                    </li>
+                                    <li><a href="{{ asset('homepages/images/gallery/pic3.jpg') }}"
+                                            class="magnific-anchor"><img
+                                                src="{{ asset('homepages/images/gallery/thumbnail3.jpg') }}" alt=""></a>
+                                    </li>
+                                    <li><a href="{{ asset('homepages/images/gallery/pic4.jpg') }}"
+                                            class="magnific-anchor"><img
+                                                src="{{ asset('homepages/images/gallery/thumbnail4.jpg') }}" alt=""></a>
+                                    </li>
+                                    <li><a href="{{ asset('homepages/images/gallery/pic5.jpg') }}"
+                                            class="magnific-anchor"><img
+                                                src="{{ asset('homepages/images/gallery/thumbnail5.jpg') }}" alt=""></a>
+                                    </li>
+                                    <li><a href="{{ asset('homepages/images/gallery/pic6.jpg') }}"
+                                            class="magnific-anchor"><img
+                                                src="{{ asset('homepages/images/gallery/thumbnail6.jpg') }}" alt=""></a>
+                                    </li>
+                                    <li><a href="{{ asset('homepages/images/gallery/pic7.jpg') }}"
+                                            class="magnific-anchor"><img
+                                                src="{{ asset('homepages/images/gallery/thumbnail7.jpg') }}" alt=""></a>
+                                    </li>
+                                    <li><a href="{{ asset('homepages/images/gallery/pic8.jpg') }}"
+                                            class="magnific-anchor"><img
+                                                src="{{ asset('homepages/images/gallery/thumbnail8.jpg') }}" alt=""></a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <?php echo date("Y"); ?> | Copyright ©
-                        Universitas Siber Asia <br> Tema oleh <a target="_blank"
-                            href="https://www.templateshub.net">templateshub.net</a></div>
+            <div class="footer-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 text-center"> <?php echo date("Y"); ?> | Copyright ©
+                            Universitas Siber Asia <br> Tema oleh <a target="_blank"
+                                href="https://www.templateshub.net">templateshub.net</a></div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </footer>
-    <!-- Footer END ==== -->
-    <button class="back-to-top fa fa-chevron-up"></button>
+        </footer>
+        <!-- Footer END ==== -->
+        <button class="back-to-top fa fa-chevron-up"></button>
     </div>
 
     <!-- External JavaScripts -->
