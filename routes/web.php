@@ -20,6 +20,11 @@ Route::get('/', 'LandingController@index')->name('landing.index');
 Route::get('/tentang-unsia/salam-rektor', 'LandingController@salam_rektor')->name('landing.salam_rektor');
 Route::get('/tentang-unsia/kenapa-unsia', 'LandingController@kenapa_unsia')->name('landing.kenapa_unsia');
 Route::get('/tentang-unsia/keunggulan-dan-manfaat-unsia', 'LandingController@keunggulan_unsia')->name('landing.keunggulan_unsia');
+Route::get('/tentang-unsia/faq', 'LandingController@faq')->name('landing.faq');
+Route::get('/tentang-unsia/list-of-partner', 'LandingController@list_of_partner')->name('landing.list_of_partner');
+Route::get('/tentang-unsia/visi-misi', 'LandingController@visi_misi')->name('landing.visi_misi');
+Route::get('/tentang-unsia/struktur-organisasi', 'LandingController@struktur_organisasi')->name('landing.struktur_organisasi');
+Route::get('/tentang-unsia/sejarah-unsia', 'LandingController@sejarah')->name('landing.sejarah');
 // Fasilitas
 Route::get('/fasilitas/learning-community', 'LandingController@learning_community')->name('landing.learning_community');
 Route::get('/fasilitas/laboratorium-virtual', 'LandingController@laboratorium_virtual')->name('landing.laboratorium_virtual');
@@ -33,25 +38,25 @@ Route::get('/akademik/program-kampus-merdeka', 'LandingController@program_kampus
 
 Route::get('/teaser-video-pelatihan', 'LandingController@teaser_video_pelatihan')->name('landing.teaser_video_pelatihan');
 Route::get('/teaser-video-pembelajaran', 'LandingController@teaser_video_pembelajaran')->name('landing.teaser_video_pembelajaran');
-Route::get('/faq', 'LandingController@faq')->name('landing.faq');
+
 Route::get('/teaching-professor', 'LandingController@teaching_professor')->name('landing.teaching_professor');
 Route::get('/about-unsia', 'LandingController@about')->name('landing.about');
-Route::get('/sejarah-unsia', 'LandingController@sejarah')->name('landing.sejarah');
-Route::get('/admission-info', 'LandingController@admission_info')->name('landing.admission_info');
+
+Route::get('/penerimaan/jenjang-s1/persyaratan-pendaftaran', 'LandingController@admission_info')->name('landing.admission_info');
 Route::get('/kalender-akademik', 'LandingController@kalender_akademik')->name('landing.kalender_akademik');
 Route::get('/academic-program', 'LandingController@academic_program')->name('landing.academic_program');
 Route::get('/panduan-akademik', 'LandingController@academic_guide')->name('landing.academic_guide');
 Route::get('/study-guide', 'LandingController@study_guide')->name('landing.study_guide');
 Route::get('/keunggulan-lulusan', 'LandingController@keunggulan_lulusan')->name('landing.keunggulan_lulusan');
-Route::get('/visi-misi', 'LandingController@visi_misi')->name('landing.visi_misi');
-Route::get('/struktur-organisasi', 'LandingController@struktur_organisasi')->name('landing.struktur_organisasi');
+
+
 Route::get('/kontak', 'LandingController@kontak')->name('landing.kontak');
 Route::get('/arsip/berita', 'LandingController@berita')->name('landing.berita');
 Route::get('/arsip/siaran-pers', 'LandingController@siaran_pers')->name('landing.siaran_pers');
 Route::get('/peraturan-akademik', 'LandingController@peraturan_akademik')->name('landing.peraturan_akademik');
 Route::get('/penerimaan/jenjang-s1/info-pendaftaran', 'LandingController@jenjang_s1')->name('landing.jenjang_s1');
 Route::get('/penerimaan/akademik/panduan-pembelajaran-online', 'LandingController@panduan_pembelajaran_online')->name('landing.panduan_pembelajaran_online');
-Route::get('/penerimaan/tentang-unsia/list-of-partner', 'LandingController@list_of_partner')->name('landing.list_of_partner');
+
 
 /**
  * Academic

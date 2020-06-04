@@ -162,13 +162,17 @@
                                             <ul class="sub-menu">
                                                 <li><a href="{{ route('landing.jenjang_s1') }}">Info Pendaftaran</a>
                                                 </li>
+                                                <li><a href="{{ route('landing.admission_info') }}">Persyaratan
+                                                        Pendaftaran</a></li>
+                                                <li><a href="#">Periode Pendaftaran</a></li>
                                                 <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya
                                                 Perkuliahan</a></li>
                                         <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
-                                        <li><a href="{{ route('landing.pembiayaan_soft_loan') }}">Pembiayaan Soft Loan</a></li>
+                                        <li><a href="{{ route('landing.pembiayaan_soft_loan') }}">Pembiayaan Soft
+                                                Loan</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-sub @yield('active-akademik')"><a href="javascript:;">Akademik <i
@@ -203,7 +207,8 @@
                                                         Akademik</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="{{ route('landing.program_kampus_merdeka') }}">Program Kampus Merdeka</a></li>
+                                        <li><a href="{{ route('landing.program_kampus_merdeka') }}">Program Kampus
+                                                Merdeka</a></li>
                                         <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
                                                 Pembelajaran Online</a></li>
                                         <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran
@@ -430,7 +435,7 @@
     </script>
     <script src="{{ asset('homepages/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js') }}">
     </script>
-	<script src="{{ asset('homepages/vendors/revolution/js/extensions/revolution.extension.video.min.js') }}"></script>
+    <script src="{{ asset('homepages/vendors/revolution/js/extensions/revolution.extension.video.min.js') }}"></script>
     <script>
         jQuery(document).ready(function () {
             var ttrevapi;
@@ -553,7 +558,7 @@
                 }
             });
         }).scroll();
-	</script>
+    </script>
 </body>
 
 </html>

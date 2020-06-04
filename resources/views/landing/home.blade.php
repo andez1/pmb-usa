@@ -165,7 +165,8 @@
                                     <ul class="sub-menu sub">
                                         <li><a href="javascript:;">Jenjang S1<i class="fa fa-chevron-down"></i></a>
                                             <ul class="sub-menu">
-                                                <li><a href="#">Info Pendaftaran</a></li>
+                                                <li><a href="{{ route('landing.jenjang_s1') }}">Info Pendaftaran</a>
+                                                </li>
                                                 <li><a href="{{ route('landing.admission_info') }}">Persyaratan
                                                         Pendaftaran</a></li>
                                                 <li><a href="#">Periode Pendaftaran</a></li>

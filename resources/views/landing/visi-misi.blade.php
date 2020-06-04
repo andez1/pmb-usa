@@ -161,6 +161,9 @@
                                             <ul class="sub-menu">
                                                 <li><a href="{{ route('landing.jenjang_s1') }}">Info Pendaftaran</a>
                                                 </li>
+                                                <li><a href="{{ route('landing.admission_info') }}">Persyaratan
+                                                        Pendaftaran</a></li>
+                                                <li><a href="#">Periode Pendaftaran</a></li>
                                                 <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
                                             </ul>
                                         </li>
