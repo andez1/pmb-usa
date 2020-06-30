@@ -636,7 +636,7 @@
                                     style="background-color : white; padding : 24px;">
                                     <div class="row d-flex justify-content-center">
                                         <div class="link-web">
-                                            <a href="http://portal.koreaswt.com/portal/login">
+                                            <a href="http://portal.koreaswt.com/portal/login" target="_blank">
                                                 <div class="col mr-2 linklms">
                                                     <div class="text-center mb-5 imglms">
                                                         <img src="{{ asset('homepages/images/icon/academic.png') }}"
@@ -647,7 +647,7 @@
                                             </a>
                                         </div>
                                         <div class="link-web">
-                                            <a href="http://library.usahakecilmendigital.com/">
+                                            <a href="http://cyberlibrary.unsia.id/" target="_blank">
                                                 <div class="col mr-2 ml-2 linkdigilib">
                                                     <div class="text-center mb-5 imgdigilib">
                                                         <img src="{{ asset('homepages/images/icon/book.png') }}"
@@ -658,7 +658,7 @@
                                             </a>
                                         </div>
                                         <div class="link-web">
-                                            <a href="http://asiacyberuniversity.siakadcloud.com/">
+                                            <a href="https://akademik.unsia.id/gate/login" target="_blank">
                                                 <div class="col ml-2 linkinfo">
                                                     <div class="text-center mb-5 imginfo">
                                                         <img src="{{ asset('homepages/images/icon/information.png') }}"
