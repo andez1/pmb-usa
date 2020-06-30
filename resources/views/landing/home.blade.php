@@ -219,12 +219,12 @@
                                                 Merdeka</a></li>
                                         <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
                                                 Pembelajaran Online</a></li>
-                                        <li><a href="http://portal.koreaswt.com/portal/login">Sistem Pembelajaran
+                                        <li><a href="http://lms.unsia.id/">Sistem Pembelajaran
                                                 Online</a>
                                         </li>
-                                        <li><a href="http://asiacyberuniversity.siakadcloud.com/">Sistem Informasi
+                                        <li><a href="http://akademik.unsia.id/">Sistem Informasi
                                                 Akademik</a></li>
-                                        <li><a href="http://library.usahakecilmendigital.com/">Digital Library</a></li>
+                                        <li><a href="http://cyberlibrary.unsia.id">Digital Library</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="javascript:;">Fasilitas<i class="fa fa-chevron-down"></i></a>
