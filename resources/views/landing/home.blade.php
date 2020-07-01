@@ -1055,7 +1055,13 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-12 col-sm-12 footer-col-4">
                             <div class="widget">
-                                <h5 class="footer-title">Ikuti Kami</h5>
+                                <h5 class="footer-title">Kontak Kami</h5>
+                                <ul>
+                                    <li><i class="fa fa-home mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;Menara UNAS Ragunan</li>
+                                    <li><i class="fa fa-phone mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;+62-21-27806189</li>
+                                    <li><i class="fa fa-envelope mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;asiacyberuni@gmail.com</li>
+                                </ul>
+                                {{-- <h5 class="footer-title">Ikuti Kami</h5>
                                 <p class="m-b20">Masukkan email anda untuk mengetahui info terupdate dari kami</p>
                                 <div class="subscribe-form m-b20">
                                     <form class="subscription-form" action="#" method="post">
@@ -1069,7 +1075,7 @@
                                             </span>
                                         </div>
                                     </form>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                         <div class="col-12 col-lg-5 col-md-7 col-sm-12">
