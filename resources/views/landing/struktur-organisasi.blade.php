@@ -49,7 +49,7 @@
 								<td>2.</td>
 								<td>Rektor</td>
 								<td>:</td>
-								<td>Prof. Cho, Jang Youn Ph.D., CPA</td>
+								<td>Jang Youn Cho, Ph.D., CPA</td>
 								<td>cho.jy@lms-usa.site</td>
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
@@ -66,7 +66,7 @@
 								<td>4.</td>
 								<td>Wakil Rektor Administrasi Keuangan, SDM dan Kerjasama</td>
 								<td>:</td>
-								<td>Drs. Abdul Wahab Bangkona, M.Si.</td>
+								<td>Drs. Abdul Wahab Bangkona, M.Sc.</td>
 								<td>aw.bangkona@lms-usa.site</td>
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
@@ -74,7 +74,7 @@
 								<td>5.</td>
 								<td>Badan Penjaminan Mutu</td>
 								<td>:</td>
-								<td>Dr. Edi Sugiono, S.E, M.M.</td>
+								<td>Dr. Ir. Edi Sugiono, S.E., M.M.</td>
 								<td>edi.sugiono@lms-usa.site</td>
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
@@ -82,7 +82,7 @@
 								<td>6.</td>
 								<td>Biro Administrasi Akademik dan Kemahasiswaan</td>
 								<td>:</td>
-								<td>Dr. Ria, S.E., M.Ak.</td>
+								<td>Dr. (c) Ria, S.E., M.Ak.</td>
 								<td>ria@lms-usa.site</td>
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
@@ -90,44 +90,28 @@
 								<td>7.</td>
 								<td>Unit Pengembangan Teknologi Informasi</td>
 								<td>:</td>
-								<td>Novi Dian, S.Kom, M.M.S.I.</td>
+								<td>Novi Dian Nathasia, S.Kom., M.M.S.I.</td>
 								<td>novidian@lms-usa.site</td>
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
 							<tr>
 								<td>8.</td>
-								<td>Biro Penelitian dan Pengabdian Kepada Masyarakat</td>
-								<td>:</td>
-								<td>R. Muhammad Firza, S.Pd, M.Kom</td>
-								<td>m.firza@lms-usa.site</td>
-								<td><a href="#" class="btn btn-primary">Download CV</a></td>
-							</tr>
-							<tr>
-								<td>9.</td>
 								<td>Biro Kerjasama Nasional dan Internasional</td>
 								<td>:</td>
-								<td>Inez Saptenno, M.A.</td>
+								<td>Dra. Inez Saptenno, M.A.</td>
 								<td>inez.saptenno@lms-usa.site</td>
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
 							<tr>
-								<td>10.</td>
+								<td>9.</td>
 								<td>Biro Administrasi Umum, SDM dan Keuangan</td>
 								<td>:</td>
-								<td>Dr. Karyatun, S.E., M.M.</td>
+								<td>Dian Metha Ariyanti, S.Sos., M.Si.</td>
 								<td>karyatun@lms-usa.site</td>
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
 							<tr>
-								<td>11.</td>
-								<td>Biro Penerimaan Mahasiswa dan Promosi</td>
-								<td>:</td>
-								<td>Dian Meta, M.Si.</td>
-								<td>dianmetha@lms-usa.site</td>
-								<td><a href="#" class="btn btn-primary">Download CV</a></td>
-							</tr>
-							<tr>
-								<td>12.</td>
+								<td>10.</td>
 								<td>Ketua Program Studi Sistem Informasi</td>
 								<td>:</td>
 								<td>Andrianingsih, S.Kom, M.M.S.I</td>
@@ -135,7 +119,7 @@
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
 							<tr>
-								<td>13.</td>
+								<td>11.</td>
 								<td>Ketua Program Studi Manajemen</td>
 								<td>:</td>
 								<td>Drs. Suadi, M.M.</td>
@@ -143,7 +127,7 @@
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
 							<tr>
-								<td>14.</td>
+								<td>12.</td>
 								<td>Ketua Program Studi Teknik Informatika</td>
 								<td>:</td>
 								<td>Eri Mardiana, S.Kom, M.Kom</td>
@@ -151,7 +135,7 @@
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
 							<tr>
-								<td>15.</td>
+								<td>13.</td>
 								<td>Ketua Program Studi Akuntansi</td>
 								<td>:</td>
 								<td>Dr Bambang Sudibyo</td>
@@ -159,7 +143,7 @@
 								<td><a href="#" class="btn btn-primary">Download CV</a></td>
 							</tr>
 							<tr>
-								<td>16.</td>
+								<td>14.</td>
 								<td>Ketua Program Studi Komunikasi</td>
 								<td>:</td>
 								<td>Rosanah, S.S., M.IKom</td>

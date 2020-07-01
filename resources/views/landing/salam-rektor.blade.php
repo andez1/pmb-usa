@@ -43,8 +43,10 @@
 									<p style="text-align: justify;">
 										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anda akan menjadi kelompok pionir untuk mendobrak bias yang menggambarkan bahwa Pendidikan hanya mungkin dilakukan bila melalui fasilitas fisik. Anda akan mencapai perkuliahan kelas dunia dengan dukungan teratas dari staf professional dan teknologi pendidikan kami. Selamat datang dan semoga kita dapat memulai perjalanan bersama untuk menuliskan cerita sukses Anda, bersama kami.
 									</p>
-                                    <p>Hormat kami, <br> Rektor, <br> Prof. Cho, Jang Youn  Ph.D., CPA </p>
+                                    <p>Hormat kami, <br> Rektor, <br>Jang Youn Cho, Ph.D., CPA</p>
 								</div>
+
+								<hr>
 								
 								<p>BA. Hankuk Univ of Foreign Studies, Korea <br>
 									Master of  Accounting, Univ. Of Texas, U.S.A. <br>

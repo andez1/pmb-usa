@@ -83,12 +83,12 @@
                         </div>
                         <div class="topbar-right">
                             <ul>
-                                <li>
+                                {{-- <li>
                                     <select class="header-lang-bx">
                                         <option data-icon="flag flag-id">Indonesia</option>
                                         <option data-icon="flag flag-us">English US</option>
                                     </select>
-                                </li>
+                                </li> --}}
                                 <!-- <li><a href="{{ route('login') }}">Login</a></li>
 							<li><a href="{{ route('student.form_create_account') }}">Register</a></li> -->
                             </ul>
@@ -115,11 +115,11 @@
                         <div class="secondary-menu">
                             <div class="secondary-inner">
                                 <ul>
-                                    <li><a href="javascript:;" class="btn-link"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i
+                                    <li><a href="javascript:;" class="btn-link" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link" target="_blank"><i
                                                 class="fa fa-instagram"></i></a>
                                     </li>
-                                    <li><a href="javascript:;" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="javascript:;" class="btn-link" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                     <!-- Search Button ==== -->
                                     <li class="search-btn"><button id="quik-search-btn" type="button"
                                             class="btn-link"><i class="fa fa-search"></i></button></li>
@@ -170,7 +170,7 @@
                                                 <li><a href="{{ route('landing.admission_info') }}">Persyaratan
                                                         Pendaftaran</a></li>
                                                 <li><a href="#">Periode Pendaftaran</a></li>
-                                                <li><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar</a></li>
+                                                <li><a href="http://portal.koreaswt.com/apply/index.jsp" target="_blank">Daftar</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya
@@ -219,12 +219,12 @@
                                                 Merdeka</a></li>
                                         <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
                                                 Pembelajaran Online</a></li>
-                                        <li><a href="http://lms.unsia.id/">Sistem Pembelajaran
+                                        <li><a href="http://lms.unsia.id/" target="_blank">Sistem Pembelajaran
                                                 Online</a>
                                         </li>
-                                        <li><a href="http://akademik.unsia.id/">Sistem Informasi
+                                        <li><a href="http://akademik.unsia.id/" target="_blank">Sistem Informasi
                                                 Akademik</a></li>
-                                        <li><a href="http://cyberlibrary.unsia.id">Digital Library</a></li>
+                                        <li><a href="http://cyberlibrary.unsia.id" target="_blank">Digital Library</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="javascript:;">Fasilitas<i class="fa fa-chevron-down"></i></a>
@@ -801,7 +801,7 @@
                                     <img src="{{ asset('homepages/images/dr-cho.jpg') }}" alt="">
                                 </div>
                                 <div class="testimonial-info">
-                                    <h5 class="name">Prof. Cho, Jang Youn Ph.D., CPA</h5>
+                                    <h5 class="name">Jang Youn Cho, Ph.D., CPA</h5>
                                     <p>Rektor</p>
                                 </div>
                                 <div class="testimonial-content">
@@ -870,7 +870,7 @@
                                         Rektor,
                                     </p>
                                     <p style="padding-bottom: 0.5em;">
-                                        Prof. Cho, Jang Youn Ph.D., CPA.
+                                        Jang Youn Cho, Ph.D., CPA.
                                     </p>
                                 </div>
                             </div>
@@ -1038,15 +1038,15 @@
                             </div>
                             <div class="pt-social-link">
                                 <ul class="list-inline m-a0">
-                                    <li><a href="#" class="btn-link"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="btn-link"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" class="btn-link"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i
+                                    <li><a href="#" class="btn-link" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#" class="btn-link" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#" class="btn-link" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.instagram.com/asiacyberuniversity/" class="btn-link" target="_blank"><i
                                                 class="fa fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                             <div class="pt-btn-join">
-                                <a href="http://portal.koreaswt.com/apply/index.jsp" class="btn ">Daftar Sekarang</a>
+                                <a href="http://portal.koreaswt.com/apply/index.jsp" class="btn" target="_blank">Daftar Sekarang</a>
                             </div>
                         </div>
                     </div>
