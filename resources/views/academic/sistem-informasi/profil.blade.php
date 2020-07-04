@@ -70,7 +70,7 @@
                                 <tr>
                                     <th>Website</th>
                                     <td><a
-                                            href="https://pmb.lms-usa.site/sistem-informasi">https://pmb.lms-usa.site/sistem-informasi</a>
+                                            href="http://unsia.id/sistem-informasi">http://unsia.id/sistem-informasi</a>
                                     </td>
                                 </tr>
                                 <tr>

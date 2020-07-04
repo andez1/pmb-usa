@@ -59,7 +59,7 @@
                                 <tr>
                                     <th>Website</th>
                                     <td><a
-                                            href="https://pmb.lms-usa.site/akuntansi-dan-perpajakan">https://pmb.lms-usa.site/akuntansi-dan-perpajakan</a>
+                                            href="http://unsia.id/akuntansi-dan-perpajakan">http://unsia.id/akuntansi-dan-perpajakan</a>
                                     </td>
                                 </tr>
                                 <tr>

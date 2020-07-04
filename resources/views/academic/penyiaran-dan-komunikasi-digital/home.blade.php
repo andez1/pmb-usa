@@ -61,8 +61,8 @@
                                 </tr>
                                 <tr>
                                     <th>Website</th>
-                                    <td><a href="https://pmb.lms-usa.site/penyiaran-dan-komunikasi-digital
-">https://pmb.lms-usa.site/penyiaran-dan-komunikasi-digital
+                                    <td><a href="http://unsia.id/penyiaran-dan-komunikasi-digital
+">http://unsia.id/penyiaran-dan-komunikasi-digital
                                         </a></td>
                                 </tr>
                                 <tr>
