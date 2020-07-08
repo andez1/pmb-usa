@@ -70,7 +70,7 @@
                                 <tr>
                                     <th>Website</th>
                                     <td><a
-                                            href="https://pmb.lms-usa.site/manajemen-kontemporer">https://pmb.lms-usa.site/manajemen-kontemporer</a>
+                                            href="http://unsia.id/manajemen-kontemporer">http://unsia.id/manajemen-kontemporer</a>
                                     </td>
                                 </tr>
                                 <tr>

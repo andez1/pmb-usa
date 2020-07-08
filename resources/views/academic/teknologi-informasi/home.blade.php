@@ -57,7 +57,7 @@
                                 <tr>
                                     <th>Website</th>
                                     <td><a
-                                            href="https://pmb.lms-usa.site/teknologi-informasi">https://pmb.lms-usa.site/teknologi-informasi</a>
+                                            href="http://unsia.id/teknologi-informasi">http://unsia.id/teknologi-informasi</a>
                                     </td>
                                 </tr>
                                 <tr>
